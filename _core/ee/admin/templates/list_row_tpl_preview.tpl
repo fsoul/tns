@@ -1,0 +1,1 @@
+	<a target="_blank" href="<%:EE_HTTP%>index.php?t=tpl_preview&tpl_name=<%:name%>"><img src="<%:EE_HTTP%>img/previewBt.gif" width="16" height="16" alt="<%str_to_title:<%cons:template_preview%>%>" title = "<%str_to_title:<%cons:template_preview%>%>" border="0"></a>&nbsp;&nbsp;

@@ -1,0 +1,1 @@
+<%edit_cms2:news_letter_body_<%:email_id%>%>

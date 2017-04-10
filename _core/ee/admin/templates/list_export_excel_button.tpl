@@ -1,0 +1,1 @@
+<a href="<%:modul%>.php?op=export_excel&load_cookie=true" title="Export to EXCEL"><img src="<%:EE_HTTP%>img/excelicon_24.gif" height="24" width="24" border="0" style="margin:5px;" alt="Export to EXCEL"/></a>

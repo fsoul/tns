@@ -1,0 +1,4962 @@
+
+	Date/Time: 2014-09-26 17:33:00
+
+Array
+(
+    [question_id] => 66
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 6797
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1001
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1001
+)
+
+
+
+	Date/Time: 2014-09-26 17:33:04
+
+Array
+(
+    [question_id] => 67
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 6805
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1002
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1002
+)
+
+
+
+	Date/Time: 2014-09-26 17:33:13
+
+Array
+(
+    [question_id] => 68
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [mincnt] => 6
+    [question_ans] => Array
+        (
+            [0] => 6810
+            [1] => 6816
+            [2] => 6822
+            [3] => 6828
+            [4] => 6834
+            [5] => 6840
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1003
+)
+
+
+Resource id #210
+
+Array
+(
+    [profile_answer_code_] => 1003
+)
+
+
+
+	Date/Time: 2014-10-08 11:48:09
+
+Array
+(
+    [question_id] => 1
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 4744
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1021
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1021
+)
+
+
+
+	Date/Time: 2014-10-08 11:48:15
+
+Array
+(
+    [question_id] => 2
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 4751
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1022
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1022
+)
+
+
+
+	Date/Time: 2014-10-08 11:48:24
+
+Array
+(
+    [question_id] => 3
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 4752
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1023
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1023
+)
+
+
+
+	Date/Time: 2014-10-08 11:48:39
+
+Array
+(
+    [question_id] => 4
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 4762
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1024
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1024
+)
+
+
+
+	Date/Time: 2014-10-08 11:48:46
+
+Array
+(
+    [question_id] => 5
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 4778
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1025
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1025
+)
+
+
+
+	Date/Time: 2014-10-08 11:48:51
+
+Array
+(
+    [question_id] => 6
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 4790
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1026
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1026
+)
+
+
+
+	Date/Time: 2014-10-08 11:48:57
+
+Array
+(
+    [question_id] => 7
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 4797
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1027
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1027
+)
+
+
+
+	Date/Time: 2014-10-08 11:49:14
+
+Array
+(
+    [question_id] => 8
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 4803
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1028
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1028
+)
+
+
+
+	Date/Time: 2014-10-08 11:49:28
+
+Array
+(
+    [question_id] => 9
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 4811
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1029
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1029
+)
+
+
+
+	Date/Time: 2014-10-08 11:49:33
+
+Array
+(
+    [question_id] => 10
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 4813
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1030
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1030
+)
+
+
+
+	Date/Time: 2014-10-08 11:49:40
+
+Array
+(
+    [question_id] => 11
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 4815
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1031
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1031
+)
+
+
+
+	Date/Time: 2014-10-08 11:49:46
+
+Array
+(
+    [question_id] => 12
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 4818
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1032
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1032
+)
+
+
+
+	Date/Time: 2014-10-08 11:49:51
+
+Array
+(
+    [question_id] => 13
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 4820
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1033
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1033
+)
+
+
+
+	Date/Time: 2014-10-08 11:50:02
+
+Array
+(
+    [question_id] => 63
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 6775
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1034
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1034
+)
+
+
+
+	Date/Time: 2014-10-08 11:50:11
+
+Array
+(
+    [question_id] => 64
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 6784
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1035
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1035
+)
+
+
+
+	Date/Time: 2014-10-08 11:50:18
+
+Array
+(
+    [question_id] => 65
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 7164
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1036
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1036
+)
+
+
+
+	Date/Time: 2014-10-08 11:50:26
+
+Array
+(
+    [question_id] => 66
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 6797
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1037
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1037
+)
+
+
+
+	Date/Time: 2014-10-08 11:50:32
+
+Array
+(
+    [question_id] => 67
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 6805
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1038
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1038
+)
+
+
+
+	Date/Time: 2014-10-08 11:50:49
+
+Array
+(
+    [question_id] => 68
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [mincnt] => 6
+    [question_ans] => Array
+        (
+            [0] => 6810
+            [1] => 6816
+            [2] => 6822
+            [3] => 6828
+            [4] => 6834
+            [5] => 6840
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1039
+)
+
+
+Resource id #210
+
+Array
+(
+    [profile_answer_code_] => 1039
+)
+
+
+
+	Date/Time: 2014-10-08 11:51:00
+
+Array
+(
+    [question_id] => 69
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 6846
+            [1] => 6847
+            [2] => 6848
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1040
+)
+
+
+Resource id #189
+
+Array
+(
+    [profile_answer_code_] => 1040
+)
+
+
+
+	Date/Time: 2014-10-08 11:51:10
+
+Array
+(
+    [question_id] => 70
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 6863
+            [1] => 6864
+            [2] => 6865
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1041
+)
+
+
+Resource id #189
+
+Array
+(
+    [profile_answer_code_] => 1041
+)
+
+
+
+	Date/Time: 2014-10-08 11:51:19
+
+Array
+(
+    [question_id] => 71
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 6871
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1042
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1042
+)
+
+
+
+	Date/Time: 2014-10-08 11:51:31
+
+Array
+(
+    [question_id] => 72
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 6881
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1043
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1043
+)
+
+
+
+	Date/Time: 2014-10-08 11:51:37
+
+Array
+(
+    [question_id] => 73
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 6889
+            [1] => 6890
+            [2] => 6891
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1044
+)
+
+
+Resource id #189
+
+Array
+(
+    [profile_answer_code_] => 1044
+)
+
+
+
+	Date/Time: 2014-10-08 11:51:43
+
+Array
+(
+    [question_id] => 74
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 6908
+            [1] => 6909
+            [2] => 6910
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1045
+)
+
+
+Resource id #189
+
+Array
+(
+    [profile_answer_code_] => 1045
+)
+
+
+
+	Date/Time: 2014-10-08 11:51:49
+
+Array
+(
+    [question_id] => 75
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 6927
+            [1] => 6928
+            [2] => 6929
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1046
+)
+
+
+Resource id #189
+
+Array
+(
+    [profile_answer_code_] => 1046
+)
+
+
+
+	Date/Time: 2014-10-08 11:52:13
+
+Array
+(
+    [question_id] => 76
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [last_question] => 1
+    [mincnt] => 24
+    [question_ans] => Array
+        (
+            [0] => 6946
+            [1] => 6955
+            [2] => 6964
+            [3] => 6973
+            [4] => 6982
+            [5] => 6991
+            [6] => 7000
+            [7] => 7009
+            [8] => 7018
+            [9] => 7027
+            [10] => 7036
+            [11] => 7045
+            [12] => 7054
+            [13] => 7063
+            [14] => 7072
+            [15] => 7081
+            [16] => 7090
+            [17] => 7099
+            [18] => 7108
+            [19] => 7117
+            [20] => 7126
+            [21] => 7135
+            [22] => 7144
+            [23] => 7153
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1047
+)
+
+
+Resource id #336
+
+Array
+(
+    [profile_answer_code_] => 1047
+)
+
+
+
+	Date/Time: 2014-10-08 11:56:02
+
+Array
+(
+    [question_id] => 44
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 5244
+            [1] => 5245
+            [2] => 5246
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1048
+)
+
+
+Resource id #189
+
+Array
+(
+    [profile_answer_code_] => 1048
+)
+
+
+
+	Date/Time: 2014-10-08 11:56:09
+
+Array
+(
+    [question_id] => 45
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 5260
+            [1] => 5261
+            [2] => 5262
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1049
+)
+
+
+Resource id #189
+
+Array
+(
+    [profile_answer_code_] => 1049
+)
+
+
+
+	Date/Time: 2014-10-08 11:56:18
+
+Array
+(
+    [question_id] => 46
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 5280
+            [1] => 5281
+            [2] => 5282
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1050
+)
+
+
+Resource id #189
+
+Array
+(
+    [profile_answer_code_] => 1050
+)
+
+
+
+	Date/Time: 2014-10-08 11:56:43
+
+Array
+(
+    [question_id] => 47
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 5295
+            [1] => 5296
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1051
+)
+
+
+Resource id #182
+
+Array
+(
+    [profile_answer_code_] => 1051
+)
+
+
+
+	Date/Time: 2014-10-08 11:56:47
+
+Array
+(
+    [question_id] => 48
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 5301
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1052
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1052
+)
+
+
+
+	Date/Time: 2014-10-08 11:56:56
+
+Array
+(
+    [question_id] => 49
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 5303
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1053
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1053
+)
+
+
+
+	Date/Time: 2014-10-08 11:57:05
+
+Array
+(
+    [question_id] => 50
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 5306
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1054
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1054
+)
+
+
+
+	Date/Time: 2014-10-08 11:57:24
+
+Array
+(
+    [question_id] => 51
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [mincnt] => 22
+    [question_ans] => Array
+        (
+            [0] => 5315
+            [1] => 5320
+            [2] => 5325
+            [3] => 5330
+            [4] => 5335
+            [5] => 5340
+            [6] => 5345
+            [7] => 5350
+            [8] => 5355
+            [9] => 5360
+            [10] => 5365
+            [11] => 5370
+            [12] => 5375
+            [13] => 5380
+            [14] => 5385
+            [15] => 5390
+            [16] => 5395
+            [17] => 5400
+            [18] => 5405
+            [19] => 5410
+            [20] => 5415
+            [21] => 5420
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1055
+)
+
+
+Resource id #322
+
+Array
+(
+    [profile_answer_code_] => 1055
+)
+
+
+
+	Date/Time: 2014-10-08 11:57:35
+
+Array
+(
+    [question_id] => 52
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 5421
+            [1] => 5423
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1056
+)
+
+
+Resource id #182
+
+Array
+(
+    [profile_answer_code_] => 1056
+)
+
+
+
+	Date/Time: 2014-10-08 11:57:49
+
+Array
+(
+    [question_id] => 53
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [last_question] => 1
+    [mincnt] => 16
+    [question_ans] => Array
+        (
+            [0] => 5455
+            [1] => 5462
+            [2] => 5469
+            [3] => 5476
+            [4] => 5483
+            [5] => 5490
+            [6] => 5497
+            [7] => 5504
+            [8] => 5511
+            [9] => 5518
+            [10] => 5525
+            [11] => 5532
+            [12] => 5539
+            [13] => 5546
+            [14] => 5553
+            [15] => 5560
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1057
+)
+
+
+Resource id #280
+
+Array
+(
+    [profile_answer_code_] => 1057
+)
+
+
+
+	Date/Time: 2014-10-08 11:59:14
+
+Array
+(
+    [question_id] => 38
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [mincnt] => 8
+    [question_ans] => Array
+        (
+            [0] => 5104
+            [1] => 5108
+            [2] => 5112
+            [3] => 5116
+            [4] => 5120
+            [5] => 5124
+            [6] => 5128
+            [7] => 5132
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1058
+)
+
+
+Resource id #224
+
+Array
+(
+    [profile_answer_code_] => 1058
+)
+
+
+
+	Date/Time: 2014-10-08 12:00:53
+
+Array
+(
+    [question_id] => 39
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [mincnt] => 8
+    [question_ans] => Array
+        (
+            [0] => 5136
+            [1] => 5140
+            [2] => 5144
+            [3] => 5148
+            [4] => 5152
+            [5] => 5156
+            [6] => 5160
+            [7] => 5164
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1059
+)
+
+
+Resource id #224
+
+Array
+(
+    [profile_answer_code_] => 1059
+)
+
+
+
+	Date/Time: 2014-10-08 12:01:00
+
+Array
+(
+    [question_id] => 40
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [mincnt] => 6
+    [question_ans] => Array
+        (
+            [0] => 5168
+            [1] => 5172
+            [2] => 5176
+            [3] => 5180
+            [4] => 5184
+            [5] => 5188
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1060
+)
+
+
+Resource id #210
+
+Array
+(
+    [profile_answer_code_] => 1060
+)
+
+
+
+	Date/Time: 2014-10-08 12:01:16
+
+Array
+(
+    [question_id] => 41
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [mincnt] => 7
+    [question_ans] => Array
+        (
+            [0] => 5192
+            [1] => 5196
+            [2] => 5200
+            [3] => 5204
+            [4] => 5208
+            [5] => 5212
+            [6] => 5216
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1061
+)
+
+
+Resource id #217
+
+Array
+(
+    [profile_answer_code_] => 1061
+)
+
+
+
+	Date/Time: 2014-10-08 12:01:22
+
+Array
+(
+    [question_id] => 42
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [mincnt] => 4
+    [question_ans] => Array
+        (
+            [0] => 5220
+            [1] => 5224
+            [2] => 5228
+            [3] => 5232
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1062
+)
+
+
+Resource id #196
+
+Array
+(
+    [profile_answer_code_] => 1062
+)
+
+
+
+	Date/Time: 2014-10-08 12:01:28
+
+Array
+(
+    [question_id] => 43
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 5236
+            [1] => 5237
+            [2] => 5238
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1063
+)
+
+
+Resource id #189
+
+Array
+(
+    [profile_answer_code_] => 1063
+)
+
+
+
+	Date/Time: 2014-10-08 12:01:41
+
+Array
+(
+    [question_id] => 14
+    [skip_to] => end
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 4822
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1064
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1064
+)
+
+
+
+	Date/Time: 2014-10-08 12:02:14
+
+Array
+(
+    [question_id] => 21
+    [skip_to] => 25
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 4943
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1065
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1065
+)
+
+
+
+	Date/Time: 2014-10-08 12:02:18
+
+Array
+(
+    [question_id] => 25
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 4957
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1066
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1066
+)
+
+
+
+	Date/Time: 2014-10-08 12:02:30
+
+Array
+(
+    [question_id] => 26
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 4959
+            [1] => 4960
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1067
+)
+
+
+Resource id #182
+
+Array
+(
+    [profile_answer_code_] => 1067
+)
+
+
+
+	Date/Time: 2014-10-08 12:02:35
+
+Array
+(
+    [question_id] => 27
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 4974
+            [1] => 4975
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1068
+)
+
+
+Resource id #182
+
+Array
+(
+    [profile_answer_code_] => 1068
+)
+
+
+
+	Date/Time: 2014-10-08 12:02:41
+
+Array
+(
+    [question_id] => 28
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 5012
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1069
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1069
+)
+
+
+
+	Date/Time: 2014-10-08 12:02:50
+
+Array
+(
+    [question_id] => 29
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 5052
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1070
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1070
+)
+
+
+
+	Date/Time: 2014-10-08 12:02:58
+
+Array
+(
+    [question_id] => 30
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [last_question] => 1
+    [question_ans] => Array
+        (
+            [0] => 5057
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1071
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1071
+)
+
+
+
+	Date/Time: 2014-10-08 12:03:51
+
+Array
+(
+    [question_id] => 31
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 5072
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1072
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1072
+)
+
+
+
+	Date/Time: 2014-10-08 12:03:55
+
+Array
+(
+    [question_id] => 32
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 5086
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1073
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1073
+)
+
+
+
+	Date/Time: 2014-10-08 12:04:00
+
+Array
+(
+    [question_id] => 33
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 5087
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1074
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1074
+)
+
+
+
+	Date/Time: 2014-10-08 12:04:19
+
+Array
+(
+    [question_id] => 34
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 5091
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1075
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1075
+)
+
+
+
+	Date/Time: 2014-10-08 12:04:27
+
+Array
+(
+    [question_id] => 35
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 5094
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1076
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1076
+)
+
+
+
+	Date/Time: 2014-10-08 12:04:32
+
+Array
+(
+    [question_id] => 36
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 5098
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1077
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1077
+)
+
+
+
+	Date/Time: 2014-10-08 12:04:47
+
+Array
+(
+    [question_id] => 37
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 5102
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1078
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1078
+)
+
+
+
+	Date/Time: 2014-10-08 12:04:50
+
+Array
+(
+    [question_id] => 54
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 5567
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1079
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1079
+)
+
+
+
+	Date/Time: 2014-10-08 12:06:29
+
+Array
+(
+    [question_id] => 55
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [mincnt] => 49
+    [question_ans] => Array
+        (
+            [0] => 5576
+            [1] => 5584
+            [2] => 5592
+            [3] => 5600
+            [4] => 5601
+            [5] => 5609
+            [6] => 5617
+            [7] => 5625
+            [8] => 5633
+            [9] => 5641
+            [10] => 5649
+            [11] => 5657
+            [12] => 5665
+            [13] => 5673
+            [14] => 5681
+            [15] => 5689
+            [16] => 5697
+            [17] => 5705
+            [18] => 5713
+            [19] => 5721
+            [20] => 5729
+            [21] => 5737
+            [22] => 5745
+            [23] => 5753
+            [24] => 5761
+            [25] => 5769
+            [26] => 5777
+            [27] => 5785
+            [28] => 5793
+            [29] => 5801
+            [30] => 5809
+            [31] => 5817
+            [32] => 5825
+            [33] => 5833
+            [34] => 5841
+            [35] => 5849
+            [36] => 5857
+            [37] => 5865
+            [38] => 5873
+            [39] => 5881
+            [40] => 5889
+            [41] => 5897
+            [42] => 5905
+            [43] => 5913
+            [44] => 5921
+            [45] => 5929
+            [46] => 5937
+            [47] => 5945
+            [48] => 5953
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1080
+)
+
+
+Resource id #511
+
+Array
+(
+    [profile_answer_code_] => 1080
+)
+
+
+
+	Date/Time: 2014-10-08 12:07:17
+
+Array
+(
+    [question_id] => 56
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 5962
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1081
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1081
+)
+
+
+
+	Date/Time: 2014-10-08 12:07:53
+
+Array
+(
+    [question_id] => 57
+    [skip_to] => 59
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 5965
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1082
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1082
+)
+
+
+
+	Date/Time: 2014-10-08 12:07:56
+
+Array
+(
+    [question_id] => 59
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 6134
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1083
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1083
+)
+
+
+
+	Date/Time: 2014-10-08 12:08:29
+
+Array
+(
+    [question_id] => 60
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [mincnt] => 40
+    [question_ans] => Array
+        (
+            [0] => 6136
+            [1] => 6142
+            [2] => 6148
+            [3] => 6154
+            [4] => 6160
+            [5] => 6166
+            [6] => 6172
+            [7] => 6178
+            [8] => 6184
+            [9] => 6190
+            [10] => 6196
+            [11] => 6202
+            [12] => 6208
+            [13] => 6214
+            [14] => 6220
+            [15] => 6226
+            [16] => 6232
+            [17] => 6238
+            [18] => 6244
+            [19] => 6250
+            [20] => 6256
+            [21] => 6262
+            [22] => 6268
+            [23] => 6274
+            [24] => 6280
+            [25] => 6286
+            [26] => 6292
+            [27] => 6298
+            [28] => 6304
+            [29] => 6310
+            [30] => 6316
+            [31] => 6322
+            [32] => 6328
+            [33] => 6334
+            [34] => 6340
+            [35] => 6346
+            [36] => 6352
+            [37] => 6358
+            [38] => 6364
+            [39] => 6370
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1084
+)
+
+
+Resource id #448
+
+Array
+(
+    [profile_answer_code_] => 1084
+)
+
+
+
+	Date/Time: 2014-10-08 12:08:59
+
+Array
+(
+    [question_id] => 61
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [question_ans] => Array
+        (
+            [0] => 6376
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1085
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1085
+)
+
+
+
+	Date/Time: 2014-10-08 12:10:19
+
+Array
+(
+    [question_id] => 62
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [last_question] => 1
+    [mincnt] => 70
+    [question_ans] => Array
+        (
+            [0] => 6378
+            [1] => 6384
+            [2] => 6390
+            [3] => 6396
+            [4] => 6402
+            [5] => 6408
+            [6] => 6414
+            [7] => 6420
+            [8] => 6426
+            [9] => 6432
+            [10] => 6438
+            [11] => 6444
+            [12] => 6450
+            [13] => 6456
+            [14] => 6462
+            [15] => 6468
+            [16] => 6474
+            [17] => 6480
+            [18] => 6486
+            [19] => 6492
+            [20] => 6498
+            [21] => 6504
+            [22] => 6510
+            [23] => 6516
+            [24] => 6522
+            [25] => 6528
+            [26] => 6534
+            [27] => 6540
+            [28] => 6546
+            [29] => 6552
+            [30] => 6558
+            [31] => 6564
+            [32] => 6570
+            [33] => 6576
+            [34] => 6582
+            [35] => 6588
+            [36] => 6594
+            [37] => 6600
+            [38] => 6606
+            [39] => 6612
+            [40] => 6618
+            [41] => 6624
+            [42] => 6630
+            [43] => 6636
+            [44] => 6642
+            [45] => 6648
+            [46] => 6654
+            [47] => 6660
+            [48] => 6666
+            [49] => 6672
+            [50] => 6678
+            [51] => 6684
+            [52] => 6690
+            [53] => 6696
+            [54] => 6702
+            [55] => 6708
+            [56] => 6714
+            [57] => 6720
+            [58] => 6726
+            [59] => 6732
+            [60] => 6738
+            [61] => 6744
+            [62] => 6750
+            [63] => 6756
+            [64] => 6762
+            [65] => 6768
+            [66] => 6774
+            [67] => 6780
+            [68] => 6786
+            [69] => 6792
+            [70] => 6798
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1086
+)
+
+
+Resource id #665
+
+Array
+(
+    [profile_answer_code_] => 1086
+)
+
+
+
+	Date/Time: 2014-10-08 12:38:15
+
+Array
+(
+    [question_id] => 69
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 6846
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1087
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1087
+)
+
+
+
+	Date/Time: 2014-10-08 12:38:17
+
+Array
+(
+    [question_id] => 70
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 6863
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1088
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1088
+)
+
+
+
+	Date/Time: 2014-10-08 12:38:19
+
+Array
+(
+    [question_id] => 71
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 6871
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1089
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1089
+)
+
+
+
+	Date/Time: 2014-10-08 12:38:23
+
+Array
+(
+    [question_id] => 72
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 6881
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1090
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1090
+)
+
+
+
+	Date/Time: 2014-10-08 12:38:25
+
+Array
+(
+    [question_id] => 73
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 6889
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1091
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1091
+)
+
+
+
+	Date/Time: 2014-10-08 12:38:27
+
+Array
+(
+    [question_id] => 74
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 6908
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1092
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1092
+)
+
+
+
+	Date/Time: 2014-10-08 12:38:29
+
+Array
+(
+    [question_id] => 75
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 6927
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1093
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1093
+)
+
+
+
+	Date/Time: 2014-10-08 12:38:49
+
+Array
+(
+    [question_id] => 76
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [last_question] => 1
+    [mincnt] => 24
+    [question_ans] => Array
+        (
+            [0] => 6946
+            [1] => 6955
+            [2] => 6964
+            [3] => 6973
+            [4] => 6982
+            [5] => 6991
+            [6] => 7000
+            [7] => 7009
+            [8] => 7018
+            [9] => 7027
+            [10] => 7036
+            [11] => 7045
+            [12] => 7054
+            [13] => 7063
+            [14] => 7072
+            [15] => 7081
+            [16] => 7090
+            [17] => 7099
+            [18] => 7108
+            [19] => 7117
+            [20] => 7126
+            [21] => 7135
+            [22] => 7144
+            [23] => 7153
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1094
+)
+
+
+Resource id #336
+
+Array
+(
+    [profile_answer_code_] => 1094
+)
+
+
+
+	Date/Time: 2014-10-08 12:42:19
+
+Array
+(
+    [question_id] => 31
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 5072
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1095
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1095
+)
+
+
+
+	Date/Time: 2014-10-08 12:42:22
+
+Array
+(
+    [question_id] => 32
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 5086
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1096
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1096
+)
+
+
+
+	Date/Time: 2014-10-08 12:42:29
+
+Array
+(
+    [question_id] => 33
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 5087
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1097
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1097
+)
+
+
+
+	Date/Time: 2014-10-08 12:42:33
+
+Array
+(
+    [question_id] => 34
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 5091
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1098
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1098
+)
+
+
+
+	Date/Time: 2014-10-08 12:42:35
+
+Array
+(
+    [question_id] => 35
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 5094
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1099
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1099
+)
+
+
+
+	Date/Time: 2014-10-08 12:42:38
+
+Array
+(
+    [question_id] => 36
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 5097
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1100
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1100
+)
+
+
+
+	Date/Time: 2014-10-08 12:42:42
+
+Array
+(
+    [question_id] => 37
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 5102
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1101
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1101
+)
+
+
+
+	Date/Time: 2014-10-08 12:42:45
+
+Array
+(
+    [question_id] => 54
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 5567
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1102
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1102
+)
+
+
+
+	Date/Time: 2014-10-08 12:43:22
+
+Array
+(
+    [question_id] => 55
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [mincnt] => 49
+    [question_ans] => Array
+        (
+            [0] => 5569
+            [1] => 5577
+            [2] => 5585
+            [3] => 5593
+            [4] => 5601
+            [5] => 5609
+            [6] => 5617
+            [7] => 5625
+            [8] => 5633
+            [9] => 5641
+            [10] => 5649
+            [11] => 5657
+            [12] => 5665
+            [13] => 5673
+            [14] => 5681
+            [15] => 5689
+            [16] => 5697
+            [17] => 5705
+            [18] => 5713
+            [19] => 5721
+            [20] => 5729
+            [21] => 5737
+            [22] => 5745
+            [23] => 5753
+            [24] => 5761
+            [25] => 5769
+            [26] => 5777
+            [27] => 5785
+            [28] => 5793
+            [29] => 5801
+            [30] => 5809
+            [31] => 5817
+            [32] => 5825
+            [33] => 5833
+            [34] => 5841
+            [35] => 5849
+            [36] => 5857
+            [37] => 5865
+            [38] => 5873
+            [39] => 5881
+            [40] => 5889
+            [41] => 5897
+            [42] => 5905
+            [43] => 5913
+            [44] => 5921
+            [45] => 5929
+            [46] => 5937
+            [47] => 5945
+            [48] => 5953
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1103
+)
+
+
+Resource id #511
+
+Array
+(
+    [profile_answer_code_] => 1103
+)
+
+
+
+	Date/Time: 2014-10-08 12:47:31
+
+Array
+(
+    [question_id] => 56
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 5962
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1104
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1104
+)
+
+
+
+	Date/Time: 2014-10-08 12:47:41
+
+Array
+(
+    [question_id] => 57
+    [skip_to] => 59
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 5965
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1105
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1105
+)
+
+
+
+	Date/Time: 2014-10-08 12:47:44
+
+Array
+(
+    [question_id] => 59
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 6134
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1106
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1106
+)
+
+
+
+	Date/Time: 2014-10-08 12:48:16
+
+Array
+(
+    [question_id] => 60
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [mincnt] => 40
+    [question_ans] => Array
+        (
+            [0] => 6136
+            [1] => 6142
+            [2] => 6148
+            [3] => 6154
+            [4] => 6160
+            [5] => 6166
+            [6] => 6172
+            [7] => 6178
+            [8] => 6184
+            [9] => 6190
+            [10] => 6196
+            [11] => 6202
+            [12] => 6208
+            [13] => 6214
+            [14] => 6220
+            [15] => 6226
+            [16] => 6232
+            [17] => 6238
+            [18] => 6244
+            [19] => 6250
+            [20] => 6256
+            [21] => 6262
+            [22] => 6268
+            [23] => 6274
+            [24] => 6280
+            [25] => 6286
+            [26] => 6292
+            [27] => 6298
+            [28] => 6304
+            [29] => 6310
+            [30] => 6316
+            [31] => 6322
+            [32] => 6328
+            [33] => 6334
+            [34] => 6340
+            [35] => 6346
+            [36] => 6352
+            [37] => 6358
+            [38] => 6364
+            [39] => 6370
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1107
+)
+
+
+Resource id #448
+
+Array
+(
+    [profile_answer_code_] => 1107
+)
+
+
+
+	Date/Time: 2014-10-08 12:48:20
+
+Array
+(
+    [question_id] => 61
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 6376
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1108
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1108
+)
+
+
+
+	Date/Time: 2014-10-08 12:49:19
+
+Array
+(
+    [question_id] => 62
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [last_question] => 1
+    [mincnt] => 70
+    [question_ans] => Array
+        (
+            [0] => 6378
+            [1] => 6384
+            [2] => 6390
+            [3] => 6396
+            [4] => 6402
+            [5] => 6408
+            [6] => 6414
+            [7] => 6420
+            [8] => 6426
+            [9] => 6432
+            [10] => 6438
+            [11] => 6444
+            [12] => 6450
+            [13] => 6456
+            [14] => 6462
+            [15] => 6468
+            [16] => 6474
+            [17] => 6480
+            [18] => 6486
+            [19] => 6492
+            [20] => 6498
+            [21] => 6504
+            [22] => 6510
+            [23] => 6516
+            [24] => 6522
+            [25] => 6528
+            [26] => 6534
+            [27] => 6540
+            [28] => 6546
+            [29] => 6552
+            [30] => 6558
+            [31] => 6564
+            [32] => 6570
+            [33] => 6576
+            [34] => 6582
+            [35] => 6588
+            [36] => 6594
+            [37] => 6600
+            [38] => 6606
+            [39] => 6612
+            [40] => 6618
+            [41] => 6624
+            [42] => 6630
+            [43] => 6636
+            [44] => 6642
+            [45] => 6648
+            [46] => 6654
+            [47] => 6660
+            [48] => 6666
+            [49] => 6672
+            [50] => 6678
+            [51] => 6684
+            [52] => 6690
+            [53] => 6696
+            [54] => 6702
+            [55] => 6708
+            [56] => 6714
+            [57] => 6720
+            [58] => 6726
+            [59] => 6732
+            [60] => 6738
+            [61] => 6744
+            [62] => 6750
+            [63] => 6756
+            [64] => 6762
+            [65] => 6768
+            [66] => 6774
+            [67] => 6780
+            [68] => 6786
+            [69] => 6792
+            [70] => 6798
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1109
+)
+
+
+Resource id #665
+
+Array
+(
+    [profile_answer_code_] => 1109
+)
+
+
+
+	Date/Time: 2014-10-08 18:42:00
+
+Array
+(
+    [question_id] => 44
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 5244
+            [1] => 5245
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1121
+)
+
+
+Resource id #182
+
+Array
+(
+    [profile_answer_code_] => 1121
+)
+
+
+
+	Date/Time: 2014-10-08 18:42:10
+
+Array
+(
+    [question_id] => 45
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 5260
+            [1] => 5261
+            [2] => 5262
+            [3] => 5263
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1122
+)
+
+
+Resource id #196
+
+Array
+(
+    [profile_answer_code_] => 1122
+)
+
+
+
+	Date/Time: 2014-10-08 18:42:16
+
+Array
+(
+    [question_id] => 46
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 5280
+            [1] => 5281
+            [2] => 5282
+            [3] => 5283
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1123
+)
+
+
+Resource id #196
+
+Array
+(
+    [profile_answer_code_] => 1123
+)
+
+
+
+	Date/Time: 2014-10-08 18:42:22
+
+Array
+(
+    [question_id] => 47
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 5295
+            [1] => 5296
+            [2] => 5297
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1124
+)
+
+
+Resource id #189
+
+Array
+(
+    [profile_answer_code_] => 1124
+)
+
+
+
+	Date/Time: 2014-10-08 18:42:26
+
+Array
+(
+    [question_id] => 48
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 5301
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1125
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1125
+)
+
+
+
+	Date/Time: 2014-10-08 18:42:29
+
+Array
+(
+    [question_id] => 49
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 5303
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1126
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1126
+)
+
+
+
+	Date/Time: 2014-10-08 18:42:33
+
+Array
+(
+    [question_id] => 50
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 5306
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1127
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1127
+)
+
+
+
+	Date/Time: 2014-10-08 18:45:04
+
+Array
+(
+    [question_id] => 51
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [mincnt] => 22
+    [question_ans] => Array
+        (
+            [0] => 5311
+            [1] => 5316
+            [2] => 5321
+            [3] => 5326
+            [4] => 5331
+            [5] => 5336
+            [6] => 5341
+            [7] => 5346
+            [8] => 5351
+            [9] => 5356
+            [10] => 5361
+            [11] => 5366
+            [12] => 5371
+            [13] => 5376
+            [14] => 5381
+            [15] => 5386
+            [16] => 5391
+            [17] => 5396
+            [18] => 5401
+            [19] => 5406
+            [20] => 5411
+            [21] => 5416
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1128
+)
+
+
+Resource id #322
+
+Array
+(
+    [profile_answer_code_] => 1128
+)
+
+
+
+	Date/Time: 2014-10-08 18:45:10
+
+Array
+(
+    [question_id] => 52
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [question_ans] => Array
+        (
+            [0] => 5421
+            [1] => 5422
+            [2] => 5423
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1129
+)
+
+
+Resource id #189
+
+Array
+(
+    [profile_answer_code_] => 1129
+)
+
+
+
+	Date/Time: 2014-10-08 18:45:25
+
+Array
+(
+    [question_id] => 53
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [last_question] => 1
+    [mincnt] => 16
+    [question_ans] => Array
+        (
+            [0] => 5455
+            [1] => 5462
+            [2] => 5469
+            [3] => 5476
+            [4] => 5483
+            [5] => 5490
+            [6] => 5497
+            [7] => 5504
+            [8] => 5511
+            [9] => 5518
+            [10] => 5525
+            [11] => 5532
+            [12] => 5539
+            [13] => 5546
+            [14] => 5553
+            [15] => 5560
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1130
+)
+
+
+Resource id #280
+
+Array
+(
+    [profile_answer_code_] => 1130
+)
+
+
+
+	Date/Time: 2014-10-14 15:09:49
+
+Array
+(
+    [question_id] => 1
+    [skip_to] => 0
+    [login_cookie] => AB84872800E9456F81CD4DED9AAAB6B9
+    [question_ans] => Array
+        (
+            [0] => 4743
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 
+)
+
+
+Resource id #185
+
+Array
+(
+    [profile_answer_code_] => 
+)
+
+
+
+	Date/Time: 2014-10-14 15:10:28
+
+Array
+(
+    [question_id] => 2
+    [skip_to] => 0
+    [login_cookie] => AB84872800E9456F81CD4DED9AAAB6B9
+    [question_ans] => Array
+        (
+            [0] => 4747
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 
+)
+
+
+Resource id #185
+
+Array
+(
+    [profile_answer_code_] => 
+)
+
+
+
+	Date/Time: 2014-10-14 15:10:33
+
+Array
+(
+    [question_id] => 3
+    [skip_to] => 0
+    [login_cookie] => AB84872800E9456F81CD4DED9AAAB6B9
+    [question_ans] => Array
+        (
+            [0] => 4753
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 
+)
+
+
+Resource id #184
+
+Array
+(
+    [profile_answer_code_] => 
+)
+
+
+
+	Date/Time: 2014-10-14 15:15:30
+
+Array
+(
+    [question_id] => 4
+    [skip_to] => 0
+    [login_cookie] => AB84872800E9456F81CD4DED9AAAB6B9
+    [question_ans] => Array
+        (
+            [0] => 4764
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 
+)
+
+
+Resource id #185
+
+Array
+(
+    [profile_answer_code_] => 
+)
+
+
+
+	Date/Time: 2014-10-17 17:59:57
+
+Array
+(
+    [question_id] => 1
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [question_ans] => Array
+        (
+            [0] => 4744
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1161
+)
+
+
+Resource id #176
+
+Array
+(
+    [profile_answer_code_] => 1161
+)
+
+
+
+	Date/Time: 2014-10-17 18:00:24
+
+Array
+(
+    [question_id] => 2
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [question_ans] => Array
+        (
+            [0] => 4751
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1162
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1162
+)
+
+
+
+	Date/Time: 2014-10-17 18:00:29
+
+Array
+(
+    [question_id] => 3
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [question_ans] => Array
+        (
+            [0] => 4752
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1163
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1163
+)
+
+
+
+	Date/Time: 2014-10-17 18:00:36
+
+Array
+(
+    [question_id] => 4
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [question_ans] => Array
+        (
+            [0] => 4762
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1164
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1164
+)
+
+
+
+	Date/Time: 2014-10-17 18:00:42
+
+Array
+(
+    [question_id] => 5
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [question_ans] => Array
+        (
+            [0] => 4774
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1165
+)
+
+
+Resource id #176
+
+Array
+(
+    [profile_answer_code_] => 1165
+)
+
+
+
+	Date/Time: 2014-10-17 18:00:47
+
+Array
+(
+    [question_id] => 6
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [question_ans] => Array
+        (
+            [0] => 4792
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1166
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1166
+)
+
+
+
+	Date/Time: 2014-10-17 18:00:55
+
+Array
+(
+    [question_id] => 7
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [question_ans] => Array
+        (
+            [0] => 4797
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1167
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1167
+)
+
+
+
+	Date/Time: 2014-10-17 18:00:58
+
+Array
+(
+    [question_id] => 8
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [question_ans] => Array
+        (
+            [0] => 4802
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1168
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1168
+)
+
+
+
+	Date/Time: 2014-10-17 18:01:03
+
+Array
+(
+    [question_id] => 9
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [question_ans] => Array
+        (
+            [0] => 4811
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1169
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1169
+)
+
+
+
+	Date/Time: 2014-10-17 18:01:08
+
+Array
+(
+    [question_id] => 10
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [question_ans] => Array
+        (
+            [0] => 4813
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1170
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1170
+)
+
+
+
+	Date/Time: 2014-10-17 18:01:11
+
+Array
+(
+    [question_id] => 11
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [question_ans] => Array
+        (
+            [0] => 4815
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1171
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1171
+)
+
+
+
+	Date/Time: 2014-10-17 18:01:27
+
+Array
+(
+    [question_id] => 12
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [question_ans] => Array
+        (
+            [0] => 4818
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1172
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1172
+)
+
+
+
+	Date/Time: 2014-10-17 18:01:30
+
+Array
+(
+    [question_id] => 13
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [question_ans] => Array
+        (
+            [0] => 4820
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1173
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1173
+)
+
+
+
+	Date/Time: 2014-10-17 18:01:33
+
+Array
+(
+    [question_id] => 63
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [question_ans] => Array
+        (
+            [0] => 6774
+            [1] => 6775
+            [2] => 6776
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1174
+)
+
+
+Resource id #189
+
+Array
+(
+    [profile_answer_code_] => 1174
+)
+
+
+
+	Date/Time: 2014-10-17 18:01:40
+
+Array
+(
+    [question_id] => 64
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [question_ans] => Array
+        (
+            [0] => 6784
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1175
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1175
+)
+
+
+
+	Date/Time: 2014-10-17 18:01:43
+
+Array
+(
+    [question_id] => 65
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [question_ans] => Array
+        (
+            [0] => 7165
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1176
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1176
+)
+
+
+
+	Date/Time: 2014-10-17 18:01:47
+
+Array
+(
+    [question_id] => 66
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [question_ans] => Array
+        (
+            [0] => 6798
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1177
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1177
+)
+
+
+
+	Date/Time: 2014-10-17 18:01:51
+
+Array
+(
+    [question_id] => 67
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [question_ans] => Array
+        (
+            [0] => 6805
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1178
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1178
+)
+
+
+
+	Date/Time: 2014-10-17 18:01:56
+
+Array
+(
+    [question_id] => 68
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [mincnt] => 6
+    [question_ans] => Array
+        (
+            [0] => 6810
+            [1] => 6816
+            [2] => 6822
+            [3] => 6828
+            [4] => 6834
+            [5] => 6840
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1179
+)
+
+
+Resource id #210
+
+Array
+(
+    [profile_answer_code_] => 1179
+)
+
+
+
+	Date/Time: 2014-10-17 18:02:07
+
+Array
+(
+    [question_id] => 69
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [question_ans] => Array
+        (
+            [0] => 6846
+            [1] => 6847
+            [2] => 6848
+            [3] => 6849
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1180
+)
+
+
+Resource id #196
+
+Array
+(
+    [profile_answer_code_] => 1180
+)
+
+
+
+	Date/Time: 2014-10-17 18:02:10
+
+Array
+(
+    [question_id] => 70
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [question_ans] => Array
+        (
+            [0] => 6863
+            [1] => 6864
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1181
+)
+
+
+Resource id #182
+
+Array
+(
+    [profile_answer_code_] => 1181
+)
+
+
+
+	Date/Time: 2014-10-17 18:02:15
+
+Array
+(
+    [question_id] => 71
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [question_ans] => Array
+        (
+            [0] => 6873
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1182
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1182
+)
+
+
+
+	Date/Time: 2014-10-17 18:02:18
+
+Array
+(
+    [question_id] => 72
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [question_ans] => Array
+        (
+            [0] => 6881
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1183
+)
+
+
+Resource id #175
+
+Array
+(
+    [profile_answer_code_] => 1183
+)
+
+
+
+	Date/Time: 2014-10-17 18:02:21
+
+Array
+(
+    [question_id] => 73
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [question_ans] => Array
+        (
+            [0] => 6889
+            [1] => 6890
+            [2] => 6891
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1184
+)
+
+
+Resource id #189
+
+Array
+(
+    [profile_answer_code_] => 1184
+)
+
+
+
+	Date/Time: 2014-10-17 18:02:28
+
+Array
+(
+    [question_id] => 74
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [question_ans] => Array
+        (
+            [0] => 6912
+            [1] => 6917
+            [2] => 6918
+            [3] => 6920
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1185
+)
+
+
+Resource id #196
+
+Array
+(
+    [profile_answer_code_] => 1185
+)
+
+
+
+	Date/Time: 2014-10-17 18:02:35
+
+Array
+(
+    [question_id] => 75
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [question_ans] => Array
+        (
+            [0] => 6933
+            [1] => 6934
+            [2] => 6937
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1186
+)
+
+
+Resource id #189
+
+Array
+(
+    [profile_answer_code_] => 1186
+)
+
+
+
+	Date/Time: 2014-10-17 18:02:56
+
+Array
+(
+    [question_id] => 76
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [last_question] => 1
+    [mincnt] => 24
+    [question_ans] => Array
+        (
+            [0] => 6946
+            [1] => 6955
+            [2] => 6964
+            [3] => 6973
+            [4] => 6982
+            [5] => 6991
+            [6] => 7000
+            [7] => 7009
+            [8] => 7018
+            [9] => 7027
+            [10] => 7036
+            [11] => 7045
+            [12] => 7054
+            [13] => 7063
+            [14] => 7072
+            [15] => 7081
+            [16] => 7090
+            [17] => 7099
+            [18] => 7108
+            [19] => 7117
+            [20] => 7126
+            [21] => 7135
+            [22] => 7144
+            [23] => 7153
+        )
+
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.save_profile_answer(:profile_answer_code_); commit; end;
+
+Array
+(
+    [profile_answer_code_] => 1187
+)
+
+
+Resource id #336
+
+Array
+(
+    [profile_answer_code_] => 1187
+)
+
+

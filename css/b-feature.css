@@ -1,0 +1,126 @@
+/* 
+    Document   : b-feature.css
+    Author     : david.rosser
+    Description:
+        Define b-feature types here.
+*/
+
+
+/* =B Feature Global
+-------------------------------------------------------------- */
+div.container div.b-feature{
+    color: #333;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+div.container div.b-feature h2.title{
+    margin-top: 0;
+}
+
+div.container div.b-feature h2,
+div.container div.b-feature p{
+    color: #333;
+}
+
+div.container div.b-feature p{
+}
+
+div.container div.b-feature div.vr, .grid-6.video-div div.vr, .new.grid-4.news-item div.vr{
+    position: absolute;
+    top: 0;
+}
+
+div.container div.b-feature.left div.vr, .new.grid-4.news-item div.vr{
+    right: -15px;
+}
+
+div.container div.b-feature.right div.vr{
+    left: -15px;
+}
+
+/* =B Feature Video Trigger
+-------------------------------------------------------------- */
+div.container div.b-feature div.lightbox-trigger img.placeholder{
+    max-width: 462px;
+}
+
+/* =B Feature Sidebar
+-------------------------------------------------------------- */
+div.container div.column.sidebar div.b-feature{
+    clear: both;
+    float: right;
+}
+
+
+/* =B Feature Entry Point
+-------------------------------------------------------------- */
+/* 
+These bFeatures are used for main click throughs to page content
+*/
+div.container div.b-feature.entry-point img.globe-wireframe{
+    margin-left: 10px;
+}
+
+div.container div.b-feature.entry-point img.crowd{
+}
+
+div.container div.b-feature.entry-point img.scales{
+    margin-left: 7px;
+}
+
+div.container div.b-feature.entry-point div.information{
+    float: right;
+    width: 365px;
+}
+
+/* =B Feature Whitepaper
+-------------------------------------------------------------- */
+/* 
+These B Features are used for whitepapers
+*/
+div.container div.b-feature.whitepaper{
+    color: #333;
+    height: 260px;
+    position: relative;
+}
+
+div.container div.b-feature.whitepaper h2{
+    font-family: 'Frutiger LT W01 65 Bold';
+    font-size: 16px;
+    margin: 0 0 15px 0;
+}
+
+div.container div.b-feature.whitepaper span.description{
+    display: inline-block;
+    font-family: 'FrutigerLTW01-45Light';
+    font-size: 15px;
+    width: 300px;
+}
+
+div.container div.b-feature.whitepaper div.infographic{
+    position: absolute;
+    top: 22px;
+    right: 60px;
+}
+
+div.container div.b-feature.whitepaper div.infographic img{
+    position: relative;
+}
+
+div.container div.b-feature.whitepaper div.infographic span.description{
+    display: block;
+    margin-top: 30px;
+    width: auto;
+}
+
+
+/* =UI Components
+-------------------------------------------------------------- */
+
+
+/* =BC Feature Carousel 
+-------------------------------------------------------------- */
+div.container div.b-feature div.carousel-container div.carousel{
+    width: 226px;
+}

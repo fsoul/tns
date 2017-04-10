@@ -1,0 +1,1 @@
+<a target="_blank" href="<%:EE_HTTP%><%get_alias_for_object:<%:id%>,<%:view%>,,,<%:row_language%>%>"><img alt="<%cons:View page%>" title="[^] <%:name%> object" src="<%:EE_HTTP%>img/doc.gif" border="0" /></a>

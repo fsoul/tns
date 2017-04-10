@@ -1,0 +1,1 @@
+	<a href="#" onclick="<%iif:<%check_content_access::CA_READ_ONLY%>,,del('<%:id%>'\,'\\'<%trim::name%>\\' (id=<%:id%>)'),alert('<%:NO_CONTENT_ACCESS%>'); return false;%>"><img src="<%:EE_HTTP%>img/<%iif:<%check_content_access::CA_READ_ONLY%>,,delBt.gif,delBt_gray.gif%>" width="16" height="16" alt="<%cons:GRID_DEL%>" title = "<%cons:GRID_DEL%>" border="0"></a>

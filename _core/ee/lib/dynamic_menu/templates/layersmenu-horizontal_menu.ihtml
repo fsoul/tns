@@ -1,0 +1,42 @@
+<!-- BEGIN template -->
+<!-- beginning of horizontal menu bar -->
+<div class="khorbar">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="left" rowspan="2" width="100%" valign="top">
+	<div style="border: 1px solid #1A255D; float: left; margin: 6px;">
+	<table border="0" cellspacing="0" cellpadding="0"><tr valign="top">
+		<td><a href="{EE_HTTP}" target="_blank"><img src="{EE_HTTP}img/ee_logo.gif" alt='Home Page' border="0"/></a></td>
+		<td><div style="margin: 6px 6px 0 3px; color: #2C356E; font: 11px Arial, Verdana, Geneva, Helvetica, sans-serif;"><span style="font-style: italic;white-space: nowrap;">Installation for {EE_SITE_NAME}{ee_version_text}</span></div></td>
+	</tr></table>
+	</div>
+</td>
+<td colspan="10">
+	<div style="color: #2C356E; float: right; font: 11px Arial, Verdana, Geneva, Helvetica, sans-serif; margin: 5px 15px;">
+	You are logged in as {userlogin} ({username}, {userrole})<br>
+	{userip} | {userdate} | {usertime}<br>
+	<div style="text-align: right;"><a href="javascript:openPopup('{EE_ADMIN_URL}_user.php?op=1&edit={userid}&admin_template=yes',900,620,0)" style="color: #2C356E; font: 11px Arial, Verdana, Geneva, Helvetica, sans-serif;">&gt; edit my profile</a></div>
+	</div>
+</td>
+</tr>
+<tr>
+<!-- BEGIN horizontal_menu_cell -->
+<td valign="bottom">
+<!-- BEGIN cell_link -->
+<div id="{menu_layer_label}" class="khorbaritem" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<a href="{href}"{onmouseover}{title}{target}><img
+align="top" src="{imgwww}{transparent}" width="1" height="16" border="0"
+alt="" /><!-- BEGIN cell_icon --><img
+align="top" src="{iconsrc}" width="{iconwidth}" height="{iconheight}" border="0"
+alt="{iconalt}" />&nbsp;<!-- END cell_icon -->{text}<!-- BEGIN cell_arrow -->&nbsp;<img
+src="{imgwww}{downsrc}" width="{downwidth}" height="{downheight}"
+border="0" alt=">>" /><!-- END cell_arrow -->&nbsp;&nbsp;&nbsp;</a>
+</div>
+<!-- END cell_link -->
+</td>
+<!-- END horizontal_menu_cell -->
+</tr>
+</table>
+</div>
+<!-- end of horizontal menu bar -->
+<!-- END template -->

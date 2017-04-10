@@ -1,0 +1,1 @@
+<input style="cursor: hand" type="submit" value="<%CONSTANT:BUT_LABEL_SAVE_ADD_MORE%>" name="save_add_more" class="button" onclick="document.getElementById('save_add_more').value='true';">&nbsp;<%include_if:added,,,add_more_success%>

@@ -1,0 +1,1 @@
+<%ap_right_block_news:3%>

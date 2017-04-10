@@ -1,0 +1,1 @@
+<%setValueOf:remember_start_time,<%microtime:true%>%>

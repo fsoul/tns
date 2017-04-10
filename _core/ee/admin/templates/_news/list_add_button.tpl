@@ -1,0 +1,1 @@
+<a href="javascript:openPopup('<%:modul%>.php?op=3<%iif::channel_id,,,&channel_id=<%:channel_id%>%>',<%:popup_width%>,<%:popup_height%>)" class="button">&nbsp;Add <%str_to_title::modul_title%>...&nbsp;</a>

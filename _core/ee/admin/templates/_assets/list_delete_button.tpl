@@ -1,0 +1,1 @@
+<a href="#" onclick = "selected_rows_submit('del_sel_items','Do you really want to delete selected items?'); return false;" title="Delete page"><img src="<%:EE_HTTP%>img/doc_delete_24.gif" width="24" height="24" alt="Delete page" style="margin:5px;" border="0"></a>

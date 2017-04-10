@@ -1,0 +1,1 @@
+<%include:<%:modul%>/edit_fields_text%>&nbsp;<img src="<%:EE_HTTP%>img/camera.gif" onmouseover="ddrivetip('<img src=\'<%:EE_GALLERY_HTTP%><%:gallery_id%>/_<%:image_filename%>\'>')" onmouseout="hideddrivetip()">

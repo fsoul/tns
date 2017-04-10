@@ -1,0 +1,1 @@
+	<img src="<%:EE_HTTP%>img/export_db_p.gif" width="16" height="16" alt="<%cons:Export%>" title="<%cons:Export%>" border="0">

@@ -1,0 +1,1110 @@
+/* 
+    Document   : global.css
+    Author     : david.rosser
+    Description:
+        This is the global stylesheet. All structural and global styles should be defined here. 
+*/
+
+/* =Fonts
+-------------------------------------------------------------- */
+/*
+MN - Removed @import and moved to a link tag in the header
+@import url("/assets/css/core/fonts.css");  
+*/
+
+/* =Features
+-------------------------------------------------------------- */
+@import url("a-feature.css");
+@import url("b-feature.css");
+@import url("c-feature.css");
+/*@import url("d-feature.css");*/
+
+    /* =UI Components
+   -------------------------------------------------------------- */
+@import url("components.css");
+/*@import url("/assets/css/core/ui/library-components.css");*/
+
+    /* =Icons
+   -------------------------------------------------------------- */
+@import url("icons.css");
+
+    /* =Form
+   -------------------------------------------------------------- */
+@import url("form.css");
+
+    /* =404
+   -------------------------------------------------------------- */
+/*@import url("404.css");*/
+
+
+/* =Global styles
+-------------------------------------------------------------- */
+body{
+    color: #333;
+    font-family: Verdana;
+    font-size: 12px;
+}
+
+html{
+    overflow-Y: scroll;
+}
+
+h1{
+    font-family: 'FrutigerLTW01-45Light';
+    font-size: 30px;
+    font-weight: normal;
+}
+
+h2{
+    font-family: 'FrutigerLTW01-45Light';
+    font-size: 24px;
+    font-weight: normal;
+}
+
+h2.introduction{
+    font-size: 22px;
+    margin: 0;
+}
+
+h3{
+    font-family: 'FrutigerLTW01-45Light';
+    font-size: 21px;
+    font-weight: normal;
+}
+
+h4{
+    font-family: 'Frutiger LT W01 65 Bold';
+    font-size: 16px;
+    font-weight: normal;
+}
+
+h5{
+    font-family: 'Frutiger LT W01 65 Bold';
+    font-size: 12px;
+    font-weight: normal;
+}
+
+a,
+a:hover,
+a:visited{
+    color: #EC008C;
+}
+
+a.active,
+a.active-trail{
+    color: #000;
+}
+
+a.link{
+    text-decoration: none;
+}
+
+a.link:hover{
+    text-decoration: underline;
+}
+
+p{
+    font-family: Verdana;
+    font-size: 12px;
+}
+
+strong,
+b{
+    font-family: Verdana;
+    font-size: 12px;
+}
+
+hr{
+    border: none;
+    background: url(/assets/images/global/hr.jpg) repeat-x left bottom;
+}
+
+div.vr{
+    background: url(/assets/images/global/vr.jpg) repeat-y;
+    width: 1px;
+    height: 100%;
+}
+
+ul{
+    list-style: square;
+}
+
+dd{
+    margin: 0;
+}
+
+/* =States
+-------------------------------------------------------------- */
+div.is-hidden{
+    display: none;
+}
+
+
+/* =Container
+-------------------------------------------------------------- */
+div.container{
+    z-index: 1;
+}
+
+
+/* =Header
+-------------------------------------------------------------- */
+div.container header.primary{
+    height: 112px;
+}
+
+div.container header.primary h1.logo{
+    float: left;
+    margin-top: 30px;
+    width: 59px;
+}
+
+div.container header.primary ul.navigation{
+    float: right;
+    font-size: 11px;
+    list-style: none;
+    margin-top: 18px;
+}
+
+div.container header.primary ul.navigation li{
+    float: left;
+}
+
+div.container header.primary ul.navigation li a{
+    text-decoration: none;
+}
+
+div.container header.primary ul.navigation li a:hover{
+    text-decoration: underline;
+}
+
+div.container header.primary ul.navigation li.seperator{
+    border-right: 1px solid #ccc;
+    margin: 0 12px 0 11px;
+    width: 1px;
+    height: 14px;
+}
+
+
+/* =Navigation Primary
+-------------------------------------------------------------- */
+
+/* Override styles from drupal */
+li.leaf{
+    border-right: 1px solid #ccc;
+    list-style-image: none;
+    list-style: none;
+    padding: 0;
+}
+
+li.leaf.last{
+    border-right: 0;
+}
+
+ul.menu li{
+    margin: 0;
+}
+
+
+div.container nav.primary{
+    min-height: 46px;
+    border-top: 1px solid #d2d2d2;
+    border-bottom: 1px solid #d2d2d2;
+    margin-bottom: 15px;
+}
+
+div.container nav.primary.secondary-nav-active{
+    margin-bottom: 0;
+}
+
+div.container nav.primary ul.menu{
+    float: left;
+    padding: 10px 0;
+}
+
+div.container nav.primary ul.menu li{
+    float: left;
+    margin: 3px 12px 0 0;
+    position: relative;
+}
+
+div.container nav.primary ul.menu li a{
+    font-family: 'FrutigerLTW01-45Light';
+    font-size: 15px;
+    padding-right: 12px;
+    text-decoration: none;
+}
+
+div.container nav.primary ul.menu li a:hover{
+    text-decoration: underline;
+}
+
+div.container nav.primary ul.menu li span.active-arrow{
+    /*background: url(/assets/images/global/header-navigation-primary-active-arrow.jpg) no-repeat bottom center;*/
+    bottom: -17px;
+    position: absolute;
+    width: 12px;
+    height: 6px;
+    left: 50%;
+}
+
+div.container nav.primary ul.menu li.seperator{
+    border-right: 1px solid #ccc;
+    margin: 0 12px;
+    width: 1px;
+    height: 17px;
+}
+
+.block ul{
+    padding: 0;
+}
+
+
+/* =Navigation Primary Search
+-------------------------------------------------------------- */
+div.container nav.primary form#search-block-form, div.container header.primary form#search-block-form{
+    float: right;
+    margin-top: 9px;
+}
+
+div.container nav.primary form#search-block-form input, div.container header.primary form#search-block-form input{
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-right: none;
+    float: left;
+    font-family: 'FrutigerLTW01-45Light';
+    padding: 6px;
+    width: 180px;
+}
+div.container nav.primary form#search-block-form input[type="submit"], div.container header.primary form#search-block-form input[type="submit"]{
+    background: url(/assets/images/global/ui-components/buttons/button-icon-search.jpg) no-repeat;
+    border-left: none;
+    border-right: 1px solid #ccc;
+    text-indent: -99999px;
+    width: 29px;
+}
+
+div.floatright{
+    float:right;
+}
+div.container header.primary form#search-block-form{
+    margin-top: 17px;
+}
+ul.connectedlife{
+    float: right !important;
+}
+ul.connectedlife li{
+    margin-right: 0px !important;
+}
+ul.connectedlife li a{
+    padding-right: 0px !important;
+    padding-left: 12px;
+}
+/* =Navigation Secondary
+-------------------------------------------------------------- */
+div.container nav.secondary{
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #d2d2d2;
+    margin-bottom: 15px;
+    padding-left: 5px;
+    width: 100%;/*949px;*/
+    height: 30px;
+}
+
+div.container nav.secondary ul{
+    padding-top: 8px;
+}
+
+div.container nav.secondary ul li{
+    float: left;
+    font-family: 'FrutigerLTW01-45Light';
+    margin: 0 12px 0 0;
+}
+
+div.container nav.secondary ul li a{
+    padding-right: 12px;
+    text-decoration: none;
+}
+
+div.container nav.secondary ul li a:hover{
+    text-decoration: underline;
+}
+
+
+/* =Footer Primary
+-------------------------------------------------------------- */
+footer.primary{
+    background-color: #dedede;
+    margin: 15px 0;
+    width: 100%;
+    float:left;
+}
+
+/* =Footer Primary Links
+-------------------------------------------------------------- */
+footer.primary div.footer-links{
+    margin-top:15px;
+    margin-bottom:26px;
+}
+
+footer.primary div.footer-links ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+footer.primary div.footer-links ul li{
+    border-bottom: 1px solid #b6b6b6;
+    font-size: 11px;
+    padding: 5px 0;
+}
+
+footer.primary div.footer-links ul li a{
+    color: #000;
+    text-decoration: none;
+}
+
+footer.primary div.footer-links ul li a:hover{
+    text-decoration: underline;
+}
+
+
+/* =Footer Secondary
+-------------------------------------------------------------- */
+footer.secondary{
+    font-size: 10px;
+    height: 45px;
+}
+
+footer.secondary small{
+    color: #999999;
+    font-size: 100%;
+}
+
+/* =Footer Secondary Site Links
+-------------------------------------------------------------- */
+footer.secondary div.site-links{
+}
+
+footer.secondary div.site-links ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+footer.secondary div.site-links ul li{
+    float: left;
+}
+
+footer.secondary div.site-links ul li a{
+    text-decoration: none;
+}
+
+footer.secondary div.site-links ul li a:hover{
+    text-decoration: underline;
+}
+
+footer.secondary div.site-links ul li.seperator{
+    border-right: 1px solid #cfcfcf;
+    margin: 2px 6px 0 5px;
+    width: 1px;
+    height: 14px;
+}
+
+
+/* =Footer Secondary Legal
+-------------------------------------------------------------- */
+footer.secondary div.legal{
+    padding-top: 10px;
+    margin-left: -18px;
+    margin-right: 0px;
+}
+
+
+/* =Footer Secondary Share Links
+-------------------------------------------------------------- */
+footer.secondary div.share-links ul{
+    float: right;
+    list-style: none;
+    margin: 0;
+    padding: 10px 0 0 0;
+}
+
+footer.secondary div.share-links ul li.seperator{
+    border-right: 1px solid #ccc;
+    width: 1px;
+    height: 16px;
+    margin: 0 2px;
+}
+
+footer.secondary div.share-links ul li,
+footer.secondary div.share-links ul li a{
+    color: #999999;
+    float: left;
+}
+
+footer.secondary div.share-links ul li a.twitter{
+    width: 23px;
+    height: 16px;
+    background: url(/assets/images/global/ui-components/social/social-links-twitter-spritesheet.gif) no-repeat;
+}
+
+footer.secondary div.share-links ul li a.facebook{
+    width: 19px;
+    height: 16px;
+    background: url(/assets/images/global/ui-components/social/social-links-facebook-spritesheet.gif) no-repeat;
+}
+
+footer.secondary div.share-links ul li a.youtube{
+    width: 55px;
+    height: 16px;
+    background: url(/assets/images/global/ui-components/social/social-links-youtube-spritesheet.gif) no-repeat;
+}
+
+footer.secondary div.share-links ul li a.linkedIn{
+    width: 21px;
+    height: 16px;
+    background: url(/assets/images/global/ui-components/social/social-links-linkedin-spritesheet.gif) no-repeat;
+    background-position: 0 -1px;
+}
+
+footer.secondary div.share-links ul li a.pinterest{
+    width: 21px;
+    height: 16px;
+    background: url(/assets/images/global/ui-components/social/social-links-pinterest-spritesheet.gif)  no-repeat;
+    background-position: 0 -1px;
+}
+footer.secondary div.share-links ul li a.googleplus{
+    width: 21px;
+    height: 16px;
+    background: url(/assets/images/global/ui-components/social/social-links-google-plus-spritesheet.gif) no-repeat;
+    background-position: 0 -1px;
+}
+
+footer.secondary div.share-links ul li a.twitter:hover,
+footer.secondary div.share-links ul li a.facebook:hover,
+footer.secondary div.share-links ul li a.youtube:hover,
+footer.secondary div.share-links ul li a.linkedIn:hover,
+footer.secondary div.share-links ul li a.pinterest:hover,
+footer.secondary div.share-links ul li a.googleplus:hover{
+    background-position: 0 -17px;
+}
+
+/* =Columns
+-------------------------------------------------------------- */
+div.container div.column{
+    width: 656px;
+}
+
+/* =Column Sidebar
+-------------------------------------------------------------- */
+/*
+Primarily used for C Feature Notices
+*/
+div.container div.column.sidebar{
+    float: right !important;
+    width: 328px;
+}
+
+
+/* =Page Header
+-------------------------------------------------------------- */
+div.container header.page{
+    background: url(/assets/images/global/hr.jpg) repeat-x left bottom;
+    margin-bottom: 15px;
+    position: relative;
+}
+
+div.container header.page h1.title{
+    float: left;
+    margin: 0 0 15px 0;
+    width: 800px;
+}
+
+/* =Page Header List
+-------------------------------------------------------------- */
+div.container header.page ul{
+    list-style: none;
+    float: right;
+    margin-top: 12px;
+    padding-left: 0;
+}
+
+div.container header.page ul li{
+    float: left;
+    font-family: 'FrutigerLTW01-45Light';
+    font-size: 15px;
+    padding-left: 10px;
+}
+
+div.container header.page ul li a{
+    text-decoration: none;
+}
+
+/* =Page Header List Share Box
+-------------------------------------------------------------- */
+div.container header.page ul li.share-box{
+    position: relative;
+    padding-left: 65px;
+}
+
+div.container header.page ul li.share-box a.share{
+    background: url(/assets/images/global/header-page-share-icon.jpg) no-repeat right center;
+    color: #EC008C;
+    cursor: default;
+    padding-right: 17px;
+    position: absolute;
+    right: 0;
+    z-index: 9000;
+}
+
+div.container header.page ul li.share-box div.box{
+    -webkit-box-shadow: 2px 2px 6px rgba( 1, 1, 1, .2);
+    box-shadow: 2px 2px 6px rgba( 1, 1, 1, .2);
+    background: #fff;
+    border: 1px solid #f4f4f4;
+    display: none;
+    position: absolute;
+    top: -10px;
+    right: -11px;
+    width: 260px;
+    padding: 10px;
+    z-index: 8999;
+}
+
+div.container header.page ul li.share-box div.box.open{
+    display: block;
+}
+
+div.container header.page ul li.share-box div.box h3{
+    font-size: 15px;
+    margin: 0;
+}
+
+div.container header.page ul li.share-box div.box span.message{
+    font-family: 'FrutigerLTW01-45Light';
+}
+
+div.container header.page ul li.share-box div.box ul.share-links{
+    list-style: none;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+
+div.container header.page ul li.share-box div.box ul.share-links li{
+    display: inline-block;
+    padding-left: 4px;
+}
+
+div.container header.page ul li.share-box div.box ul.share-links li a{
+    width: 20px;
+    height: 19px;
+    display: block;
+}
+
+div.container header.page ul li.share-box div.box ul.share-links li a.email{
+    background: url(/assets/images/global/ui-components/social/social-links-share-box-spritesheet.jpg) no-repeat;
+}
+
+div.container header.page ul li.share-box div.box ul.share-links li a.email:hover{
+    background-position: 0 -19px;
+}
+
+div.container header.page ul li.share-box div.box ul.share-links li a.stumble-upon{
+    background: url(/assets/images/global/ui-components/social/social-links-share-box-spritesheet.jpg) no-repeat;
+    background-position: -22px 0;
+}
+
+div.container header.page ul li.share-box div.box ul.share-links li a.stumble-upon:hover{
+    background-position: -22px -19px;
+}
+
+div.container header.page ul li.share-box div.box ul.share-links li a.linked-in{
+    background: url(/assets/images/global/ui-components/social/social-links-share-box-spritesheet.jpg) no-repeat;
+    background-position: -44px 0;
+}
+
+div.container header.page ul li.share-box div.box ul.share-links li a.linked-in:hover{
+    background-position: -44px -19px;
+}
+
+div.container header.page ul li.share-box div.box ul.share-links li a.twitter{
+    background: url(/assets/images/global/ui-components/social/social-links-share-box-spritesheet.jpg) no-repeat;
+    background-position: -66px 0;
+}
+
+div.container header.page ul li.share-box div.box ul.share-links li a.twitter:hover{
+    background-position: -66px -19px;
+}
+
+div.container header.page ul li.share-box div.box ul.share-links li a.facebook{
+    background: url(/assets/images/global/ui-components/social/social-links-share-box-spritesheet.jpg) no-repeat;
+    background-position: -88px 0;
+}
+
+div.container header.page ul li.share-box div.box ul.share-links li a.facebook:hover{
+    background-position: -88px -19px;
+}
+
+div.container header.page ul li.share-box div.box ul.share-links li a.digg{
+    background: url(/assets/images/global/ui-components/social/social-links-share-box-spritesheet.jpg) no-repeat;
+    background-position: -110px 0;
+}
+
+div.container header.page ul li.share-box div.box ul.share-links li a.digg:hover{
+    background-position: -110px -19px;
+}
+
+div.container header.page ul li.share-box div.box ul.share-links li a.reddit{
+    background: url(/assets/images/global/ui-components/social/social-links-share-box-spritesheet.jpg) no-repeat;
+    background-position: -132px 0;
+}
+
+div.container header.page ul li.share-box div.box ul.share-links li a.reddit:hover{
+    background-position: -132px -19px;
+}
+
+
+/* =Meta
+-------------------------------------------------------------- */
+div.container ul.meta{
+    float: left;
+    list-style: none;
+    margin: 10px 0;
+    padding: 0;
+    width: 100%;
+}
+
+div.container ul.meta li{
+    float: left;
+}
+
+div.container ul.meta li.seperator{
+    background: url(/assets/images/global/vr.jpg) repeat-y center;
+    height: 10px;
+    margin-top: 3px;
+    padding: 0 10px;
+}
+
+div.container ul.meta li time{
+    font-size: 10px;
+}
+
+div.container ul.meta li span.press-release{
+    background: url(/assets/images/pages/news-center/icon-press-release.jpg) no-repeat;
+    font-size: 11px;
+    padding-left: 20px;
+}
+
+div.container ul.meta li span.video-release{
+    background: url(/assets/images/pages/news-center/icon-video-release.jpg) no-repeat;
+    font-size: 11px;
+    padding-left: 20px;
+}
+
+
+/* =Links
+-------------------------------------------------------------- */
+a.link.text{
+    font-size: 12px;
+}
+
+a.link.text.expand{
+    background: url(/assets/images/global/ui-components/buttons/button-link-text-expand-spritesheet.jpg) no-repeat top right;
+    padding-right: 20px;
+}
+
+a.link.text.expand:hover{
+    background-position: right -15px;
+    color: #000;
+}
+
+a.link.text.expand.expanded{
+    background-position: right -30px;
+}
+
+a.link.text.expand.expanded:hover{
+    background-position: right -45px;
+}
+
+a.link.rss-feed{
+    background: url(/assets/images/global/ui-components/buttons/button-subscribe-rss-feed-spritesheet.jpg) no-repeat right 2px;
+    font-family: 'FrutigerLTW01-45Light';
+    font-size: 15px;
+    height: 16px;
+    padding-right: 20px
+}
+
+a.link.rss-feed:hover{
+    background-position: right -15px;
+}
+
+a.link.download{
+    background: url(/assets/images/global/ui-components/buttons/button-link-download-spritesheet.jpg) no-repeat top left;
+    padding-left: 20px
+}
+
+a.link.download:hover{
+    background-position: left -15px;
+}
+
+a.link.edit{
+    background: url(/assets/images/global/ui-components/buttons/button-edit-spritesheet.jpg) no-repeat right 2px;
+    padding-right: 23px
+}
+
+a.link.edit:hover{
+    background-position: right -13px;
+}
+
+
+/* =Loading
+-------------------------------------------------------------- */
+.loading-graphic {
+    position: fixed;
+    z-index: 10000;
+    top: 45%;
+    margin-left: 315px;
+    visibility: hidden;
+    background-color: white;
+    border: 1px solid #E2E2E2;
+    padding: 10px;
+}
+/* News
+-------------------------------------------------------------- */
+.node-type-other-news h2,.node-type-press-release h2,.node-type-campaignpage h2 {
+    font-size:30px;
+    margin: 0 0 15px 0;
+    float: left;
+}
+.node-type-other-news .second-title,.node-type-press-release .second-title,.node-type-campaignpage .second-title{
+    width:97%;
+    margin: 0 15px;
+    padding-bottom: 15px;
+    background: url("/assets/images/global/hr.jpg") repeat-x left bottom;
+}
+.node-type-other-news .press-release,.node-type-press-release  .press-release{
+    font-size: 11px;
+    margin-left: 15px;
+    color: #000;
+}
+.node-type-other-news .press-release img ,.node-type-press-release .press-release img{
+    margin-right: 10px;
+    padding-left: 15px;
+    vertical-align: 0;
+    background: url("/assets/images/global/border-left.png") repeat-y ;
+}
+
+/* country detail page
+-------------------------------------------------------------- */
+.node-type-countrylandingpage .carousel-outer {
+    height:480px;
+}
+.node-type-countrylandingpage .carousel-outer {
+    height:450px;
+}
+.node-type-countrylandingpage .carousel-outer #home-carousel{
+    height:400px;
+}
+.node-type-countrylandingpage .carousel-outer #home-carousel .carousel{
+    height:450px;
+}
+.node-type-countrylandingpage .carousel-outer #home-carousel .carousel-container .home .carousel-content-position .carousel-content{
+    position: relative;
+    top:0;
+    height: 430px;
+}
+.node-type-countrylandingpage .carousel-outer #home-carousel .carousel-container .home .carousel-content-position {
+    left:auto !important;
+    right:100px !important;
+}
+.node-type-countrylandingpage .carousel-outer #home-carousel .carousel-container .controls {
+    position: absolute;
+    bottom:0;
+}
+.node-type-countrylandingpage .view-display-id-block_2 .c-feature ,
+.node-type-campaignpage .view-display-id-block_3 .c-feature {
+    height:auto !important;
+    background: url("/assets/images/global/hr.jpg") repeat-x scroll left top;
+    border: none;
+    padding-bottom: 1px;
+    padding-top: 20px;
+    width:92%;
+}
+.node-type-countrylandingpage .view-display-id-block_2 .meta,
+.node-type-campaignpage .view-display-id-block_3 .meta {
+    margin:15px 0;
+    *margin-bottom:6px;
+}
+.node-type-countrylandingpage .view-display-id-block_2 a ,
+.node-type-campaignpage .view-display-id-block_3 a {
+    display:block;
+    margin: 10px 0;
+    text-decoration: none;
+}
+.node-type-countrylandingpage .video-center .view-display-id-block_2 .views-row a {
+    margin: 0;
+}
+.node-type-countrylandingpage #news-coloumn h2 {
+    margin:0 0 0 15px;
+}
+.node-type-countrylandingpage #news-coloumn hr {
+    width:94%;
+    margin-bottom:0;
+}
+.node-type-countrylandingpage .container .video-center {
+    margin-top:25px;
+}
+.latest-block {
+    margin-top: 25px !important;
+}
+
+.latest-block .latest-right-block {
+    margin-top: -20px !important;
+}
+.rss-list {
+    margin-bottom:20px;
+}
+.node-type-countrylandingpage div.container div.c-feature.twitter h3 {
+    margin-bottom: 0 ;
+}
+.latest-block .node-type-countrylandingpage  div.container div.column.sidebar {
+    margin-bottom: 30px;
+}
+#edit-field-rhsbusinessbody-0-value{
+    height: 104px;
+}
+.node-type-countrylandingpage div.container div.c-feature.news-center.notice.video-center #vocab-header {
+    margin-top: 10px !important;
+}
+.node-type-countrylandingpage .latest-right-block{
+    margin-bottom: 40px;
+    *margin-bottom:120px;
+}
+.node-type-news-center .sidebar{
+    *margin-bottom:50px;
+}
+.node-type-campaignpage #mobile-life .a-feature{
+    background: none repeat scroll 0 0 #F2F2F2;
+}
+/* Retail-banking page
+-------------------------------------------------------------- */
+.node-type-campaignpage div.container div.a-feature.entry-point {
+    margin-bottom: 40px;
+}
+.node-type-campaignpage .campaign-left-block {
+    float: left;
+    margin: 0 0 0 15px;
+    width:610px !important;
+}
+.node-type-campaignpage .campaign-right-block {
+    padding-top:10px;
+    *margin-top:-20px;
+}
+.node-type-campaignpage .campaign-right-block .webform197 {
+    margin-left: 15px;
+}
+.node-type-campaignpage .campaign-right-block .webform197 strong {
+    float: left;
+    margin-top: 25px;
+    margin-bottom: 5px;
+}
+.node-type-campaignpage .campaign-right-block .webform197 form {
+    float: left;
+}
+.node-type-campaignpage .campaign-right-block .webform197 form .form-actions{
+    margin-top:8px
+}
+.node-type-campaignpage .campaign-right-block .webform197 form .form-item{
+    margin:0;
+}
+.node-type-campaignpage .campaign-right-block .webform197 form .form-required{
+    color: #000000;
+}
+.node-type-campaignpage .campaign-right-block .webform197 form div.form-item input {
+    width:280px;
+}
+.node-type-campaignpage .view-display-id-block_3 .news-center {
+    height:auto !important;
+    margin-left:0;
+}
+.entry-point h2 {
+    width:90%;
+}
+.node-type-campaignpage .campaign-left-block h2{
+    margin-bottom:0px;
+    margin-top: 20px;
+}
+.node-type-campaignpage div.container div.load-more {
+    margin: -15px 0 0 0;
+    *margin-top:-5px;
+}
+.node-type-campaignpage .webform197 .status{
+    color: red;
+    float: left;
+    font-size: 13px;
+}
+
+.node-type-campaignpage #news-coloumn h2{
+    width:100%;
+}
+.node-type-campaignpage #mobile-life .bannercampaign{
+    font-weight: bold;
+}
+.node-type-campaignpage .latest-block {
+    margin-top: 0px !important;
+    float: left;
+}
+
+.share-links{
+    width: 201px !important;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#webform-client-form-197 .form-actions input {
+    margin-top: 5px;
+    position: static;
+}
+
+.twitter_new{
+    float: left;
+    margin-left: 14px;
+}
+.twitter-timeline {
+    height: 427px;
+}
+.node-type-news-center .twitter-timeline {
+    height: 275px !important;
+}
+.twitter-timeline .stream .h-feed .permalink,
+.twitter-timeline .stream .h-feed .header .full-name,
+.twitter-timeline .stream .h-feed .header .p-nickname,
+.twitter-timeline .stream .h-feed .footer,
+.twitter-timeline .stream .h-feed .e-entry-content .retweet-credit {
+    display: none !important;
+}
+.twitter-timeline .stream .h-feed {
+    padding-right: 10px;
+    background: url("/assets/images/global/vr.jpg") repeat-y right top ;
+}
+.twitter-timeline .stream .h-feed .header  {
+    padding-left: 65px;
+}
+.var-narrow .header a img.avatar {
+    width: 48px !important;
+    height: 48px !important;
+    margin-left: 4px;
+    margin-top: 4px;
+}
+.twitter-timeline .stream .h-feed .e-entry-content {
+    padding-left: 65px;
+    margin-top: -35px;
+    min-height: 55px;
+}
+.twitter-timeline .stream .h-feed .customisable-border {
+    background: url("/assets/images/global/hr.jpg") repeat-x left bottom ;
+    border: none !important;
+}
+.twitter-join {
+    margin: 0
+}
+.twitter-title {
+    margin: 50px 0 0;
+    padding-right: 10px;
+    background: url("/assets/images/global/vr.jpg") repeat-y right top ;
+    padding-bottom: 25px;
+}
+.node-type-news-center .sidebar {
+    margin-bottom: 40px;
+}
+a {
+    text-decoration: none;
+}
+ a:hover, 
+ a:visited,
+ a:active, 
+ a:focus,
+ a:hover b,
+ a:hover span,
+ .timeline-header .custom-timeline-owner-profile:hover, 
+ .timeline-header .custom-timeline-owner-profile:focus, 
+ .p-author .full-name, 
+ .p-author a.profile, 
+ .p-author a.profile:hover .p-nickname, 
+.cards-base a.profile:hover .p-nickname,
+.cards-base a.profile:focus .p-nickname, 
+.cards-base a.profile:hover .p-nickname b,
+.title a.link.text:hover,
+.title a.link:hover  {    
+    cursor: pointer;
+    text-decoration: underline !important;
+ }
+
+.container .sidebar a.button:hover,
+.container .title a:hover,
+.container .button:hover,
+.container h3.title a.link:hover  {
+    text-decoration: none !important
+}
+#botcheck{
+    display:none;
+}
+/* iPads ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) {
+    .sliding-popup-top,
+    footer.primary {
+        max-width:1024px;
+        overflow: hidden;
+    }
+}
+
+
+/* IA Css */
+.node-type-content-4-column-new #the-insider .the-insider .snippet .snippet-inner .media {
+    display: inline-block;
+}
+.node-type-content-4-column-new #the-insider .the-insider .snippet .snippet-inner a {
+    display: inline-block;
+    text-decoration: none;
+    width: 208px;
+}
+
+.node-type-content-4-column-new #the-insider .the-insider .snippet .snippet-inner a:hover{
+
+text-decoration: none !important;
+
+}
+
+.node-type-content-4-column-new #the-insider .the-insider .snippet .snippet-inner a p {
+    height: 49px;
+    margin: 5px 0;
+}
+.node-type-content-4-column-new #the-insider .the-insider .snippet .download-link {
+    background: none repeat scroll 0 0 #E4E2E3;
+    border: 1px solid #F2F2F2;
+    margin: 0 -10px;
+    padding: 4px 10px;
+}
+.node-type-content-4-column-new #the-insider .the-insider .snippet .download-link a {
+    text-decoration: none;
+}
+
+.node-type-content-4-column-new #the-insider .the-insider .snippet .download-link a:hover {
+    text-decoration: none  !important;
+}
+.fade {
+   opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+   }
+
+   .fade:hover {
+      opacity: 0.5;
+      }
+/*Css updated for the responsive form*/      
+div.form-responsive h4{
+	margin-top: 0px;
+	margin-bottom: 10px;
+}

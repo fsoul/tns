@@ -1,0 +1,1 @@
+<textarea tpl="cms_field_html.tpl" cols="90" rows="24" name="<%:cms_field_instance_name%>"><%:<%:cms_field_instance_name%>%></textarea>

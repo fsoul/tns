@@ -1,0 +1,1 @@
+<tr><td>Image:</td><td><input type="file" name="nfile_<%:media_lang_code%>">&nbsp;&nbsp;<input type="submit" value="Upload" name="upload" class="button" style="width:75px;">&nbsp;</td></tr>

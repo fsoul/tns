@@ -1,0 +1,84 @@
+
+a.small_pink_down_arrow_at_left 
+{
+	color: #f09;
+	background: url(images/small_pink_down_arrow.gif) no-repeat 0% 4px;
+	font-size: 15px;
+	font-weight: bold;
+	font-family: Arial;
+	padding-left: 20px;
+
+}
+
+a.system_button 
+{
+
+}
+
+p.content_simple_text 
+{
+	color: #333;
+	font-size: 13px;
+	font-family: Arial;
+
+}
+
+a.pink_microbox_at_left 
+{
+	float: left;
+	color: #036;
+	background: url(images/pink_microbox.gif) no-repeat 0% 5px;;
+	font-size: 12px;
+	font-weight: bold;
+	font-family: Arial;
+	margin-left: 45px;
+	padding-left: 8px;
+
+}
+
+a.system_button2 
+{
+	color: #036;
+	background: url(images/imgArrowPinkBig.gif) no-repeat 100% 1px;
+	font-size: 12px;
+	font-weight: bold;
+	font-family: Arial;
+	padding-right: 19px;
+
+}
+
+p.content_simple_text_lm 
+{
+	color: #333;
+	font-size: 13px;
+	font-family: Arial;
+	margin-left: 60px;
+
+}
+
+p.pink_15_lm 
+{
+	color: #f09;
+	font-size: 15px;
+	font-weight: bold;
+	font-family: Arial;
+	margin-left: 60px;
+
+}
+
+a.faq_question 
+{
+	color: #036;
+	font-size: 13px;
+	font-weight: bold;
+	font-family: Arial;
+
+}
+
+ol.content_simple_text 
+{
+	color: #333;
+	font-size: 13px;
+	font-family: Arial;
+
+}

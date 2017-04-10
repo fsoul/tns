@@ -1,0 +1,590 @@
+/* 
+    Document   : c-feature.css
+    Author     : david.rosser
+    Description:
+        Define v-feature types here.
+*/
+
+
+/* =C Feature Global
+-------------------------------------------------------------- */
+div.container div.c-feature{
+    color: #333;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    position: relative;
+}
+
+div.container div.c-feature p{
+    margin: 0 0 10px 0;
+}
+
+div.container div.c-feature ul{
+}
+
+div.container div.c-feature h3{
+    /* FIXES THE HEIGHT SO ALL IMG'S ARE THE SAME LEVEL (APPROX 2 LINES OF COPY) */
+    height:33px;
+}
+
+div.container div.c-feature div.vr{
+    position: absolute;
+    top: 0;
+}
+
+div.container div.c-feature.left div.vr{
+    right: -15px;
+}
+
+div.container div.c-feature.right div.vr{
+    left: -15px;
+}
+
+div.container div.c-feature a.button.component{
+    bottom: 0px;
+    position: absolute;
+}
+
+div.container div.c-feature form div.form-item input{
+    width: 280px;
+}
+
+div.container div.c-feature form input[type="submit"]{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+div.container div.c-feature form div.form-item span.form-required{
+    color: #000;
+}
+
+div.container div.c-feature form div.form-item input{
+    margin-bottom: 2px;
+}
+
+/* =C Feature Video Trigger
+-------------------------------------------------------------- */
+div.container div.c-feature div.lightbox-trigger{
+    height: 165px;
+    overflow: hidden;
+}
+
+div.container div.c-feature div.lightbox-trigger img.placeholder{
+    max-width: 298px;
+    margin-top: -29px;
+}
+
+
+/* =C Feature Sidebar
+-------------------------------------------------------------- */
+div.container div.column.sidebar div.c-feature{
+    clear: both;
+}
+
+
+/* =C Feature Entry Point
+-------------------------------------------------------------- */
+/* 
+These C Features are used for main click throughs to page content
+*/
+div.container div.c-feature.entry-point{
+    background-color: #f2f2f2;
+    margin-bottom: 0;
+    padding: 10px 0 0 10px;
+    width: 288px;
+}
+
+div.container div.c-feature.entry-point:hover{
+    background-color: #dedede;
+    cursor: pointer;
+}
+
+div.container div.c-feature.entry-point h3{
+    color: #EC008C;
+    margin: 0 0 10px 0;
+}
+
+div.container div.c-feature.entry-point p{
+    margin-bottom: 15px;
+    width: 200px;
+}
+
+div.container div.c-feature.entry-point a.link:hover{
+    text-decoration: none;
+}
+
+div.container div.c-feature.entry-point ul{
+    margin: 0;
+}
+
+/* =C Feature Overriden Entry Point Icons
+-------------------------------------------------------------- */
+div.container div.c-feature.entry-point span.icon{
+    overflow: hidden;
+    position: absolute;
+}
+
+div.container div.c-feature.entry-point span.icon.globe{
+    top: 15px;
+    right: 18px;
+}
+
+div.container div.c-feature.entry-point span.icon.globe-reef{
+    top: 45px;
+    right: 18px;
+}
+
+div.container div.c-feature.entry-point span.icon.person{
+    top: 22px;
+    right: 18px;
+}
+
+div.container div.c-feature.entry-point span.icon.play{
+    top: 25px;
+    right: 18px;
+}
+
+div.container div.c-feature.entry-point span.icon.precision-growth{
+    top: 0;
+    right: 0;
+}
+
+div.container div.c-feature.entry-point span.icon.notice-board{
+    top: 45px;
+    right: 20px;
+}
+
+div.container div.c-feature.entry-point span.icon.data-board{
+    top: 45px;
+    right: 20px;
+}
+
+div.container div.c-feature.entry-point span.icon.pencil{
+    top: 30px;
+    right: 20px;
+}
+
+div.container div.c-feature.entry-point span.icon.growth-map{
+    top: 23px;
+    right: 20px;
+}
+
+/* =C Feature Notice
+-------------------------------------------------------------- */
+/* 
+These C Features are used for advertisments on the side of the page. 
+They all float right.
+*/
+div.container div.c-feature.notice{
+    background-color: #f2f2f2;
+    margin-bottom: 0;
+    padding: 10px;
+    width: 278px;
+}
+
+div.container div.c-feature.notice h4{
+    margin: 0;   
+}
+
+div.container div.c-feature.notice ul{
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+}
+
+div.container div.c-feature.notice ul li.seperator{
+    background: url(/assets/images/global/hr.jpg) repeat-x center;
+    padding: 10px 0;
+}
+
+div.container div.c-feature.notice ul p.notice{
+    color: #333333;  
+    margin: 8px 0 0 0;
+}
+
+div.container div.c-feature.notice a.link.text{
+    font-size: 14px;
+}
+
+
+/* =C Feature Sidebar Notice UI Components
+-------------------------------------------------------------- */
+div.container div.column.sidebar div.c-feature.notice a.button.component{
+    position: relative;
+}
+
+
+/* =C Feature Notice Contact
+-------------------------------------------------------------- */
+/* 
+These C Features are used for advertisments on the side of the page
+*/
+div.container div.c-feature.notice.contact{
+    padding-bottom: 10px;
+}
+
+div.container div.c-feature.notice.contact h5{
+    margin: 5px 0 10px 0;
+}
+
+div.container div.c-feature.notice.contact span.telephone{
+    font-size: 14px;
+}
+
+div.container div.c-feature.notice.contact hr{
+    margin-bottom: 10px;
+}
+
+/* =C Feature Notice Jobs
+-------------------------------------------------------------- */
+/* 
+These C Features are used for advertisments on the side of the page
+*/
+div.container div.c-feature.notice.jobs{
+    padding-bottom: 10px;
+}
+
+div.container div.c-feature.notice.jobs ul{
+    margin-bottom: 10px;
+}
+
+div.container div.c-feature.notice.jobs ul p.location{
+    color: #333333;  
+    margin: 8px 0 0 0;
+}
+
+/* =C Feature Notice Jobs Button
+-------------------------------------------------------------- */
+div.container div.c-feature.notice.jobs a.button-link{
+    background: #fff;
+    padding: 8px 12px 8px 12px;
+}
+
+div.container div.c-feature.notice.jobs a.button-link:hover{
+    background-color: #EC008C;
+}
+
+
+/* =C Feature Notice with C Feature Entry Point 
+-------------------------------------------------------------- */
+/* 
+These C Features are used for advertisments on the side of the page
+*/
+div.container div.c-feature.notice.entry-point{
+    padding-bottom: 0;
+}
+
+/* =C Feature Notice with C Feature Infofgraphic
+-------------------------------------------------------------- */
+/* 
+These C Features are used for advertisments on the side of the page
+*/
+
+
+/* =C Feature Notice Growth Map
+-------------------------------------------------------------- */
+div.container div.c-feature.notice.growth-map{
+}
+
+div.container div.c-feature.notice.growth-map img{
+    margin-left: 50px;
+}
+
+div.container div.c-feature.notice.growth-map ul{
+    margin-top: 10px;
+}
+
+
+/* =C Feature Infographic
+-------------------------------------------------------------- */
+/* 
+These C Features are used for infographics
+*/
+div.container div.c-feature.infographic{
+    height: 260px;
+    padding-bottom: 0;
+}
+
+div.container div.c-feature.infographic h3{
+    font-family: 'Frutiger LT W01 65 Bold';
+    font-size: 16px;
+    margin-top: 0;
+}
+
+div.container div.c-feature.infographic span.description{
+    display: block;
+    font-family: 'FrutigerLTW01-45Light';
+    font-size: 15px;
+    margin: 10px 0 20px 0;
+}
+
+/* =C Feature Title Text
+-------------------------------------------------------------- */
+/* 
+These C Features are used for title text boxes
+*/
+
+div.container div.c-feature.titletext{
+    height: 260px;
+    position: relative;
+}
+
+div.container div.c-feature.titletext .link{
+    font-size: 14px;
+}
+
+div.container div.c-feature.titletext .press-release{
+    font-size: 11px;
+}
+
+div.container div.c-feature.titletext a {
+    text-decoration: none;
+}
+
+/* =C Feature Quote
+-------------------------------------------------------------- */
+/* 
+These C Features are used for quotes
+*/
+div.container div.c-feature.quote{
+    height: 260px;
+    position: relative;
+}
+
+div.container div.c-feature.quote h3{
+    font-family: 'FrutigerLTW01-45Light';
+    font-size: 17px;
+    margin: 0 0 15px 0;
+}
+
+div.container div.c-feature.quote p{
+    font-family: 'FrutigerLTW01-45Light';
+    font-size: 15px;
+}
+
+div.container div.c-feature.quote span.quotes-author{
+    background: url(/assets/images/global/c-features/c-feature-icon-quotation-marks.jpg) no-repeat bottom left;
+    display: block;
+    font-family: 'Frutiger LT W01 65 Bold';
+    font-size: 12px;
+    padding-bottom: 50px;
+}
+
+/* =C Feature Quote Button
+-------------------------------------------------------------- */
+div.container div.c-feature.quote a.button-link{
+    bottom: 0;
+    position: absolute;
+}
+
+/* =C Feature Static Images
+-------------------------------------------------------------- */
+/* 
+These C Features are used for Static Image blocks
+*/
+
+div.container div.c-feature.staticimage h3{
+    font-family: 'Frutiger LT W01 65 Bold';
+    font-size: 16px;
+    margin-top: 0;
+}
+
+/* =C Feature Whitepaper
+-------------------------------------------------------------- */
+/* 
+These C Features are used for whitepapers
+*/
+div.container div.c-feature.whitepaper{
+    height: 260px;
+    position: relative;
+}
+
+div.container div.c-feature.whitepaper h3{
+    font-family: 'Frutiger LT W01 65 Bold';
+    font-size: 16px;
+    margin-top: 0;
+}
+div.container div.c-feature.whitepaper p{
+    margin-top:10px;
+}
+
+div.container div.c-feature.whitepaper span.summary{
+    /*
+    NEW STYLE 
+    display: inline-block;
+    font-family: 'FrutigerLTW01-45Light';
+    font-size: 15px;
+    padding-top: 120px;
+    min-height: 48px;
+    */
+    display: inline-block;
+    font-family: 'FrutigerLTW01-45Light';
+    font-size: 15px;
+    padding-right: 100px;
+    min-height: 180px;
+}
+
+div.container div.c-feature.whitepaper img{
+	margin-bottom: 10px;
+}
+
+/* =C Feature Whitepaper Icons
+-------------------------------------------------------------- */
+div.container div.c-feature.whitepaper span.summary.document-icon{
+    background: url(/assets/images/global/c-features/c-feature-icon-whitepaper.jpg) top right no-repeat;
+}
+
+div.container div.c-feature.whitepaper span.summary.mobile-icon{
+    background: url(/assets/images/global/c-features/c-feature-icon-mobile.jpg) top right no-repeat;
+}
+
+/* =C Feature Whitepaper Button
+-------------------------------------------------------------- */
+div.container div.c-feature.whitepaper a.button-link{
+    bottom: 0;
+    position: absolute;
+}
+
+
+/* =C Feature Video
+-------------------------------------------------------------- */
+/* 
+These C Features are used for video content
+*/
+div.container div.c-feature.video{
+    height: 260px;
+    position: relative;
+}
+
+div.container div.c-feature.video h3{
+    font-family: 'Frutiger LT W01 65 Bold';
+    font-size: 16px;
+    margin-top: 0;   
+}
+
+div.container div.c-feature.video span.description{
+    color: #333;
+    font-family: 'FrutigerLTW01-45Light';
+    font-size: 15px;
+    position: absolute;
+    bottom: 0;
+}
+
+
+/* =C Feature Twitter
+-------------------------------------------------------------- */
+/* 
+These C Features are used for quotes
+*/
+div.container div.c-feature.twitter{
+    height: 260px;
+    position: relative;
+    font-size:11px;
+}
+
+div.container div.c-feature.twitter h3{
+    font-family: 'Frutiger LT W01 65 Bold';
+    font-size: 16px;
+    margin-top: 0;   
+}
+
+div.container div.c-feature.twitter div.tweet{
+    background-color: #f2f2f2;
+    padding: 6px 10px 20px 10px;
+    position: relative;
+}
+
+div.container div.c-feature.twitter div.tweet span{
+    font-family: 'FrutigerLTW01-45Light';
+    font-size: 12px;
+}
+
+div.container div.c-feature.twitter div.tweet a.link.text{
+    font-size: 10px;
+    position: absolute;
+    bottom: 6px;
+    left: 10px;
+}
+
+div.container div.c-feature.twitter div.tweet span.time-sent{
+    color: #999999;
+    font-family: 'FrutigerLTW01-45Light';
+    font-size: 10px;
+    position: absolute;
+    bottom: 6px;
+    right: 10px;
+}
+
+div.container div.c-feature.twitter div.bird{
+    background: url(/assets/images/global/c-features/c-feature-twitter-tweet.jpg) no-repeat;
+    width: 43px;
+    height: 35px;
+}
+
+/* =C Feature Banner
+-------------------------------------------------------------- */
+/* 
+These C Features are used for small banners
+*/
+div.container div.c-feature.banner{
+    background-color: #f2f2f2;
+    padding: 10px;
+    width: 278px;
+}
+
+div.container div.c-feature.banner:hover{
+    background-color: #dedede;
+    cursor: pointer;
+}
+
+div.container div.c-feature.banner h3{
+    color: #EC008C;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+div.container div.c-feature.banner span.description{
+    display: inline-block;
+    width: 160px;
+}
+
+div.container div.c-feature.banner span.icon{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+/* =C Feature Banner Icons
+-------------------------------------------------------------- */
+
+/* =C Feature Banner Icon Globe Reef
+-------------------------------------------------------------- */
+div.container div.c-feature.banner span.icon.globe-reef{
+    top: 14px;
+}
+
+/* =C Feature Banner Notice Board
+-------------------------------------------------------------- */
+div.container div.c-feature.banner span.icon.notice-board{
+    top: 19px;
+    right: 20px;
+}
+
+/* =C Feature Banner Play
+-------------------------------------------------------------- */
+div.container div.c-feature.banner span.icon.play{
+    top: 25px;
+    right: 20px;
+}
+
+
+/* =UI Components
+-------------------------------------------------------------- */
+
+
+/* =BC Feature Carousel 
+-------------------------------------------------------------- */
+div.container div.c-feature div.carousel-container div.carousel{
+    width: 226px;
+}

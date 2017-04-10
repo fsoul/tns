@@ -1,0 +1,5 @@
+<%iif::status,Yes,
+<a onclick="<%iif:<%check_content_access::CA_READ_ONLY,:CA_EDIT,,<%:id%>%>,,return publish_confirm(this.href),alert('<%:NO_CONTENT_ACCESS%>'); return false;%>" title="Publish page content" href="<%iif:<%check_content_access::CA_READ_ONLY,:CA_EDIT,,<%:id%>%>,,<%:EE_ADMIN_URL%><%:modul%>.php?op=publish&t=<%:id%>&admin_template=yes,%>">
+<img src="<%:EE_HTTP%>img/<%iif:<%check_content_access::CA_READ_ONLY,:CA_EDIT,,<%:%>%>,,publish_a.gif,publish_a_gray.gif%>" width="16" height="16" alt="<%cons:PUBLISH%>" title = "<%cons:PUBLISH%>" border="0"/></a>
+<a onclick="<%iif:<%check_content_access::CA_READ_ONLY,:CA_EDIT,,<%:id%>%>,, return revert_confirm(this.href),alert('<%:NO_CONTENT_ACCESS%>'); return false;%>" title="Revert page content" href="<%iif:<%check_content_access::CA_READ_ONLY,:CA_EDIT,,<%:id%>%>,,<%:EE_ADMIN_URL%><%:modul%>.php?op=revert&t=<%:id%>&admin_template=yes,%>">
+<img src="<%:EE_HTTP%>img/<%iif:<%check_content_access::CA_READ_ONLY,:CA_EDIT,,<%:id%>%>,,unpublish_a.gif,unpublish_a_gray.gif%>" width="16" height="16" alt="<%cons:REVERT%>" title = "<%cons:REVERT%>" border="0"/></a>,<%inv:16,16%>&nbsp;<%inv:16,16%>%>

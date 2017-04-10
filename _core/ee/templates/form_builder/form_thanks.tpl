@@ -1,0 +1,1 @@
+<div style="text-align: center;"><%form_builder_print_cms_e:form_builder_form_thanks_%></div>

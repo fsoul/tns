@@ -1,0 +1,2 @@
+<input type="hidden" name="<%:field_name%>_key" value="<%:<%:field_name%>%>" size="<%:size%>" />
+<input <%iif::readonly,,,readonly%> type="text" name="<%:field_name%>" value="<%gethtmlof:<%:field_name%>%>" size="<%:size%>">

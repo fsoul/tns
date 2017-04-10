@@ -1,0 +1,87 @@
+@import url(common.css);
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	color: #000;
+	background: #fff;
+}
+
+
+#common {
+	width: 940px;
+	height: 600px;
+	margin: auto;
+	text-align: left;
+	border: 1px solid #00f;
+}
+
+#header {
+	margin:10px 0px 5px 0px;
+	width: 100%;
+	border: 1px solid #CDCDCD;
+}
+
+#language {
+	float: right;
+}
+
+#language a.active {
+	font-weight: bold;
+}
+
+#main {
+	width: 770px;
+
+	float: right;
+	clear: right;
+	border: 1px solid #0f0;
+}
+
+#navbar {
+	width: 159px;
+	height: 653px;
+	float: left;
+	clear: left;
+	border: 1px solid #00f;
+}
+
+#footer {
+	padding-top: 20px;
+	width: 100%;
+	clear: both;
+	border: 1px solid #f00;
+}
+
+#dhtmltooltip2 {
+	position: absolute;
+	border: 1px solid black;
+	padding: 2px;
+	background-color: lightyellow;
+	visibility: hidden;
+	z-index: 100;
+	font: 10px Verdana, Geneva, Arial, Helvetica, sans-serif;
+	/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+	filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+}
+
+.fr_input {
+	border: 1px solid #bbbbbb;
+	font-family: Tahoma;
+	font-size: 11px;
+	background-color: #ffffff;
+	vertical-align: bottom;
+}
+
+#draft_div
+{
+        background-color: ButtonFace; 
+        color: ButtonText;
+	font: 15px Arial;
+	font-weight:900;
+        position: absolute;
+	left:0px;
+	color:red;
+}
+                
+
+

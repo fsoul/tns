@@ -1,0 +1,1 @@
+<%set_newsletter_title_cms:<%:email_id%>,<%:email_subject%>%> <%text_edit_cms:news_letter_subject_<%:email_id%>%>

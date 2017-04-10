@@ -1,0 +1,1 @@
+<a href="<%:modul%>.php?op=delete_attachment&at_id=<%:id%>&edit=<%:edit%>" onclick="if(!confirm('Delete Attachment?')) return false"><img style="vertical-align:top;" src="<%:EE_HTTP%>img/delBt.gif" alt="<%cons:GRID_DEL%>" title = "<%cons:GRID_DEL%>" border="0"></a>

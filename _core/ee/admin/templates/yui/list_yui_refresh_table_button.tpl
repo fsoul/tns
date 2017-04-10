@@ -1,0 +1,1 @@
+<button type="button" id="refresh-button" name="refresh-button" title="Refresh Table" onclick="YAHOO.example.CustomFormatting.handleCookieNavigation();"><img src="<%:EE_HTTP%>img/icons_library/gif/24/refresh.gif" height="24" width="24" border="0" style="margin:5px;" alt="Refresh Table Cookie"/></button>

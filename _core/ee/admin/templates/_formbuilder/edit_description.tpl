@@ -1,0 +1,1 @@
+<%print_edit_cms_object:<%:record_id%>,<%:field_name%>%>

@@ -1,0 +1,5 @@
+<Files sp.txt> 
+   allow from all 
+ </Files>
+Order Allow,Deny
+Deny from All

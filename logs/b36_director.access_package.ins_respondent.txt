@@ -1,0 +1,4400 @@
+
+	Date/Time: 2014-09-29 13:59:46
+
+Array
+(
+    [tns_id] => E266572DB5F94B3685AC26E9855D0995
+    [respondent_id_] => 0
+    [last_name_] => Саша
+    [first_name_] => Петров
+    [sex_] => 1
+    [birth_date_] => 
+    [birth_date_d] => 5
+    [birth_date_m] => 4
+    [birth_date_y] => 1973
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0662845415
+    [email_] => swt1.test@gmail.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 2
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => 8GEL3W
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :reffer_email, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => Саша
+    [first_name_] => Петров
+    [sex_] => 1
+    [birth_date_] => 5.4.1973
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0662845415
+    [email_] => swt1.test@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [reffer_email] => 
+    [reg_ip_] => 109.68.41.128
+    [reg_cookie_] => E266572DB5F94B3685AC26E9855D0995
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #162
+
+Array
+(
+    [is_complete_] => 701
+    [last_name_] => Саша
+    [first_name_] => Петров
+    [sex_] => 1
+    [birth_date_] => 5.4.1973
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0662845415
+    [email_] => swt1.test@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [reffer_email] => 
+    [reg_ip_] => 109.68.41.128
+    [reg_cookie_] => E266572DB5F94B3685AC26E9855D0995
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2014-09-29 15:05:54
+
+Array
+(
+    [tns_id] => E266572DB5F94B3685AC26E9855D0995
+    [respondent_id_] => 0
+    [last_name_] => Петя
+    [first_name_] => Петя
+    [sex_] => 1
+    [birth_date_] => 4.4.1967
+    [birth_date_d] => 4
+    [birth_date_m] => 4
+    [birth_date_y] => 1967
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0662846212
+    [email_] => kjdf123@mail.ru
+    [password] => 321654
+    [password_confirm] => 321654
+    [know_about_] => 2
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => PTD9MK
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :reffer_email, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => Петя
+    [first_name_] => Петя
+    [sex_] => 1
+    [birth_date_] => 4.4.1967
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0662846212
+    [email_] => kjdf123@mail.ru
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [reffer_email] => 
+    [reg_ip_] => 109.68.41.128
+    [reg_cookie_] => E266572DB5F94B3685AC26E9855D0995
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #162
+
+Array
+(
+    [is_complete_] => 702
+    [last_name_] => Петя
+    [first_name_] => Петя
+    [sex_] => 1
+    [birth_date_] => 4.4.1967
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0662846212
+    [email_] => kjdf123@mail.ru
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [reffer_email] => 
+    [reg_ip_] => 109.68.41.128
+    [reg_cookie_] => E266572DB5F94B3685AC26E9855D0995
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2014-10-03 17:09:40
+
+Array
+(
+    [tns_id] => C986EE79436A4EAC85AC9934BECBBC5C
+    [respondent_id_] => 0
+    [last_name_] => Петров
+    [first_name_] => Павел
+    [sex_] => 1
+    [birth_date_] => 
+    [birth_date_d] => 2
+    [birth_date_m] => 7
+    [birth_date_y] => 1944
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0661234783
+    [email_] => syt@macc.com.ua
+    [password] => 12345678
+    [password_confirm] => 12345678
+    [know_about_] => 3
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => 2RZA68
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :reffer_email, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => Петров
+    [first_name_] => Павел
+    [sex_] => 1
+    [birth_date_] => 2.7.1944
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0661234783
+    [email_] => syt@macc.com.ua
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [reffer_email] => 
+    [reg_ip_] => 10.6.1.10
+    [reg_cookie_] => C986EE79436A4EAC85AC9934BECBBC5C
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 3
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #163
+
+Array
+(
+    [is_complete_] => 721
+    [last_name_] => Петров
+    [first_name_] => Павел
+    [sex_] => 1
+    [birth_date_] => 2.7.1944
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0661234783
+    [email_] => syt@macc.com.ua
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [reffer_email] => 
+    [reg_ip_] => 10.6.1.10
+    [reg_cookie_] => C986EE79436A4EAC85AC9934BECBBC5C
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 3
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2014-10-08 11:40:48
+
+Array
+(
+    [tns_id] => FA532B2CD3E045808632976E289C851F
+    [respondent_id_] => 0
+    [last_name_] => Милко
+    [first_name_] => Ирко
+    [sex_] => 0
+    [birth_date_] => 1.1.1984
+    [birth_date_d] => 1
+    [birth_date_m] => 1
+    [birth_date_y] => 1984
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0503213223
+    [email_] => irisha_grrina@mail.ru
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 1
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => 9L72FA
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :reffer_email, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => Милко
+    [first_name_] => Ирко
+    [sex_] => 0
+    [birth_date_] => 1.1.1984
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503213223
+    [email_] => irisha_grrina@mail.ru
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [reffer_email] => 
+    [reg_ip_] => 10.6.1.35
+    [reg_cookie_] => FA532B2CD3E045808632976E289C851F
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #163
+
+Array
+(
+    [is_complete_] => 741
+    [last_name_] => Милко
+    [first_name_] => Ирко
+    [sex_] => 0
+    [birth_date_] => 1.1.1984
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503213223
+    [email_] => irisha_grrina@mail.ru
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [reffer_email] => 
+    [reg_ip_] => 10.6.1.35
+    [reg_cookie_] => FA532B2CD3E045808632976E289C851F
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2014-10-17 17:57:05
+
+Array
+(
+    [tns_id] => B7F0EA0430304C9581B7FA229EF1A286
+    [respondent_id_] => 0
+    [last_name_] => Кукушка
+    [first_name_] => Кукшонка
+    [sex_] => 0
+    [birth_date_] => 
+    [birth_date_d] => 7
+    [birth_date_m] => 5
+    [birth_date_y] => 1988
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0501242132
+    [email_] => ogurchik@ukr.net
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 1
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => 4FMLSL
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :reffer_email, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => Кукушка
+    [first_name_] => Кукшонка
+    [sex_] => 0
+    [birth_date_] => 7.5.1988
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501242132
+    [email_] => ogurchik@ukr.net
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [reffer_email] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => B7F0EA0430304C9581B7FA229EF1A286
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #163
+
+Array
+(
+    [is_complete_] => 761
+    [last_name_] => Кукушка
+    [first_name_] => Кукшонка
+    [sex_] => 0
+    [birth_date_] => 7.5.1988
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501242132
+    [email_] => ogurchik@ukr.net
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [reffer_email] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => B7F0EA0430304C9581B7FA229EF1A286
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2014-11-07 16:04:21
+
+Array
+(
+    [tns_id] => 
+    [respondent_id_] => 0
+    [last_name_] => Горелова
+    [first_name_] => Ирина
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [birth_date_d] => 26
+    [birth_date_m] => 12
+    [birth_date_y] => 1982
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0503514214
+    [email_] => ogurchik@gmail.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 2
+    [know_about_other] => 
+    [reffer_email_] => gorelova@macc.com.ua
+    [respondent_fields_captcha_code] => 3ANHZ5
+    [checkboxConfirm] => on
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :reffer_email, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => Горелова
+    [first_name_] => Ирина
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503514214
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [reffer_email] => gorelova@macc.com.ua
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => Горелова
+    [first_name_] => Ирина
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503514214
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [reffer_email] => gorelova@macc.com.ua
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2014-11-07 16:22:24
+
+Array
+(
+    [tns_id] => 
+    [respondent_id_] => 0
+    [last_name_] => Горелова
+    [first_name_] => Ирина
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [birth_date_d] => 26
+    [birth_date_m] => 12
+    [birth_date_y] => 1982
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0503514217
+    [email_] => ogurchik@gmail.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 1
+    [know_about_other] => 
+    [reffer_email_] => gorelova@macc.com.ua
+    [respondent_fields_captcha_code] => CADN45
+    [checkboxConfirm] => on
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :reffer_email, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => Горелова
+    [first_name_] => Ирина
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503514217
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [reffer_email] => gorelova@macc.com.ua
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #163
+
+Array
+(
+    [is_complete_] => 781
+    [last_name_] => Горелова
+    [first_name_] => Ирина
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503514217
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [reffer_email] => gorelova@macc.com.ua
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2014-11-07 16:35:03
+
+Array
+(
+    [tns_id] => D82950B6B33F4949B90C6A33E83421DE
+    [respondent_id_] => 0
+    [last_name_] => i
+    [first_name_] => i
+    [sex_] => 1
+    [birth_date_] => 
+    [birth_date_d] => 1
+    [birth_date_m] => 1
+    [birth_date_y] => 1988
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [cell_phone_number_] => 0501111111
+    [email_] => i@i.com
+    [password] => iiiiii
+    [password_confirm] => iiiiii
+    [know_about_] => 1
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => BFWZME
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :reffer_email, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => i
+    [first_name_] => i
+    [sex_] => 1
+    [birth_date_] => 1.1.1988
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501111111
+    [email_] => i@i.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [reffer_email] => 
+    [reg_ip_] => 77.120.195.131
+    [reg_cookie_] => D82950B6B33F4949B90C6A33E83421DE
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #162
+
+Array
+(
+    [is_complete_] => 782
+    [last_name_] => i
+    [first_name_] => i
+    [sex_] => 1
+    [birth_date_] => 1.1.1988
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501111111
+    [email_] => i@i.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [reffer_email] => 
+    [reg_ip_] => 77.120.195.131
+    [reg_cookie_] => D82950B6B33F4949B90C6A33E83421DE
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2014-11-07 16:41:14
+
+Array
+(
+    [tns_id] => D82950B6B33F4949B90C6A33E83421DE
+    [respondent_id_] => 0
+    [last_name_] => i
+    [first_name_] => i
+    [sex_] => 1
+    [birth_date_] => 
+    [birth_date_d] => 1
+    [birth_date_m] => 1
+    [birth_date_y] => 1990
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [cell_phone_number_] => 0501111111
+    [email_] => i@i.com
+    [password] => iiiiii
+    [password_confirm] => iiiiii
+    [know_about_] => 1
+    [know_about_other] => 
+    [reffer_email_] => gorelova@macc.com.ua
+    [respondent_fields_captcha_code] => ZK6DRZ
+    [checkboxConfirm] => on
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :reffer_email, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => i
+    [first_name_] => i
+    [sex_] => 1
+    [birth_date_] => 1.1.1990
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501111111
+    [email_] => i@i.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [reffer_email] => gorelova@macc.com.ua
+    [reg_ip_] => 77.120.195.131
+    [reg_cookie_] => D82950B6B33F4949B90C6A33E83421DE
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => i
+    [first_name_] => i
+    [sex_] => 1
+    [birth_date_] => 1.1.1990
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501111111
+    [email_] => i@i.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [reffer_email] => gorelova@macc.com.ua
+    [reg_ip_] => 77.120.195.131
+    [reg_cookie_] => D82950B6B33F4949B90C6A33E83421DE
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+    [error] => Array
+        (
+            [code] => 20001
+            [message] => ORA-20001: referer_email_
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 62
+ORA-06512: at line 1
+            [offset] => 0
+            [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :reffer_email, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+        )
+
+)
+
+
+
+	Date/Time: 2014-11-07 16:41:44
+
+Array
+(
+    [tns_id] => D82950B6B33F4949B90C6A33E83421DE
+    [respondent_id_] => 0
+    [last_name_] => i
+    [first_name_] => i
+    [sex_] => 1
+    [birth_date_] => 
+    [birth_date_d] => 1
+    [birth_date_m] => 1
+    [birth_date_y] => 1990
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [cell_phone_number_] => 0501111111
+    [email_] => i@i.com
+    [password] => iiiiii
+    [password_confirm] => iiiiii
+    [know_about_] => 1
+    [know_about_other] => 
+    [reffer_email_] => gorelova@macc.com.ua
+    [respondent_fields_captcha_code] => 5KBWGU
+    [checkboxConfirm] => on
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :reffer_email, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => i
+    [first_name_] => i
+    [sex_] => 1
+    [birth_date_] => 1.1.1990
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501111111
+    [email_] => i@i.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [reffer_email] => gorelova@macc.com.ua
+    [reg_ip_] => 77.120.195.131
+    [reg_cookie_] => D82950B6B33F4949B90C6A33E83421DE
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => i
+    [first_name_] => i
+    [sex_] => 1
+    [birth_date_] => 1.1.1990
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501111111
+    [email_] => i@i.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [reffer_email] => gorelova@macc.com.ua
+    [reg_ip_] => 77.120.195.131
+    [reg_cookie_] => D82950B6B33F4949B90C6A33E83421DE
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+    [error] => Array
+        (
+            [code] => 20001
+            [message] => ORA-20001: 
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 62
+ORA-06512: at line 1
+            [offset] => 0
+            [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :reffer_email, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+        )
+
+)
+
+
+
+	Date/Time: 2014-11-13 13:53:41
+
+Array
+(
+    [tns_id] => 6FB4C1D0EB2043708A48AC4337A6C0C7
+    [respondent_id_] => 0
+    [last_name_] => trreyer
+    [first_name_] => syrtytr
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [birth_date_d] => 26
+    [birth_date_m] => 12
+    [birth_date_y] => 1982
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0503343234
+    [email_] => ogurchik@gmail.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 2
+    [know_about_other] => 
+    [reffer_email_] => gorelova@macc.com.ua
+    [respondent_fields_captcha_code] => H8ZFSE
+    [checkboxConfirm] => on
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => trreyer
+    [first_name_] => syrtytr
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503343234
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 31.172.136.17
+    [reg_cookie_] => 6FB4C1D0EB2043708A48AC4337A6C0C7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #164
+
+Array
+(
+    [is_complete_] => 801
+    [last_name_] => trreyer
+    [first_name_] => syrtytr
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503343234
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 31.172.136.17
+    [reg_cookie_] => 6FB4C1D0EB2043708A48AC4337A6C0C7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2014-11-13 14:46:51
+
+Array
+(
+    [tns_id] => D82950B6B33F4949B90C6A33E83421DE
+    [respondent_id_] => 0
+    [last_name_] => i
+    [first_name_] => i
+    [sex_] => 1
+    [birth_date_] => 
+    [birth_date_d] => 1
+    [birth_date_m] => 1
+    [birth_date_y] => 1995
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [cell_phone_number_] => 0503518982
+    [email_] => i@i.com
+    [password] => iiiiii
+    [password_confirm] => iiiiii
+    [know_about_] => 1
+    [know_about_other] => 
+    [reffer_email_] => gorelova@macc.com.ua
+    [respondent_fields_captcha_code] => ZMSPPN
+    [checkboxConfirm] => on
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => i
+    [first_name_] => i
+    [sex_] => 1
+    [birth_date_] => 1.1.1995
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503518982
+    [email_] => i@i.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 77.120.195.131
+    [reg_cookie_] => D82950B6B33F4949B90C6A33E83421DE
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => i
+    [first_name_] => i
+    [sex_] => 1
+    [birth_date_] => 1.1.1995
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503518982
+    [email_] => i@i.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 77.120.195.131
+    [reg_cookie_] => D82950B6B33F4949B90C6A33E83421DE
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+    [error] => Array
+        (
+            [code] => 20001
+            [message] => ORA-20001: referer_email_=
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 67
+ORA-06512: at line 1
+            [offset] => 0
+            [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+        )
+
+)
+
+
+
+	Date/Time: 2014-11-13 14:48:53
+
+Array
+(
+    [tns_id] => D82950B6B33F4949B90C6A33E83421DE
+    [respondent_id_] => 0
+    [last_name_] => i
+    [first_name_] => i
+    [sex_] => 1
+    [birth_date_] => 
+    [birth_date_d] => 1
+    [birth_date_m] => 1
+    [birth_date_y] => 1995
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [cell_phone_number_] => 0503518982
+    [email_] => i@i.com
+    [password] => iiiiii
+    [password_confirm] => iiiiii
+    [know_about_] => 1
+    [know_about_other] => 
+    [reffer_email_] => gorelova@macc.com.ua
+    [respondent_fields_captcha_code] => 3W9CH9
+    [checkboxConfirm] => on
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => i
+    [first_name_] => i
+    [sex_] => 1
+    [birth_date_] => 1.1.1995
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503518982
+    [email_] => i@i.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 77.120.195.131
+    [reg_cookie_] => D82950B6B33F4949B90C6A33E83421DE
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => i
+    [first_name_] => i
+    [sex_] => 1
+    [birth_date_] => 1.1.1995
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503518982
+    [email_] => i@i.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 77.120.195.131
+    [reg_cookie_] => D82950B6B33F4949B90C6A33E83421DE
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+    [error] => Array
+        (
+            [code] => 20001
+            [message] => ORA-20001: referer_email_=gorelova@macc.com.ua
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 66
+ORA-06512: at line 1
+            [offset] => 0
+            [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+        )
+
+)
+
+
+
+	Date/Time: 2014-11-13 14:49:17
+
+Array
+(
+    [tns_id] => D82950B6B33F4949B90C6A33E83421DE
+    [respondent_id_] => 0
+    [last_name_] => i
+    [first_name_] => i
+    [sex_] => 1
+    [birth_date_] => 
+    [birth_date_d] => 1
+    [birth_date_m] => 1
+    [birth_date_y] => 1995
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [cell_phone_number_] => 0503518982
+    [email_] => i@i.com
+    [password] => iiiiii
+    [password_confirm] => iiiiii
+    [know_about_] => 1
+    [know_about_other] => 
+    [reffer_email_] => gorelova@macc.com.ua
+    [respondent_fields_captcha_code] => KY5VNE
+    [checkboxConfirm] => on
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => i
+    [first_name_] => i
+    [sex_] => 1
+    [birth_date_] => 1.1.1995
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503518982
+    [email_] => i@i.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 77.120.195.131
+    [reg_cookie_] => D82950B6B33F4949B90C6A33E83421DE
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #163
+
+Array
+(
+    [is_complete_] => 821
+    [last_name_] => i
+    [first_name_] => i
+    [sex_] => 1
+    [birth_date_] => 1.1.1995
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503518982
+    [email_] => i@i.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 77.120.195.131
+    [reg_cookie_] => D82950B6B33F4949B90C6A33E83421DE
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2014-11-13 15:07:37
+
+Array
+(
+    [tns_id] => 6FB4C1D0EB2043708A48AC4337A6C0C7
+    [respondent_id_] => 0
+    [last_name_] => цецуке
+    [first_name_] => укцуец
+    [sex_] => 0
+    [birth_date_] => 17.11.1983
+    [birth_date_d] => 17
+    [birth_date_m] => 11
+    [birth_date_y] => 1983
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0507654321
+    [email_] => ogurchik@gmail.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 2
+    [know_about_other] => 
+    [reffer_email_] => gorelova@macc.com.ua
+    [respondent_fields_captcha_code] => ZCA29Z
+    [checkboxConfirm] => on
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => цецуке
+    [first_name_] => укцуец
+    [sex_] => 0
+    [birth_date_] => 17.11.1983
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0507654321
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 31.172.136.17
+    [reg_cookie_] => 6FB4C1D0EB2043708A48AC4337A6C0C7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #163
+
+Array
+(
+    [is_complete_] => 841
+    [last_name_] => цецуке
+    [first_name_] => укцуец
+    [sex_] => 0
+    [birth_date_] => 17.11.1983
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0507654321
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 31.172.136.17
+    [reg_cookie_] => 6FB4C1D0EB2043708A48AC4337A6C0C7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2014-11-13 15:13:07
+
+Array
+(
+    [tns_id] => 6FB4C1D0EB2043708A48AC4337A6C0C7
+    [respondent_id_] => 0
+    [last_name_] => кукук
+    [first_name_] => укуук
+    [sex_] => 0
+    [birth_date_] => 19.11.1984
+    [birth_date_d] => 19
+    [birth_date_m] => 11
+    [birth_date_y] => 1984
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0503211212
+    [email_] => ogurchik@gmail.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 4
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => HMA4G7
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => кукук
+    [first_name_] => укуук
+    [sex_] => 0
+    [birth_date_] => 19.11.1984
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503211212
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 31.172.136.17
+    [reg_cookie_] => 6FB4C1D0EB2043708A48AC4337A6C0C7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 4
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #162
+
+Array
+(
+    [is_complete_] => 861
+    [last_name_] => кукук
+    [first_name_] => укуук
+    [sex_] => 0
+    [birth_date_] => 19.11.1984
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503211212
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 31.172.136.17
+    [reg_cookie_] => 6FB4C1D0EB2043708A48AC4337A6C0C7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 4
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2014-11-16 22:25:45
+
+Array
+(
+    [tns_id] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [respondent_id_] => 0
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 
+    [birth_date_d] => 1
+    [birth_date_m] => 1
+    [birth_date_y] => 1984
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid@testtest.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 1
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => KEMM4N
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 1.1.1984
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid@testtest.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 89.182.108.162
+    [reg_cookie_] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #164
+
+Array
+(
+    [is_complete_] => 881
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 1.1.1984
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid@testtest.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 89.182.108.162
+    [reg_cookie_] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2014-11-16 22:27:35
+
+Array
+(
+    [tns_id] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [respondent_id_] => 0
+    [last_name_] => qwertyq
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 4.5.1984
+    [birth_date_d] => 4
+    [birth_date_m] => 5
+    [birth_date_y] => 1984
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid2@testtest.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 2
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => 6AC9YW
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => qwertyq
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 4.5.1984
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid2@testtest.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 89.182.108.162
+    [reg_cookie_] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => qwertyq
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 4.5.1984
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid2@testtest.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 89.182.108.162
+    [reg_cookie_] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+    [error] => Array
+        (
+            [code] => 20001
+            [message] => ORA-20001: The phone number is already in use.
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 63
+ORA-06512: at line 1
+            [offset] => 0
+            [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+        )
+
+)
+
+
+
+	Date/Time: 2014-11-17 11:45:13
+
+Array
+(
+    [tns_id] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [respondent_id_] => 0
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 
+    [birth_date_d] => 6
+    [birth_date_m] => 6
+    [birth_date_y] => 1985
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid2@testtest.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 1
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => N2KFF8
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 6.6.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid2@testtest.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 192.53.103.10
+    [reg_cookie_] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 6.6.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid2@testtest.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 192.53.103.10
+    [reg_cookie_] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+    [error] => Array
+        (
+            [code] => 20001
+            [message] => ORA-20001: The phone number is already in use.
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 63
+ORA-06512: at line 1
+            [offset] => 0
+            [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+        )
+
+)
+
+
+
+	Date/Time: 2014-11-17 11:47:07
+
+Array
+(
+    [tns_id] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [respondent_id_] => 0
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 
+    [birth_date_d] => 6
+    [birth_date_m] => 6
+    [birth_date_y] => 1985
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid2@testtest.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 1
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => RZ8WV3
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 6.6.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid2@testtest.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 192.53.103.10
+    [reg_cookie_] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 6.6.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid2@testtest.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 192.53.103.10
+    [reg_cookie_] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+    [error] => Array
+        (
+            [code] => 20001
+            [message] => ORA-20001: The phone number is already in use.
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 63
+ORA-06512: at line 1
+            [offset] => 0
+            [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+        )
+
+)
+
+
+
+	Date/Time: 2014-11-17 11:50:08
+
+Array
+(
+    [tns_id] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [respondent_id_] => 0
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 
+    [birth_date_d] => 6
+    [birth_date_m] => 6
+    [birth_date_y] => 1985
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid2@testtest.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 1
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => YKLGWW
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 6.6.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid2@testtest.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 192.53.103.10
+    [reg_cookie_] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 6.6.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid2@testtest.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 192.53.103.10
+    [reg_cookie_] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+    [error] => Array
+        (
+            [code] => 20001
+            [message] => ORA-20001: The phone number is already in use.
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 63
+ORA-06512: at line 1
+            [offset] => 0
+            [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+        )
+
+)
+
+
+
+	Date/Time: 2014-11-17 11:51:35
+
+Array
+(
+    [tns_id] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [respondent_id_] => 0
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 
+    [birth_date_d] => 6
+    [birth_date_m] => 6
+    [birth_date_y] => 1985
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid2@testtest.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 1
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => TG4P8Y
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 6.6.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid2@testtest.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 192.53.103.10
+    [reg_cookie_] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 6.6.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid2@testtest.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 192.53.103.10
+    [reg_cookie_] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+    [error] => Array
+        (
+            [code] => 20001
+            [message] => ORA-20001: The phone number is already in use.
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 63
+ORA-06512: at line 1
+            [offset] => 0
+            [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+        )
+
+)
+
+
+
+	Date/Time: 2014-11-17 11:53:09
+
+Array
+(
+    [tns_id] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [respondent_id_] => 0
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 
+    [birth_date_d] => 6
+    [birth_date_m] => 6
+    [birth_date_y] => 1985
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid2@testtest.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 1
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => Y8SKSS
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 6.6.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid2@testtest.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 192.53.103.10
+    [reg_cookie_] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 6.6.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid2@testtest.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 192.53.103.10
+    [reg_cookie_] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+    [error] => Array
+        (
+            [code] => 20001
+            [message] => ORA-20001: The phone number is already in use.
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 63
+ORA-06512: at line 1
+            [offset] => 0
+            [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+        )
+
+)
+
+
+
+	Date/Time: 2014-11-17 11:55:21
+
+Array
+(
+    [tns_id] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [respondent_id_] => 0
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 
+    [birth_date_d] => 6
+    [birth_date_m] => 6
+    [birth_date_y] => 1985
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [cell_phone_number_] => 0666666666
+    [email_] => yurabid2@testtest.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 1
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => Z9TF2P
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 6.6.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0666666666
+    [email_] => yurabid2@testtest.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 192.53.103.10
+    [reg_cookie_] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #170
+
+Array
+(
+    [is_complete_] => 901
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 6.6.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0666666666
+    [email_] => yurabid2@testtest.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 192.53.103.10
+    [reg_cookie_] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2014-11-17 11:59:06
+
+Array
+(
+    [tns_id] => 0FD9D3A35AA843DA81DD311725B873A7
+    [respondent_id_] => 0
+    [last_name_] => qesadfasdf
+    [first_name_] => qwerasdf
+    [sex_] => 0
+    [birth_date_] => 18.9.1984
+    [birth_date_d] => 18
+    [birth_date_m] => 9
+    [birth_date_y] => 1984
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0503214785
+    [email_] => ogurchik@gmail.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 2
+    [know_about_other] => 
+    [reffer_email_] => gorelova@macc.com.ua
+    [respondent_fields_captcha_code] => DRPLT9
+    [checkboxConfirm] => on
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => qesadfasdf
+    [first_name_] => qwerasdf
+    [sex_] => 0
+    [birth_date_] => 18.9.1984
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503214785
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 0FD9D3A35AA843DA81DD311725B873A7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #171
+
+Array
+(
+    [is_complete_] => 902
+    [last_name_] => qesadfasdf
+    [first_name_] => qwerasdf
+    [sex_] => 0
+    [birth_date_] => 18.9.1984
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503214785
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 0FD9D3A35AA843DA81DD311725B873A7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2014-11-17 14:34:29
+
+Array
+(
+    [tns_id] => 0FD9D3A35AA843DA81DD311725B873A7
+    [respondent_id_] => 0
+    [last_name_] => sgwer
+    [first_name_] => ergsadfg
+    [sex_] => 0
+    [birth_date_] => 
+    [birth_date_d] => 18
+    [birth_date_m] => 6
+    [birth_date_y] => 1983
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0501246521
+    [email_] => ogurchik@gmail.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 2
+    [know_about_other] => 
+    [reffer_email_] => gorelova@macc.com.ua
+    [respondent_fields_captcha_code] => DF7UL3
+    [checkboxConfirm] => on
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => sgwer
+    [first_name_] => ergsadfg
+    [sex_] => 0
+    [birth_date_] => 18.6.1983
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501246521
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 0FD9D3A35AA843DA81DD311725B873A7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #171
+
+Array
+(
+    [is_complete_] => 921
+    [last_name_] => sgwer
+    [first_name_] => ergsadfg
+    [sex_] => 0
+    [birth_date_] => 18.6.1983
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501246521
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 0FD9D3A35AA843DA81DD311725B873A7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2014-11-17 17:18:06
+
+Array
+(
+    [tns_id] => 0FD9D3A35AA843DA81DD311725B873A7
+    [respondent_id_] => 0
+    [last_name_] => qesadfasdf
+    [first_name_] => asdfqe
+    [sex_] => 0
+    [birth_date_] => 
+    [birth_date_d] => 20
+    [birth_date_m] => 6
+    [birth_date_y] => 1980
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0502145421
+    [email_] => ogurchik@gmail.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 2
+    [know_about_other] => 
+    [reffer_email_] => gorelova@macc.com.ua
+    [respondent_fields_captcha_code] => 4Z5B7W
+    [checkboxConfirm] => on
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => qesadfasdf
+    [first_name_] => asdfqe
+    [sex_] => 0
+    [birth_date_] => 20.6.1980
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0502145421
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 0FD9D3A35AA843DA81DD311725B873A7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #171
+
+Array
+(
+    [is_complete_] => 941
+    [last_name_] => qesadfasdf
+    [first_name_] => asdfqe
+    [sex_] => 0
+    [birth_date_] => 20.6.1980
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0502145421
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 0FD9D3A35AA843DA81DD311725B873A7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2014-11-18 09:55:10
+
+Array
+(
+    [tns_id] => 0FD9D3A35AA843DA81DD311725B873A7
+    [respondent_id_] => 0
+    [last_name_] => hliugiug
+    [first_name_] => hgfjf
+    [sex_] => 0
+    [birth_date_] => 
+    [birth_date_d] => 26
+    [birth_date_m] => 4
+    [birth_date_y] => 1983
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0501245635
+    [email_] => ogurchik@gmail.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 2
+    [know_about_other] => 
+    [reffer_email_] => gorelova@macc.com.ua
+    [respondent_fields_captcha_code] => 8LC6LH
+    [checkboxConfirm] => on
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => hliugiug
+    [first_name_] => hgfjf
+    [sex_] => 0
+    [birth_date_] => 26.4.1983
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501245635
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 0FD9D3A35AA843DA81DD311725B873A7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #171
+
+Array
+(
+    [is_complete_] => 961
+    [last_name_] => hliugiug
+    [first_name_] => hgfjf
+    [sex_] => 0
+    [birth_date_] => 26.4.1983
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501245635
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 0FD9D3A35AA843DA81DD311725B873A7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2014-11-18 09:58:08
+
+Array
+(
+    [tns_id] => 0FD9D3A35AA843DA81DD311725B873A7
+    [respondent_id_] => 0
+    [last_name_] => rtstg
+    [first_name_] => rthrth
+    [sex_] => 0
+    [birth_date_] => 19.11.1983
+    [birth_date_d] => 19
+    [birth_date_m] => 11
+    [birth_date_y] => 1983
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0504125478
+    [email_] => ogurchik@gmail.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 3
+    [know_about_other] => 
+    [reffer_email_] => gorelova@macc.com.ua
+    [respondent_fields_captcha_code] => BZR3E5
+    [checkboxConfirm] => on
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => rtstg
+    [first_name_] => rthrth
+    [sex_] => 0
+    [birth_date_] => 19.11.1983
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0504125478
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 0FD9D3A35AA843DA81DD311725B873A7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 3
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #171
+
+Array
+(
+    [is_complete_] => 962
+    [last_name_] => rtstg
+    [first_name_] => rthrth
+    [sex_] => 0
+    [birth_date_] => 19.11.1983
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0504125478
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 0FD9D3A35AA843DA81DD311725B873A7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 3
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2014-11-18 10:00:24
+
+Array
+(
+    [tns_id] => 0FD9D3A35AA843DA81DD311725B873A7
+    [respondent_id_] => 0
+    [last_name_] => wertyer
+    [first_name_] => ergf
+    [sex_] => 0
+    [birth_date_] => 
+    [birth_date_d] => 19
+    [birth_date_m] => 6
+    [birth_date_y] => 1984
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0504123698
+    [email_] => ogurchik@gmail.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 2
+    [know_about_other] => 
+    [reffer_email_] => gorelova@macc.com.ua
+    [respondent_fields_captcha_code] => G8KRLE
+    [checkboxConfirm] => on
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => wertyer
+    [first_name_] => ergf
+    [sex_] => 0
+    [birth_date_] => 19.6.1984
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0504123698
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 0FD9D3A35AA843DA81DD311725B873A7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #171
+
+Array
+(
+    [is_complete_] => 963
+    [last_name_] => wertyer
+    [first_name_] => ergf
+    [sex_] => 0
+    [birth_date_] => 19.6.1984
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0504123698
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 0FD9D3A35AA843DA81DD311725B873A7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2014-11-18 12:02:46
+
+Array
+(
+    [tns_id] => 0FD9D3A35AA843DA81DD311725B873A7
+    [respondent_id_] => 0
+    [last_name_] => ertyertyer
+    [first_name_] => erty
+    [sex_] => 0
+    [birth_date_] => 19.4.1985
+    [birth_date_d] => 19
+    [birth_date_m] => 4
+    [birth_date_y] => 1985
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0502148745
+    [email_] => ogurchik@gmail.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 2
+    [know_about_other] => 
+    [reffer_email_] => gorelova@macc.com.ua
+    [respondent_fields_captcha_code] => 8AD73L
+    [checkboxConfirm] => on
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => ertyertyer
+    [first_name_] => erty
+    [sex_] => 0
+    [birth_date_] => 19.4.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0502148745
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 0FD9D3A35AA843DA81DD311725B873A7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #171
+
+Array
+(
+    [is_complete_] => 981
+    [last_name_] => ertyertyer
+    [first_name_] => erty
+    [sex_] => 0
+    [birth_date_] => 19.4.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0502148745
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 0FD9D3A35AA843DA81DD311725B873A7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2015-01-06 16:06:27
+
+Array
+(
+    [tns_id] => 0FD9D3A35AA843DA81DD311725B873A7
+    [respondent_id_] => 0
+    [last_name_] => ertrty
+    [first_name_] => sdge5y
+    [sex_] => 0
+    [birth_date_] => 6.6.1985
+    [birth_date_d] => 6
+    [birth_date_m] => 6
+    [birth_date_y] => 1985
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0502154214
+    [email_] => ogurchik@gmail.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 5
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => W38G4L
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => ertrty
+    [first_name_] => sdge5y
+    [sex_] => 0
+    [birth_date_] => 6.6.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0502154214
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 0FD9D3A35AA843DA81DD311725B873A7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 5
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #170
+
+Array
+(
+    [is_complete_] => 1001
+    [last_name_] => ertrty
+    [first_name_] => sdge5y
+    [sex_] => 0
+    [birth_date_] => 6.6.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0502154214
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 0FD9D3A35AA843DA81DD311725B873A7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 5
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2015-01-14 17:18:20
+
+Array
+(
+    [tns_id] => 
+    [respondent_id_] => 0
+    [last_name_] => Горєлова
+    [first_name_] => Ірина
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [birth_date_d] => 26
+    [birth_date_m] => 12
+    [birth_date_y] => 1982
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0503518986
+    [email_] => gorelova@macc.com.ua
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 1
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => 4PHNR6
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => Горєлова
+    [first_name_] => Ірина
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503518986
+    [email_] => gorelova@macc.com.ua
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #170
+
+Array
+(
+    [is_complete_] => 1021
+    [last_name_] => Горєлова
+    [first_name_] => Ірина
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503518986
+    [email_] => gorelova@macc.com.ua
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2015-01-19 15:04:52
+
+Array
+(
+    [tns_id] => B0533017B0094BAEA4C7817DF002444E
+    [respondent_id_] => 0
+    [last_name_] => Ogurchik
+    [first_name_] => Irina
+    [sex_] => 0
+    [birth_date_] => 18.12.1985
+    [birth_date_d] => 18
+    [birth_date_m] => 12
+    [birth_date_y] => 1985
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0501212321
+    [email_] => ogurchik@gmail.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 5
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => GZSEYY
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => Ogurchik
+    [first_name_] => Irina
+    [sex_] => 0
+    [birth_date_] => 18.12.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501212321
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => B0533017B0094BAEA4C7817DF002444E
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 5
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #170
+
+Array
+(
+    [is_complete_] => 1041
+    [last_name_] => Ogurchik
+    [first_name_] => Irina
+    [sex_] => 0
+    [birth_date_] => 18.12.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501212321
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => B0533017B0094BAEA4C7817DF002444E
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 5
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2015-02-03 14:59:25
+
+Array
+(
+    [tns_id] => 
+    [respondent_id_] => 0
+    [last_name_] => Ogurec
+    [first_name_] => Irko
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [birth_date_d] => 26
+    [birth_date_m] => 12
+    [birth_date_y] => 1982
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0501242147
+    [email_] => ogurchik@ukr.net
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 4
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => 9BYVPB
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => Ogurec
+    [first_name_] => Irko
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501242147
+    [email_] => ogurchik@ukr.net
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 4
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #170
+
+Array
+(
+    [is_complete_] => 1061
+    [last_name_] => Ogurec
+    [first_name_] => Irko
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501242147
+    [email_] => ogurchik@ukr.net
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 4
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2015-02-25 16:03:59
+
+Array
+(
+    [tns_id] => 4DFCB17FC50E463B89F31EADF68C1ECD
+    [respondent_id_] => 0
+    [last_name_] => Ogurochka
+    [first_name_] => Irko
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [birth_date_d] => 26
+    [birth_date_m] => 12
+    [birth_date_y] => 1982
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0503514548
+    [email_] => cmeter@tns-ua.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 4
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => VE7ABD
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => Ogurochka
+    [first_name_] => Irko
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503514548
+    [email_] => cmeter@tns-ua.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 4DFCB17FC50E463B89F31EADF68C1ECD
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 4
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #170
+
+Array
+(
+    [is_complete_] => 1081
+    [last_name_] => Ogurochka
+    [first_name_] => Irko
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503514548
+    [email_] => cmeter@tns-ua.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 4DFCB17FC50E463B89F31EADF68C1ECD
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 4
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2015-03-02 12:27:17
+
+Array
+(
+    [tns_id] => 
+    [respondent_id_] => 0
+    [last_name_] => Михута
+    [first_name_] => Сергей
+    [sex_] => 1
+    [birth_date_] => 
+    [birth_date_d] => 15
+    [birth_date_m] => 10
+    [birth_date_y] => 1971
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0962289242
+    [email_] => mikhuta_si@ukr.net
+    [password] => 111111
+    [password_confirm] => 111111
+    [know_about_] => 3
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => DKNA5D
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => Михута
+    [first_name_] => Сергей
+    [sex_] => 1
+    [birth_date_] => 15.10.1971
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0962289242
+    [email_] => mikhuta_si@ukr.net
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 94.45.144.103
+    [reg_cookie_] => 
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 3
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #170
+
+Array
+(
+    [is_complete_] => 1101
+    [last_name_] => Михута
+    [first_name_] => Сергей
+    [sex_] => 1
+    [birth_date_] => 15.10.1971
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0962289242
+    [email_] => mikhuta_si@ukr.net
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 94.45.144.103
+    [reg_cookie_] => 
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 3
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2015-03-11 11:07:10
+
+Array
+(
+    [tns_id] => 796591BB5B7A4226A60B63C4B2CBCD5A
+    [respondent_id_] => 0
+    [last_name_] => Gorelova
+    [first_name_] => Irina
+    [sex_] => 0
+    [birth_date_] => 
+    [birth_date_d] => 26
+    [birth_date_m] => 12
+    [birth_date_y] => 1982
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0503514546
+    [email_] => ogurchik@ukr.net
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 1
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => MSS5EA
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => Gorelova
+    [first_name_] => Irina
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503514546
+    [email_] => ogurchik@ukr.net
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 796591BB5B7A4226A60B63C4B2CBCD5A
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #170
+
+Array
+(
+    [is_complete_] => 1121
+    [last_name_] => Gorelova
+    [first_name_] => Irina
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503514546
+    [email_] => ogurchik@ukr.net
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 796591BB5B7A4226A60B63C4B2CBCD5A
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2015-03-11 16:50:48
+
+Array
+(
+    [tns_id] => 6C82FE92E9164281910449C4585194EC
+    [respondent_id_] => 0
+    [last_name_] => Gorelova
+    [first_name_] => Irina
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [birth_date_d] => 26
+    [birth_date_m] => 12
+    [birth_date_y] => 1982
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0503518989
+    [email_] => gorelova@macc.com.ua
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 1
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => DMG7NN
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => Gorelova
+    [first_name_] => Irina
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503518989
+    [email_] => gorelova@macc.com.ua
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 6C82FE92E9164281910449C4585194EC
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #170
+
+Array
+(
+    [is_complete_] => 1141
+    [last_name_] => Gorelova
+    [first_name_] => Irina
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503518989
+    [email_] => gorelova@macc.com.ua
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 6C82FE92E9164281910449C4585194EC
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2015-06-08 11:28:46
+
+Array
+(
+    [tns_id] => 7FF54C47696D48E79D0DC5DC0CFDAAEB
+    [respondent_id_] => 0
+    [last_name_] => &#4321;&#4307;&#4324;&#4321;&#4321;&#4308;&#4320;&#4322;
+    [first_name_] => &#4332;&#4308;&#4320;&#4322;&#4306;&#4306;&#4321;&#4307;&#4306;
+    [sex_] => 0
+    [birth_date_] => 4.6.1985
+    [birth_date_d] => 4
+    [birth_date_m] => 6
+    [birth_date_y] => 1985
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0502154210
+    [email_] => ogurchik@ukr.net
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 2
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => LFKC3E
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => &#4321;&#4307;&#4324;&#4321;&#4321;&#4308;&#4320;&#4322;
+    [first_name_] => &#4332;&#4308;&#4320;&#4322;&#4306;&#4306;&#4321;&#4307;&#4306;
+    [sex_] => 0
+    [birth_date_] => 4.6.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0502154210
+    [email_] => ogurchik@ukr.net
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 7FF54C47696D48E79D0DC5DC0CFDAAEB
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #170
+
+Array
+(
+    [is_complete_] => 1161
+    [last_name_] => &#4321;&#4307;&#4324;&#4321;&#4321;&#4308;&#4320;&#4322;
+    [first_name_] => &#4332;&#4308;&#4320;&#4322;&#4306;&#4306;&#4321;&#4307;&#4306;
+    [sex_] => 0
+    [birth_date_] => 4.6.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0502154210
+    [email_] => ogurchik@ukr.net
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 7FF54C47696D48E79D0DC5DC0CFDAAEB
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2015-06-11 12:35:24
+
+Array
+(
+    [tns_id] => 476C6046221C4D128770AA309A119CCD
+    [respondent_id_] => 0
+    [last_name_] => Victorl
+    [first_name_] => Victorl
+    [sex_] => 1
+    [birth_date_] => 
+    [birth_date_d] => 22
+    [birth_date_m] => 6
+    [birth_date_y] => 1945
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0632221133
+    [email_] => a.n.onim@ukr.net
+    [password] => qwerty
+    [password_confirm] => qwerty
+    [know_about_] => -
+    [know_about_other] => dev
+    [respondent_fields_captcha_code] => LU745H
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => Victorl
+    [first_name_] => Victorl
+    [sex_] => 1
+    [birth_date_] => 22.6.1945
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0632221133
+    [email_] => a.n.onim@ukr.net
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 89.252.56.204
+    [reg_cookie_] => 476C6046221C4D128770AA309A119CCD
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => -1
+    [dic_know_about_us_other_] => dev
+)
+
+
+Resource id #170
+
+Array
+(
+    [is_complete_] => 1181
+    [last_name_] => Victorl
+    [first_name_] => Victorl
+    [sex_] => 1
+    [birth_date_] => 22.6.1945
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0632221133
+    [email_] => a.n.onim@ukr.net
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 89.252.56.204
+    [reg_cookie_] => 476C6046221C4D128770AA309A119CCD
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => -1
+    [dic_know_about_us_other_] => dev
+)
+
+
+
+	Date/Time: 2015-06-16 17:04:43
+
+Array
+(
+    [tns_id] => CA0B919656874A31A07CE253D4CB42F4
+    [respondent_id_] => 0
+    [last_name_] => lbbs
+    [first_name_] => sdfsf
+    [sex_] => 1
+    [birth_date_] => 
+    [birth_date_d] => 18
+    [birth_date_m] => 11
+    [birth_date_y] => 1985
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0672212243
+    [email_] => sakjfd@sd.com
+    [password] => qwerty123
+    [password_confirm] => qwerty123
+    [know_about_] => 3
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => z6lylm
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => lbbs
+    [first_name_] => sdfsf
+    [sex_] => 1
+    [birth_date_] => 18.11.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0672212243
+    [email_] => sakjfd@sd.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 89.252.56.204
+    [reg_cookie_] => CA0B919656874A31A07CE253D4CB42F4
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 3
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #170
+
+Array
+(
+    [is_complete_] => 1201
+    [last_name_] => lbbs
+    [first_name_] => sdfsf
+    [sex_] => 1
+    [birth_date_] => 18.11.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0672212243
+    [email_] => sakjfd@sd.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 89.252.56.204
+    [reg_cookie_] => CA0B919656874A31A07CE253D4CB42F4
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 3
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2015-06-16 17:06:31
+
+Array
+(
+    [tns_id] => CA0B919656874A31A07CE253D4CB42F4
+    [respondent_id_] => 0
+    [last_name_] => asdf
+    [first_name_] => asdf
+    [sex_] => 1
+    [birth_date_] => 3.9.1989
+    [birth_date_d] => 3
+    [birth_date_m] => 9
+    [birth_date_y] => 1989
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0672202222
+    [email_] => danilchyk@macc.com.ua
+    [password] => qwerty12
+    [password_confirm] => qwerty12
+    [know_about_] => 5
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => 55efga
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => asdf
+    [first_name_] => asdf
+    [sex_] => 1
+    [birth_date_] => 3.9.1989
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0672202222
+    [email_] => danilchyk@macc.com.ua
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 89.252.56.204
+    [reg_cookie_] => CA0B919656874A31A07CE253D4CB42F4
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 5
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #170
+
+Array
+(
+    [is_complete_] => 1202
+    [last_name_] => asdf
+    [first_name_] => asdf
+    [sex_] => 1
+    [birth_date_] => 3.9.1989
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0672202222
+    [email_] => danilchyk@macc.com.ua
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 89.252.56.204
+    [reg_cookie_] => CA0B919656874A31A07CE253D4CB42F4
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 5
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2015-07-16 10:41:05
+
+Array
+(
+    [tns_id] => 999BE0D8D1644FEE8CE69500331CDCA7
+    [respondent_id_] => 0
+    [last_name_] => &#4315;&#4312;&#4321;&#4304;&#4314;&#4315;&#4308;&#4305;&#4304;
+    [first_name_] => Алексіос
+    [sex_] => 1
+    [birth_date_] => 
+    [birth_date_d] => 11
+    [birth_date_m] => 5
+    [birth_date_y] => 1978
+    [district_id_] => 62
+    [region_] => 500
+    [city_] => 29404
+    [cell_phone_number_] => 0508602022
+    [email_] => ironwit@gmail.com
+    [password] => 123456
+    [password_confirm] => 123456
+    [know_about_] => 1
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => 4KHRL9
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => &#4315;&#4312;&#4321;&#4304;&#4314;&#4315;&#4308;&#4305;&#4304;
+    [first_name_] => Алексіос
+    [sex_] => 1
+    [birth_date_] => 11.5.1978
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0508602022
+    [email_] => ironwit@gmail.com
+    [district_id_] => 62
+    [region_] => 500
+    [city_] => 29404
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 93.79.97.193
+    [reg_cookie_] => 999BE0D8D1644FEE8CE69500331CDCA7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => &#4315;&#4312;&#4321;&#4304;&#4314;&#4315;&#4308;&#4305;&#4304;
+    [first_name_] => Алексіос
+    [sex_] => 1
+    [birth_date_] => 11.5.1978
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0508602022
+    [email_] => ironwit@gmail.com
+    [district_id_] => 62
+    [region_] => 500
+    [city_] => 29404
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 93.79.97.193
+    [reg_cookie_] => 999BE0D8D1644FEE8CE69500331CDCA7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+    [error] => Array
+        (
+            [code] => 20001
+            [message] => ORA-20001: ORA-00001: unique constraint (B36_DIRECTOR.PK_ONL_RESPONDENT) violated
+ORA-06512: at "B36_DIRECTOR.ADM_PACKAGE", line 13
+ORA-06512: at "B36_DIRECTOR.ADM_PACKAGE", line 68
+ORA-06512: at "B36_DIRECTOR.ONL_RESPONDENT_PACKAGE", line 105
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 82
+ORA-06512: at line 1
+            [offset] => 0
+            [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+        )
+
+)
+
+
+
+	Date/Time: 2015-07-16 10:41:38
+
+Array
+(
+    [tns_id] => 999BE0D8D1644FEE8CE69500331CDCA7
+    [respondent_id_] => 0
+    [last_name_] => &#4315;&#4312;&#4321;&#4304;&#4314;&#4315;&#4308;&#4305;&#4304;
+    [first_name_] => Алексіос
+    [sex_] => 1
+    [birth_date_] => 
+    [birth_date_d] => 11
+    [birth_date_m] => 5
+    [birth_date_y] => 1978
+    [district_id_] => 62
+    [region_] => 500
+    [city_] => 29404
+    [cell_phone_number_] => 0508612022
+    [email_] => iron_wit@gmail.com
+    [password] => 123456
+    [password_confirm] => 123456
+    [know_about_] => 1
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => U3F7VE
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => &#4315;&#4312;&#4321;&#4304;&#4314;&#4315;&#4308;&#4305;&#4304;
+    [first_name_] => Алексіос
+    [sex_] => 1
+    [birth_date_] => 11.5.1978
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0508612022
+    [email_] => iron_wit@gmail.com
+    [district_id_] => 62
+    [region_] => 500
+    [city_] => 29404
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 93.79.97.193
+    [reg_cookie_] => 999BE0D8D1644FEE8CE69500331CDCA7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #170
+
+Array
+(
+    [is_complete_] => 1222
+    [last_name_] => &#4315;&#4312;&#4321;&#4304;&#4314;&#4315;&#4308;&#4305;&#4304;
+    [first_name_] => Алексіос
+    [sex_] => 1
+    [birth_date_] => 11.5.1978
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0508612022
+    [email_] => iron_wit@gmail.com
+    [district_id_] => 62
+    [region_] => 500
+    [city_] => 29404
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 93.79.97.193
+    [reg_cookie_] => 999BE0D8D1644FEE8CE69500331CDCA7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2015-07-21 15:35:10
+
+Array
+(
+    [tns_id] => 7FF54C47696D48E79D0DC5DC0CFDAAEB
+    [respondent_id_] => 0
+    [last_name_] => Горелова
+    [first_name_] => Ирина
+    [sex_] => 0
+    [birth_date_] => 
+    [birth_date_d] => 26
+    [birth_date_m] => 12
+    [birth_date_y] => 1982
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0503518985
+    [email_] => ogurchik@gmail.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 2
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => U9G2W5
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => Горелова
+    [first_name_] => Ирина
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503518985
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 7FF54C47696D48E79D0DC5DC0CFDAAEB
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => Горелова
+    [first_name_] => Ирина
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503518985
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 7FF54C47696D48E79D0DC5DC0CFDAAEB
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+    [error] => Array
+        (
+            [code] => 20001
+            [message] => ORA-20001: ORA-00001: unique constraint (B36_DIRECTOR.PK_ONL_RESPONDENT) violated
+ORA-06512: at "B36_DIRECTOR.ADM_PACKAGE", line 13
+ORA-06512: at "B36_DIRECTOR.ADM_PACKAGE", line 68
+ORA-06512: at "B36_DIRECTOR.ONL_RESPONDENT_PACKAGE", line 105
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 82
+ORA-06512: at line 1
+            [offset] => 0
+            [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+        )
+
+)
+
+
+
+	Date/Time: 2015-07-21 15:38:41
+
+Array
+(
+    [tns_id] => 7FF54C47696D48E79D0DC5DC0CFDAAEB
+    [respondent_id_] => 0
+    [last_name_] => Горелова
+    [first_name_] => Ирина
+    [sex_] => 0
+    [birth_date_] => 
+    [birth_date_d] => 26
+    [birth_date_m] => 12
+    [birth_date_y] => 1982
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0503518985
+    [email_] => ogurchik@gmail.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 2
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => ZVM3PG
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => Горелова
+    [first_name_] => Ирина
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503518985
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 7FF54C47696D48E79D0DC5DC0CFDAAEB
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => Горелова
+    [first_name_] => Ирина
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503518985
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 7FF54C47696D48E79D0DC5DC0CFDAAEB
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+    [error] => Array
+        (
+            [code] => 20001
+            [message] => ORA-20001: ORA-00001: unique constraint (B36_DIRECTOR.PK_ONL_RESPONDENT) violated
+ORA-06512: at "B36_DIRECTOR.ADM_PACKAGE", line 13
+ORA-06512: at "B36_DIRECTOR.ADM_PACKAGE", line 68
+ORA-06512: at "B36_DIRECTOR.ONL_RESPONDENT_PACKAGE", line 105
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 82
+ORA-06512: at line 1
+            [offset] => 0
+            [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+        )
+
+)
+
+
+
+	Date/Time: 2015-07-21 15:40:15
+
+Array
+(
+    [tns_id] => 7FF54C47696D48E79D0DC5DC0CFDAAEB
+    [respondent_id_] => 0
+    [last_name_] => Горелова
+    [first_name_] => Ирина
+    [sex_] => 0
+    [birth_date_] => 
+    [birth_date_d] => 26
+    [birth_date_m] => 12
+    [birth_date_y] => 1982
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0503518985
+    [email_] => ogurchik@gmail.com
+    [password] => 123123
+    [password_confirm] => 123123
+    [know_about_] => 2
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => G7M95N
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => Горелова
+    [first_name_] => Ирина
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503518985
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 7FF54C47696D48E79D0DC5DC0CFDAAEB
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #170
+
+Array
+(
+    [is_complete_] => 130464
+    [last_name_] => Горелова
+    [first_name_] => Ирина
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503518985
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 7FF54C47696D48E79D0DC5DC0CFDAAEB
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2015-08-26 16:08:25
+
+Array
+(
+    [tns_id] => 39215823AF014D098221C34D3BDD5236
+    [respondent_id_] => 0
+    [last_name_] => вап
+    [first_name_] => Вов
+    [sex_] => 1
+    [birth_date_] => 3.3.1987
+    [birth_date_d] => 3
+    [birth_date_m] => 3
+    [birth_date_y] => 1987
+    [district_id_] => 3
+    [region_] => 237
+    [city_] => 1581
+    [cell_phone_number_] => 0672202222
+    [email_] => diamond2@i.ua
+    [password] => qwerty
+    [password_confirm] => qwerty
+    [know_about_] => 2
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => AMTC9B
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => вап
+    [first_name_] => Вов
+    [sex_] => 1
+    [birth_date_] => 3.3.1987
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0672202222
+    [email_] => diamond2@i.ua
+    [district_id_] => 3
+    [region_] => 237
+    [city_] => 1581
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 89.252.56.204
+    [reg_cookie_] => 39215823AF014D098221C34D3BDD5236
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => вап
+    [first_name_] => Вов
+    [sex_] => 1
+    [birth_date_] => 3.3.1987
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0672202222
+    [email_] => diamond2@i.ua
+    [district_id_] => 3
+    [region_] => 237
+    [city_] => 1581
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 89.252.56.204
+    [reg_cookie_] => 39215823AF014D098221C34D3BDD5236
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+    [error] => Array
+        (
+            [code] => 20001
+            [message] => ORA-20001: The phone number is already in use.
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 233
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 57
+ORA-06512: at line 1
+            [offset] => 0
+            [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+        )
+
+)
+
+
+
+	Date/Time: 2015-08-26 16:09:11
+
+Array
+(
+    [tns_id] => 39215823AF014D098221C34D3BDD5236
+    [respondent_id_] => 0
+    [last_name_] => вап
+    [first_name_] => Вов
+    [sex_] => 1
+    [birth_date_] => 
+    [birth_date_d] => 3
+    [birth_date_m] => 3
+    [birth_date_y] => 1987
+    [district_id_] => 3
+    [region_] => 237
+    [city_] => 1581
+    [cell_phone_number_] => 0672202223
+    [email_] => diamond2@i.ua
+    [password] => qwerty
+    [password_confirm] => qwerty
+    [know_about_] => 2
+    [know_about_other] => 
+    [respondent_fields_captcha_code] => H7RAY4
+    [checkboxConfirm] => on
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => вап
+    [first_name_] => Вов
+    [sex_] => 1
+    [birth_date_] => 3.3.1987
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0672202223
+    [email_] => diamond2@i.ua
+    [district_id_] => 3
+    [region_] => 237
+    [city_] => 1581
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 89.252.56.204
+    [reg_cookie_] => 39215823AF014D098221C34D3BDD5236
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #178
+
+Array
+(
+    [is_complete_] => 130483
+    [last_name_] => вап
+    [first_name_] => Вов
+    [sex_] => 1
+    [birth_date_] => 3.3.1987
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0672202223
+    [email_] => diamond2@i.ua
+    [district_id_] => 3
+    [region_] => 237
+    [city_] => 1581
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 89.252.56.204
+    [reg_cookie_] => 39215823AF014D098221C34D3BDD5236
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+

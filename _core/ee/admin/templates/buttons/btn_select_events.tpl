@@ -1,0 +1,1 @@
+<input style="cursor: hand" type="button" accessKey="<%CONSTANT:BUT_ACCESS_KEY_SAVE%>" value="<%CONSTANT:BUT_LABEL_SELECT_EVENTS%>" name="select_events" class="button" onclick="openWin('news_select.php?newsletter_id=<%:edit%>',400,500)">

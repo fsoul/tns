@@ -1,0 +1,1 @@
+<span onmouseover="ddrivetip('<img src=&quot;<%:EE_HTTP%><%:EE_MEDIA_PATH%><%:image_name%>&quot; <%iif:<%:size_y%>,0,,<%iif:<%:size_x%>,0,,height=&quot;<%:size_y%>&quot; width=&quot;<%:size_x%>&quot; %>%>>')" onmouseout="hideddrivetip()" alt=""><b><%:EE_MEDIA_PATH%><%:image_title%></b></span>

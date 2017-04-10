@@ -1,0 +1,126 @@
+#admin_popup,
+#admin_popup2
+{
+	position:static;
+}
+
+#admin_popup_resizablepanel {z-index:201;}
+#admin_popup_resizablepanel_c {z-index:201;}
+#admin_popup2_resizablepanel {z-index:203;}
+#admin_popup2_resizablepanel_c {z-index:203;}
+
+
+#admin_popup_resizablepanel,
+#admin_popup_resizablepanel .bd,
+#admin_popup_resizablepanel .ft,
+#admin_popup2_resizablepanel,
+#admin_popup2_resizablepanel .bd,
+#admin_popup2_resizablepanel .ft
+{
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+
+#admin_popup_resizablepanel .bd div,
+#admin_popup2_resizablepanel .bd div
+{
+	overflow:hidden;
+	background:url(../lib/yui/build/carousel/assets/ajax-loader.gif) no-repeat 50% 50% #FFF;
+	height:100%;
+}
+
+#admin_popup_resizablepanel .ft,
+#admin_popup2_resizablepanel .ft
+{
+	height:20px;
+}
+
+
+#admin_popup_resizablepanel .hd,
+#admin_popup2_resizablepanel .hd
+{
+	margin:0;
+	border:0;
+	height: 30px;
+	color:#555;    
+	font-size: 15px;
+}
+
+
+
+#admin_popup_resizablepanel .yui-resize-handle-br,
+#admin_popup2_resizablepanel .yui-resize-handle-br
+{
+	right:0;
+	bottom:0;
+	height: 8px;
+	width: 8px;
+	position:absolute;
+}
+
+
+/*  
+    The following CSS is added to prevent scrollbar bleedthrough on
+    Gecko browsers (e.g. Firefox) on MacOS.
+*/
+
+/*
+    PLEASE NOTE: It is necessary to toggle the "overflow" property 
+    of the body element between "hidden" and "auto" in order to 
+    prevent the scrollbars from remaining visible after the the 
+    Resizable Panel is hidden.  For more information on this issue, 
+    read the comments in the "container-core.css" file.
+   
+    We use the #reziablepanel_c id based specifier, so that the rule
+    is specific enough to over-ride the .bd overflow rule above.
+*/
+
+#admin_popup_resizablepanel_c.hide-scrollbars .yui-resize .bd,
+#admin_popup2_resizablepanel_c.hide-scrollbars .yui-resize .bd
+{
+	overflow: hidden;
+}
+
+#admin_popup_resizablepanel_c.show-scrollbars .yui-resize .bd,
+#admin_popup2_resizablepanel_c.show-scrollbars .yui-resize .bd
+{
+	overflow: auto;
+}
+
+/*
+    PLEASE NOTE: It is necessary to set the "overflow" property of
+    the underlay element to "visible" in order for the 
+    scrollbars on the body of a Resizable Panel instance to be 
+    visible.  By default the "overflow" property of the underlay 
+    element is set to "auto" when a Panel is made visible on
+    Gecko for Mac OS X to prevent scrollbars from poking through
+    it on that browser + platform combintation.  For more 
+    information on this issue, read the comments in the 
+    "container-core.css" file.
+*/
+
+#admin_popup_resizablepanel_c.show-scrollbars .underlay,
+#admin_popup2_resizablepanel_c.show-scrollbars .underlay
+{
+	overflow: visible;
+}
+.panel-on-move  {
+	opacity:0.6;
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=60);
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(opacity=60)";
+}
+.panel-on-move .bd,
+.panel-on-move .ft {
+	opacity:0.3;
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=30);
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(opacity=30)";
+}
+.panel-on-move .yui-resize-handle {
+	display: none;
+}
+/* Fix underlay opacity for IE8 */
+.yui-skin-sam .yui-panel-container.shadow .underlay {
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(opacity=12)";
+}

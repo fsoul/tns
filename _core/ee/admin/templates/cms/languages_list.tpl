@@ -1,0 +1,1 @@
+Choose language:&nbsp;<%print_avail_languages%>

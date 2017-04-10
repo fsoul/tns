@@ -1,0 +1,170 @@
+[2015-10-21 12:55:21]  $onl_respondent_id: 130642$url_id:4jd2zkcyqt$dic_ap_question_id1$dic_answersArray
+
+res-response^Array
+
+[2015-10-21 12:55:25]  $onl_respondent_id: 130642$url_id:4jd2zkcyqt$dic_ap_question_id2$dic_answersArray
+
+res-response^Array
+
+[2015-10-21 12:55:28]  $onl_respondent_id: 130642$url_id:4jd2zkcyqt$dic_ap_question_id3$dic_answersArray
+
+res-response^Array
+
+[2015-10-21 12:55:31]  $onl_respondent_id: 130642$url_id:4jd2zkcyqt$dic_ap_question_id4$dic_answersArray
+
+res-response^Array
+
+[2015-10-21 12:55:33]  $onl_respondent_id: 130642$url_id:4jd2zkcyqt$dic_ap_question_id5$dic_answersArray
+
+res-response^Array
+
+[2015-10-21 12:55:35]  $onl_respondent_id: 130642$url_id:4jd2zkcyqt$dic_ap_question_id6$dic_answersArray
+
+res-response^Array
+
+[2015-10-21 12:55:37]  $onl_respondent_id: 130642$url_id:4jd2zkcyqt$dic_ap_question_id7$dic_answersArray
+
+res-response^Array
+
+[2015-10-21 12:55:39]  $onl_respondent_id: 130642$url_id:4jd2zkcyqt$dic_ap_question_id8$dic_answersArray
+
+res-response^Array
+
+[2015-10-21 12:55:41]  $onl_respondent_id: 130642$url_id:4jd2zkcyqt$dic_ap_question_id9$dic_answersArray
+
+res-response^Array
+
+[2015-10-21 12:55:43]  $onl_respondent_id: 130642$url_id:4jd2zkcyqt$dic_ap_question_id10$dic_answersArray
+
+res-response^Array
+
+[2015-10-21 12:55:46]  $onl_respondent_id: 130642$url_id:4jd2zkcyqt$dic_ap_question_id11$dic_answersArray
+
+res-response^Array
+
+[2015-10-21 12:56:02]  $onl_respondent_id: 130642$url_id:4jd2zkcyqt$dic_ap_question_id12$dic_answersArray
+
+[2015-10-21 12:58:09]  $onl_respondent_id: 130642 //url_id:4jd2zkcyqt //dic_ap_question_id13 //dic_answersArray
+
+res-response^Array
+
+[2015-10-21 12:58:13]  $onl_respondent_id: 130642 //url_id:4jd2zkcyqt //dic_ap_question_id63 //dic_answersArray
+
+res-response^Array
+
+[2015-10-21 12:58:17]  $onl_respondent_id: 130642 //url_id:4jd2zkcyqt //dic_ap_question_id64 //dic_answersArray
+
+res-response^Array
+
+[2015-10-21 12:58:20]  $onl_respondent_id: 130642 //url_id:4jd2zkcyqt //dic_ap_question_id77 //dic_answersArray
+
+res-response^Array
+
+[2015-10-21 12:58:22]  $onl_respondent_id: 130642 //url_id:4jd2zkcyqt //dic_ap_question_id65 //dic_answersArray
+
+res-response^Array
+
+[2015-10-21 12:58:25]  $onl_respondent_id: 130642 //url_id:4jd2zkcyqt //dic_ap_question_id66 //dic_answersArray
+
+res-response^Array
+
+[2015-10-21 12:58:27]  $onl_respondent_id: 130642 //url_id:4jd2zkcyqt //dic_ap_question_id67 //dic_answersArray
+
+res-response^Array
+
+[2015-10-21 12:58:33]  $onl_respondent_id: 130642 //url_id:4jd2zkcyqt //dic_ap_question_id68 //dic_answersArray
+
+res-response^Array
+
+[2015-10-21 12:58:36]  $onl_respondent_id: 130642 //url_id:4jd2zkcyqt //dic_ap_question_id69 //dic_answersArray
+
+res-response^Array
+
+[2015-10-21 12:58:39]  $onl_respondent_id: 130642 //url_id:4jd2zkcyqt //dic_ap_question_id70 //dic_answersArray
+
+res-response^Array
+
+[2015-10-21 13:02:57]  $onl_respondent_id: 130642 //url_id:4jd2zkcyqt //dic_ap_question_id71 //dic_answersArray
+
+res-response^Array
+
+[2015-10-21 13:03:04]  $onl_respondent_id: 130642 //url_id:4jd2zkcyqt //dic_ap_question_id72 //dic_answersArray
+
+res-response^Array
+
+[2015-10-21 13:03:10]  $onl_respondent_id: 130642 //url_id:4jd2zkcyqt //dic_ap_question_id73 //dic_answersArray
+
+res-response^Array
+
+[2015-10-21 13:03:14]  $onl_respondent_id: 130642 //url_id:4jd2zkcyqt //dic_ap_question_id74 //dic_answersArray
+
+res-response^Array
+
+[2015-10-21 13:05:52]  $onl_respondent_id: 130642 //url_id:4jd2zkcyqt //dic_ap_question_id75 //dic_answersArray
+
+res-response^
+
+[2015-10-21 13:06:12]  $onl_respondent_id: 130642 //url_id:4jd2zkcyqt //dic_ap_question_id76 //dic_answersArray
+
+res-response^
+
+[2015-10-21 13:10:13]  $onl_respondent_id: 130642 // url_id: nbp7bvmtqt // dic_ap_question_id: 44 // dic_answersArray
+
+res-response^
+
+[2015-10-21 13:12:06]  $onl_respondent_id: 130642 // url_id: nbp7bvmtqt // dic_ap_question_id: 45 // dic_answers5260 /  / 
+
+res-response^
+
+[2015-10-21 13:12:10]  $onl_respondent_id: 130642 // url_id: nbp7bvmtqt // dic_ap_question_id: 46 // dic_answers5280 /  / 
+
+res-response^
+
+[2015-10-21 13:12:13]  $onl_respondent_id: 130642 // url_id: nbp7bvmtqt // dic_ap_question_id: 47 // dic_answers5298 /  / 
+
+res-response^
+
+[2015-10-21 13:12:41]  $onl_respondent_id: 130642 // url_id: nbp7bvmtqt // dic_ap_question_id: 48 // dic_answers5302 /  / 
+
+res-response^
+
+[2015-10-21 13:12:44]  $onl_respondent_id: 130642 // url_id: nbp7bvmtqt // dic_ap_question_id: 49 // dic_answers5303 /  / 
+
+res-response^
+
+[2015-10-21 13:12:49]  $onl_respondent_id: 130642 // url_id: nbp7bvmtqt // dic_ap_question_id: 50 // dic_answers5306 /  / 
+
+res-response^
+
+[2015-10-21 13:13:04]  $onl_respondent_id: 130642 // url_id: nbp7bvmtqt // dic_ap_question_id: 51 // dic_answers5311 / 5316 / 5321
+
+res-response^
+
+[2015-10-21 13:13:10]  $onl_respondent_id: 130642 // url_id: nbp7bvmtqt // dic_ap_question_id: 52 // dic_answers5421 /  / 
+
+res-response^
+
+[2015-10-21 13:13:29]  $onl_respondent_id: 130642 // url_id: nbp7bvmtqt // dic_ap_question_id: 53 // dic_answers5456 / 5463 / 5470
+
+res-response^
+
+[2015-10-21 13:52:45]  $onl_respondent_id: 1141 // url_id: nbp7bvmtqt // dic_ap_question_id: 44 // dic_answers5244 /  / 
+
+res-response^
+
+[2015-10-21 13:53:13]  $onl_respondent_id: 1141 // url_id: nbp7bvmtqt // dic_ap_question_id: 45 // dic_answers5260 /  / 
+
+res-response^
+
+[2015-10-21 13:53:21]  $onl_respondent_id: 1141 // url_id: nbp7bvmtqt // dic_ap_question_id: 46 // dic_answers5280 /  / 
+
+res-response^
+
+[2015-10-21 13:55:01]  $onl_respondent_id: 1141 // url_id: nbp7bvmtqt // dic_ap_question_id: 47 // dic_answers5295 /  / 
+
+res-response^
+
+[2015-10-21 13:59:39]  $onl_respondent_id: 1141 // url_id: nbp7bvmtqt // dic_ap_question_id: 48 // dic_answers5301 /  / 
+
+res-response^
+

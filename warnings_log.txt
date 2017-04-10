@@ -1,0 +1,7 @@
+First update time=2012-02-26 18:04:51
+Mails already sent=6
+Last update time=2012-02-26 18:07:13
+
+For last 10 minute(s) more then 5 warnings were sent.
+Warnings sending is stoped now.
+Delete warnings_stop.txt file to start warnings sending again.

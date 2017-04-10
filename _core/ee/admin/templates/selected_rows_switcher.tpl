@@ -1,0 +1,1 @@
+<input title="<%cons:All rows check/uncheck%>" type="checkbox" name="selected_rows_switcher" onclick="selected_rows_switch(this.checked);">

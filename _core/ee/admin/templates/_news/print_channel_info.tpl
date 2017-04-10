@@ -1,0 +1,1 @@
+<%print_channel_info:<%:channel_id%>%>

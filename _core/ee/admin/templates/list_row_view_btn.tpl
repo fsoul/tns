@@ -1,0 +1,1 @@
+	<a href="<%:modul%>.php?op=4&edit=<%:id%><%iif::admin_template,yes,&admin_template=yes%>"><img src="<%:EE_HTTP%>img/viewBt.gif" width="16" height="16" alt="<%cons:GRID_PREVIEW%>" title="<%cons:GRID_PREVIEW%>" border="0"></a>&nbsp;&nbsp;

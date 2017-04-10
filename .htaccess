@@ -1,0 +1,59 @@
+AuthType Basic
+AuthName admin
+require valid-user
+AuthUserFile /var/www/html/.htpasswd
+
+# Order allow,deny
+# Allow from 62.149.9.103 127.0.0.1 82.144.201.69 89.252.33.50
+# Satisfy Any
+
+
+# Don't touch lines below please
+# 
+
+AddDefaultCharset Off
+
+DirectoryIndex index.html /_core/ee/index.php
+
+RewriteEngine On
+
+
+RewriteCond %{HTTP_HOST} .
+RewriteCond %{HTTP_HOST} !^devopros\.macc\.com\.ua$
+RewriteRule (.*) http://devopros.macc.com.ua/$1 [R=301,L]
+
+RewriteRule ^UA/project-complete-url$ /UA/project-complete-url.html [R=301,L]
+RewriteRule ^RU/project-complete-url$ /RU/project-complete-url.html [R=301,L]
+RewriteRule ^Plugin.html$ http://devopros.macc.com.ua/UA/Plugin.html [R=301,L]
+
+RewriteRule ^sitemap.xml$ /_core/ee/index.php?t=sitemap [L]
+
+RewriteRule ^forum$ /forum/index.php [L,QSA]
+RewriteRule ^forum/$ /forum/index.php [L,QSA]
+
+RewriteRule ^admin$ /_core/ee/admin/includer.php [L,QSA]
+RewriteRule ^admin/ /_core/ee/admin/includer.php [L,QSA]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} dynamic_style.css
+RewriteRule ^(.*)$ /_core/ee/css/dynamic_style.php [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(img|images|css|js|lib|js|fckeditor|fck_custom|help)/(.*)$ /_core/ee/$1/$2 [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([A-Z][A-Z])/(.*)\.html(.*)$ /_core/ee/index.php?language=$1&t=$2 [L,QSA]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ /_core/ee/index.php [L,QSA]
+
+<Files key>
+ order allow,deny
+ deny from all
+</Files>
+
+# Don't touch lines above please
+
+#if site under construction
+#RewriteCond %{REQUEST_URI} !^/under_construction.html$
+#RewriteRule ^(.*)$ http://opros.tns-ua.com/under_construction.html

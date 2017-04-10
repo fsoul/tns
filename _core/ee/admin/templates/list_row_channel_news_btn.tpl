@@ -1,0 +1,1 @@
+<a href="news.php?channel_id=<%:id%>"><img src="<%:EE_HTTP%>img/editbt.gif" width="16" height="16" alt="<%str_to_title:<%cons:template_preview%>%>" title ="<%str_to_title:<%cons:template_preview%>%>" border="0"></a>&nbsp;&nbsp;

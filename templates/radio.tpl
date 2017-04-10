@@ -1,0 +1,1 @@
+<%row% <li><input type="radio" id="<%:input_name%>_<%:option_value%>" name="<%:input_name%>" value="<%:option_value%>" <%iif:<%:option_value%>,<%:option_value_test%>, checked="checked"%>><label for="<%:input_name%>_<%:option_value%>" class="<%:label_class%>"><%:option_text%></label></li> %row%>

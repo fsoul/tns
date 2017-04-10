@@ -1,0 +1,142 @@
+/* 
+    Document   : icons.css
+    Author     : david.rosser
+    Description:
+        Define icon styles here.
+*/
+
+/* =Icons Global
+-------------------------------------------------------------- */
+/*
+Use these icons with any A, B or C Feature
+*/  
+div.container span.icon{
+    
+}
+
+/* =Icon Globe
+-------------------------------------------------------------- */
+div.container span.icon.globe{
+    background: url(/assets/images/global/c-features/c-feature-icon-globe-spritesheet.jpg) no-repeat;
+    width: 52px;
+    height: 51px;
+}
+
+div.container span.icon.globe.hover{
+    background-position: 0 -51px;
+}
+
+/* =Icon Globe Reef
+-------------------------------------------------------------- */
+div.container span.icon.globe-reef{
+    background: url(images/c-feature-icon-globe-reef-spritesheet.jpg) no-repeat;
+    width: 66px;
+    height: 55px;
+}
+
+div.container span.icon.globe-reef.hover{
+    background-position: 0 -55px;
+}
+
+/* =Icon Person
+-------------------------------------------------------------- */
+div.container span.icon.person{
+    background: url(/assets/images/global/c-features/c-feature-icon-person-spritesheet.jpg) no-repeat;
+    width: 50px;
+    height: 50px;
+}
+
+div.container span.icon.person.hover{
+	background-position: 0 -50px;
+}
+
+/* =Icon Play
+-------------------------------------------------------------- */
+div.container span.icon.play{
+    background: url(/assets/images/global/c-features/c-feature-icon-play-spritesheet.jpg) no-repeat;
+    width: 51px;
+    height: 36px;
+}
+
+div.container span.icon.play.hover{
+	background-position: 0 -36px;
+}
+
+/* =Icon Precision Growth
+-------------------------------------------------------------- */
+div.container span.icon.precision-growth{
+    background: url(/assets/images/global/c-features/c-feature-icon-precision-growth-spritesheet.jpg) no-repeat;
+    width: 125px;
+    height: 96px;
+}
+
+div.container span.icon.precision-growth.hover{
+    background-position: 0 -96px;
+}
+
+/* =Icon Notice Board
+-------------------------------------------------------------- */
+div.container span.icon.notice-board{
+    background: url(images/c-feature-icon-notice-board-spritesheet.jpg) no-repeat;
+    width: 59px;
+    height: 51px;
+}
+
+div.container span.icon.notice-board.hover{
+    background-position: 0 -51px;
+}
+
+/* =Icon Data Board
+-------------------------------------------------------------- */
+div.container span.icon.data-board{
+    background: url(images/c-feature-icon-data-board-spritesheet.jpg) no-repeat;
+    width: 51px;
+    height: 59px;
+}
+
+div.container span.icon.data-board.hover{
+    background-position: 0 -59px;
+}
+
+/* =Icon Archive
+-------------------------------------------------------------- */
+div.container span.icon.archive{
+    background: url(/assets/images/global/c-features/c-feature-icon-archive-spritesheet.jpg) no-repeat;
+    width: 31px;
+    height: 44px;
+}
+
+div.container span.icon.archive.hover{
+    background-position: 0 -44px;
+}
+
+/* =Icon Pencil
+-------------------------------------------------------------- */
+div.container span.icon.pencil{
+    background: url(/assets/images/global/c-features/c-feature-icon-pencil-spritesheet.jpg) no-repeat;
+    width: 40px;
+    height: 39px;
+}
+
+div.container span.icon.pencil-small{
+    background: url(/assets/images/pages/news-center/pencil-small.png) no-repeat;
+    width: 26px;
+    height: 25px;
+}
+
+div.container span.icon.pencil.hover{
+    background-position: 0 -39px;
+}
+
+
+/* =Icon Growth Map
+-------------------------------------------------------------- */
+div.container span.icon.growth-map{
+    background: url(/assets/images/global/c-features/c-feature-icon-growth-map-spritesheet.jpg) no-repeat;
+    width: 47px;
+    height: 47px;
+}
+
+div.container span.icon.growth-map.hover{
+    background-position: 0 -47px;
+}

@@ -1,0 +1,2 @@
+<input <%iif::readonly,,,readonly%> type="hidden" name="old_<%:field_name%>" value="<%iif:<%:<%:field_name%>%>,,<%get_next_order:gallery_image,item_order,<%:gallery_id%>%>,<%:<%:field_name%>%>%>" size="<%:size%>">
+<input <%iif::readonly,,,readonly%> size="5" type="text" name="<%:field_name%>" value="<%iif:<%:<%:field_name%>%>,,<%get_next_order:gallery_image,item_order,<%:gallery_id%>%>,<%:<%:field_name%>%>%>" size="<%:size%>">

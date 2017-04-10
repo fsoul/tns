@@ -1,0 +1,248 @@
+[2016-02-05 18:47:50] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: 
+
+[2016-02-05 18:47:50] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: 
+
+[2016-02-05 18:52:04] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //nullUkrainian
+
+[2016-02-05 18:52:04] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 18:53:26] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 18:53:26] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 18:57:11] ap_process_project_complete_by_url() ___ lbgr9riubt13cr9vnqcxq $project_complete_code:  $complete_type: //
+
+[2016-02-05 18:57:52] ap_process_project_complete_by_url() ___ 111 $project_complete_code:  $complete_type: //
+
+[2016-02-05 18:58:05] ap_process_project_complete_by_url() ___ 112 $project_complete_code:  $complete_type: //
+
+[2016-02-05 18:59:04] ap_process_project_complete_by_url() ___ 211 $project_complete_code:  $complete_type: //nullUkrainian
+
+[2016-02-05 18:59:04] ap_process_project_complete_by_url() ___ 211 $project_complete_code:  $complete_type: //
+
+[2016-02-05 18:59:09] ap_process_project_complete_by_url() ___ 212 $project_complete_code:  $complete_type: //
+
+[2016-02-05 19:00:41] ap_process_project_complete_by_url() ___ 311 $project_complete_code:  $complete_type: //Ukrainian
+
+[2016-02-05 19:00:41] ap_process_project_complete_by_url() ___ 311 $project_complete_code:  $complete_type: //
+
+[2016-02-05 19:01:04] ap_process_project_complete_by_url() ___ 312 $project_complete_code:  $complete_type: //null
+
+[2016-02-05 19:01:04] ap_process_project_complete_by_url() ___ 312 $project_complete_code:  $complete_type: //
+
+[2016-02-05 19:02:12] ap_process_project_complete_by_url() ___ 313 $project_complete_code:  $complete_type: //
+
+[2016-02-05 19:02:12] ap_process_project_complete_by_url() ___ 313 $project_complete_code:  $complete_type: //
+
+[2016-02-05 19:02:21] ap_process_project_complete_by_url() ___ 314 $project_complete_code:  $complete_type: //
+
+[2016-02-05 19:15:28] ap_process_project_complete_by_url() ___ 401 $project_complete_code:  $complete_type: //nullUkrainian
+
+[2016-02-05 19:35:59] ap_process_project_complete_by_url() ___ 401 $project_complete_code:  $complete_type: //nullUkrainian
+
+[2016-02-05 19:35:59] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 19:36:00] ap_process_project_complete_by_url() ___ 314 $project_complete_code:  $complete_type: //
+
+[2016-02-05 19:36:01] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 19:36:01] ap_process_project_complete_by_url() ___ 313 $project_complete_code:  $complete_type: //
+
+[2016-02-05 19:36:02] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 19:36:30] ap_process_project_complete_by_url() ___ lbgr9riubt1cr9vnqcxq $project_complete_code:  $complete_type: //nullUkrainian
+
+[2016-02-05 19:36:30] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 19:36:49] ap_process_project_complete_by_url() ___ 501 $project_complete_code:  $complete_type: //nullUkrainian
+
+[2016-02-05 19:36:50] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 19:39:26] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 19:39:26] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 19:39:53] ap_process_project_complete_by_url() ___ 600 $project_complete_code:  $complete_type: //nullUkrainian
+
+[2016-02-05 19:39:53] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 19:55:51] ap_process_project_complete_by_url() ___ lbgr9riubt1cr9vnqcxq $project_complete_code:  $complete_type: //nullUkrainian
+
+[2016-02-05 19:56:25] ap_process_project_complete_by_url() ___ lbgr9riubt1cr9vnqcxq $project_complete_code:  $complete_type: //nullUkrainian
+
+[2016-02-05 19:58:13] ap_process_project_complete_by_url() ___ 701 $project_complete_code:  $complete_type: //nullUkrainian
+
+[2016-02-05 20:04:10] ap_process_project_complete_by_url() ___ 701 $project_complete_code:  $complete_type: //nullUkrainian
+
+[2016-02-05 20:04:10] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:10] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:10] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:11] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:11] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:11] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:11] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:12] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:12] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:12] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:12] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:13] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:13] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:13] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:13] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:13] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:13] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:14] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:14] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:14] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:15] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:15] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:15] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:16] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:16] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:16] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:16] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:16] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:17] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:17] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:17] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:17] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:18] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:18] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:18] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:18] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:18] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:19] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:19] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:19] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:19] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:25] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:25] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:25] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:25] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:26] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:26] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:26] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:26] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:26] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:27] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:27] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:27] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:27] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:27] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:28] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:28] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:28] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:28] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:29] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:29] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:29] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:59] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:04:59] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:05:00] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:05:00] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:05:00] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:05:00] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:05:01] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:05:01] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:05:01] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:05:01] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:05:02] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:05:02] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:05:02] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:05:02] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:05:03] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:05:03] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:05:03] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:05:03] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:05:03] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:05:04] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:05:04] ap_process_project_complete_by_url() ___  $project_complete_code:  $complete_type: //
+
+[2016-02-05 20:05:18] ap_process_project_complete_by_url() ___ 701 $project_complete_code:  $complete_type: //nullUkrainian
+
+[2016-02-05 20:05:19] ap_process_project_complete_by_url() ___ 701 $project_complete_code:  $complete_type: //nullUkrainian
+
+[2016-02-05 20:05:30] ap_process_project_complete_by_url() ___ 801 $project_complete_code:  $complete_type: //nullUkrainian
+

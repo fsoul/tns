@@ -1,0 +1,30 @@
+#headmenu {
+	top: 79px;
+}
+#TOPvisu {
+	top: 120px;
+}
+#menu {
+	top: 267px;
+}
+#content { top: 323px; }
+
+#language { top: 113px;}
+
+.redform
+{
+	border:1px solid #CE0031;
+	background-color:#F7C600;
+}
+
+#dhtmltooltip2 {
+position: absolute;
+border: 1px solid black;
+padding: 2px;
+background-color: lightyellow;
+visibility: hidden;
+z-index: 100;
+font: 10px Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+}

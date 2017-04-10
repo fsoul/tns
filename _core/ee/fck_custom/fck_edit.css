@@ -1,0 +1,80 @@
+body
+{
+	font-family: Arial, Verdana, Sans-Serif;
+	font-size: 12px;
+	padding: 0px 0px 0px 0px;
+	margin: 0px;
+	border-style: none;
+	background-color: #ffffff;
+}
+
+.Bold
+{
+	font-weight: bold;
+}
+
+.Title
+{
+	font-weight: bold;
+	font-size: 18px;
+	color: #cc3300;
+}
+
+.Code
+{
+	border: #8b4513 1px solid;
+	padding-right: 5px;
+	padding-left: 5px;
+	color: #000066;
+	font-family: 'Courier New' , Monospace;
+	background-color: #ff9933;
+}
+
+.Title_1 {
+	font-family:Georgia, Times New Roman, Times, serif;
+	color: #000000;
+	text-transform: uppercase;
+	font-size:14px;
+	margin-left: 162px;
+	padding-left: 30px;
+	padding-top: 30px;
+}
+
+.Title_2 {font: bold 13px Verdana, Tahoma, Arial; color: #0099cc}
+.Bold {font: bold 13px Verdana, Tahoma, Arial; color: #000000}
+.Normal {font: 13px Arial, Helvetica, sans-serif; color: #000000}
+.Notes_1 {font: 10px Verdana, Tahoma, Arial; color: #000000}
+.Notes_2 {font: 11px Verdana, Tahoma, Arial; color: #000000}
+
+h2 {
+	background-image: url(../../../images/BGh2.gif);
+	background-repeat: no-repeat;
+	background-position: 5px 10px;
+	color: #152F59;
+	font-size: 18px;
+	height: 33px;
+	margin: 0px 0px 0px -18px;
+	padding: 0px 0px 0px 18px;
+	width: 614px;
+}
+
+h3 {
+	background-image: url(../../../images/BGh3.gif);
+	background-repeat: repeat-x;
+	background-position: 0px 19px;
+	color: #152F59;
+	font-size: 14px;
+	height: 27px;
+}
+
+.LEFTimage {
+	float: left;
+	border-right: 10px solid #FFFFFF;
+	border-bottom: 10px solid #FFFFFF;
+}
+
+.RIGHTimage {
+	float: right;
+	border-left: 10px solid #FFFFFF;
+	border-bottom: 10px solid #FFFFFF;
+}

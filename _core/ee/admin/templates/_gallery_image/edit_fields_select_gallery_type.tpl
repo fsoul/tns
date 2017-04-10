@@ -1,0 +1,1 @@
+<%include:edit_fields_<%iif:<%:edit%>,,select_gallery_id,string%>%>

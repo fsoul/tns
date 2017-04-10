@@ -1,0 +1,3 @@
+<a href="<%:target_url%>" target="_blank"><img src="<%:EE_HTTP%>img/published_page.gif" alt="<%:target_url%>" title="<%:target_url%>" border="0" /></a>&nbsp;&nbsp;
+
+<a href="javascript:<%iif:<%check_content_access::CA_READ_ONLY,,,<%:id%>%>,,openPopup('<%:modul%>.php?op=1&edit=<%:id%>'\,<%:popup_width%>\,<%:popup_height%>\,<%:popup_scroll%>),alert('<%:NO_CONTENT_ACCESS%>')%>"><img src="<%:EE_HTTP%>img/<%iif:<%check_content_access::CA_READ_ONLY,,,<%:id%>%>,,editBt.gif,editBt_gray.gif%>" width="16" height="16" alt="<%cons:GRID_EDIT%>" title ="<%cons:GRID_EDIT%>" border="0"></a>&nbsp;&nbsp;

@@ -1,0 +1,3 @@
+<span onmouseover="ddrivetip('<img src=\'<%:EE_HTTP%><%:EE_IMG_PATH%><%:<%:field_name%>%>\'>')" onMouseout="hideddrivetip()"><b><%:<%:field_name%>%></b></span>&nbsp;&nbsp;
+<input type="hidden" name="<%:field_name%>" value="<%:<%:field_name%>%>">
+<input type="submit" name="delete_img" value="<%:field_name%>" style="cursor:hand; background-image:url(<%:EE_HTTP%>img/delBt.gif);padding:0px;width:16px;margin:0px;border:0;color:#ffffff;">

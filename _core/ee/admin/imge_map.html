@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+	<title></title>
+
+<style type="text/css">
+* {
+	margin:0px;
+	padding:0px;
+}
+</style>
+<script type="text/javascript">
+var x,y;
+function get_image()
+{
+	document.getElementById('image1').src = document.fs.img_url.value;
+}
+function read_data(e)
+{
+	e = (e)?e:window.event;
+	obj = (e.target)?e.target:e.srcElement;
+	var x_new = e.clientX - obj.offsetLeft;
+	var y_new = e.clientY - obj.offsetTop;
+	if (Math.abs(x-x_new)<3 && Math.abs(y-y_new)<3) 
+	{
+		document.fs.result.value += '\n';
+		return false;
+	}
+	x = x_new;
+	y = y_new;
+	if (document.fs.result.value != '' && document.fs.result.value.charAt(document.fs.result.value.length - 1) != '\n') document.fs.result.value += ",";
+	document.fs.result.value += x + "," + y;
+	return false;
+}
+</script>
+</head>
+
+<body onLoad="document.fs.result.value = ''; get_image()">
+<form name="fs" method="post">
+<table border="0">
+<tr>
+<td>
+Path to image:
+<input type="text" name="img_url" onBlur="get_image()"/><br />
+<img name="image1" id="image1" onClick="return read_data(event)"/>
+</td>
+<td>
+<textarea name="result" cols="50" rows="20"></textarea>
+</td>
+</tr>
+</table>
+</form>
+</body>

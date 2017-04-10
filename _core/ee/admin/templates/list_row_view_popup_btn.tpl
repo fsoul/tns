@@ -1,0 +1,1 @@
+	<a href="javascript:openPopup('<%:modul%>.php?op=4&edit=<%:id%>&admin_template=yes',<%:popup_width%>,<%:popup_height%>,<%:popup_scroll%>)"><img src="<%:EE_HTTP%>img/viewBt.gif" width="16" height="16" alt="<%cons:GRID_PREVIEW%>" title="<%cons:GRID_PREVIEW%>" border="0"></a>&nbsp;&nbsp;

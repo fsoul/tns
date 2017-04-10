@@ -1,0 +1,1 @@
+<span class="success"><%str_to_title::modul%> was added successfully</span>

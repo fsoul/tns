@@ -1,0 +1,3 @@
+<input <%iif::readonly,,,readonly%> type="checkbox" name="<%:field_name%>_1" <%iif:<%:<%:field_name%>_1%>,1,checked%> value="1"></td><td align="center">
+<input <%iif::readonly,,,readonly%> type="checkbox" name="<%:field_name%>_2" <%iif:<%:<%:field_name%>_2%>,1,checked%> value="1"></td><td align="center">
+<input <%iif::readonly,,,readonly%> type="checkbox" name="<%:field_name%>_3" <%iif:<%:<%:field_name%>_3%>,1,checked%> value="1">

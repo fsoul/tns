@@ -1,0 +1,442 @@
+
+	Date/Time: 2014-09-26 17:32:55
+
+Array
+(
+    [question_id] => invite
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.get_last_question_id_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_order_num_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 561
+    [profile_pool_type_id_] => 1
+    [url_id_] => 4jd2zkcyqt
+    [dic_ap_question_order_num_] => 
+)
+
+
+Resource id #161
+
+Array
+(
+    [onl_respondent_id_] => 561
+    [profile_pool_type_id_] => 1
+    [url_id_] => 4jd2zkcyqt
+    [dic_ap_question_order_num_] => 17
+)
+
+
+
+	Date/Time: 2014-09-29 14:35:14
+
+Array
+(
+    [question_id] => invite
+    [skip_to] => 0
+    [login_cookie] => E266572DB5F94B3685AC26E9855D0995
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.get_last_question_id_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_order_num_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 701
+    [profile_pool_type_id_] => 1
+    [url_id_] => 4jd2zkcyqt
+    [dic_ap_question_order_num_] => 
+)
+
+
+Resource id #161
+
+Array
+(
+    [onl_respondent_id_] => 701
+    [profile_pool_type_id_] => 1
+    [url_id_] => 4jd2zkcyqt
+    [dic_ap_question_order_num_] => 0
+)
+
+
+
+	Date/Time: 2014-10-08 11:47:12
+
+Array
+(
+    [question_id] => invite
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.get_last_question_id_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_order_num_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 741
+    [profile_pool_type_id_] => 1
+    [url_id_] => 4jd2zkcyqt
+    [dic_ap_question_order_num_] => 
+)
+
+
+Resource id #161
+
+Array
+(
+    [onl_respondent_id_] => 741
+    [profile_pool_type_id_] => 1
+    [url_id_] => 4jd2zkcyqt
+    [dic_ap_question_order_num_] => 0
+)
+
+
+
+	Date/Time: 2014-10-08 11:55:56
+
+Array
+(
+    [question_id] => invite
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.get_last_question_id_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_order_num_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 741
+    [profile_pool_type_id_] => 2
+    [url_id_] => nbp7bvmtqt
+    [dic_ap_question_order_num_] => 
+)
+
+
+Resource id #161
+
+Array
+(
+    [onl_respondent_id_] => 741
+    [profile_pool_type_id_] => 2
+    [url_id_] => nbp7bvmtqt
+    [dic_ap_question_order_num_] => 0
+)
+
+
+
+	Date/Time: 2014-10-08 11:58:55
+
+Array
+(
+    [question_id] => invite
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.get_last_question_id_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_order_num_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 741
+    [profile_pool_type_id_] => 3
+    [url_id_] => fngnak7s9a
+    [dic_ap_question_order_num_] => 
+)
+
+
+Resource id #161
+
+Array
+(
+    [onl_respondent_id_] => 741
+    [profile_pool_type_id_] => 3
+    [url_id_] => fngnak7s9a
+    [dic_ap_question_order_num_] => 0
+)
+
+
+
+	Date/Time: 2014-10-08 12:01:54
+
+Array
+(
+    [question_id] => invite
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.get_last_question_id_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_order_num_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 741
+    [profile_pool_type_id_] => 4
+    [url_id_] => 6ppmzkvjfh
+    [dic_ap_question_order_num_] => 
+)
+
+
+Resource id #161
+
+Array
+(
+    [onl_respondent_id_] => 741
+    [profile_pool_type_id_] => 4
+    [url_id_] => 6ppmzkvjfh
+    [dic_ap_question_order_num_] => 0
+)
+
+
+
+	Date/Time: 2014-10-08 12:03:33
+
+Array
+(
+    [question_id] => invite
+    [skip_to] => 0
+    [login_cookie] => FA532B2CD3E045808632976E289C851F
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.get_last_question_id_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_order_num_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 741
+    [profile_pool_type_id_] => 5
+    [url_id_] => i3bpskbq8x
+    [dic_ap_question_order_num_] => 
+)
+
+
+Resource id #161
+
+Array
+(
+    [onl_respondent_id_] => 741
+    [profile_pool_type_id_] => 5
+    [url_id_] => i3bpskbq8x
+    [dic_ap_question_order_num_] => 0
+)
+
+
+
+	Date/Time: 2014-10-08 12:38:10
+
+Array
+(
+    [question_id] => invite
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.get_last_question_id_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_order_num_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 561
+    [profile_pool_type_id_] => 1
+    [url_id_] => 4jd2zkcyqt
+    [dic_ap_question_order_num_] => 
+)
+
+
+Resource id #161
+
+Array
+(
+    [onl_respondent_id_] => 561
+    [profile_pool_type_id_] => 1
+    [url_id_] => 4jd2zkcyqt
+    [dic_ap_question_order_num_] => 20
+)
+
+
+
+	Date/Time: 2014-10-08 12:42:15
+
+Array
+(
+    [question_id] => invite
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.get_last_question_id_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_order_num_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 561
+    [profile_pool_type_id_] => 5
+    [url_id_] => i3bpskbq8x
+    [dic_ap_question_order_num_] => 
+)
+
+
+Resource id #161
+
+Array
+(
+    [onl_respondent_id_] => 561
+    [profile_pool_type_id_] => 5
+    [url_id_] => i3bpskbq8x
+    [dic_ap_question_order_num_] => 0
+)
+
+
+
+	Date/Time: 2014-10-08 12:59:14
+
+Array
+(
+    [question_id] => invite
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.get_last_question_id_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_order_num_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 561
+    [profile_pool_type_id_] => 5
+    [url_id_] => i3bpskbq8x
+    [dic_ap_question_order_num_] => 
+)
+
+
+Resource id #161
+
+Array
+(
+    [onl_respondent_id_] => 561
+    [profile_pool_type_id_] => 5
+    [url_id_] => i3bpskbq8x
+    [dic_ap_question_order_num_] => 16
+)
+
+
+
+	Date/Time: 2014-10-08 18:41:56
+
+Array
+(
+    [question_id] => invite
+    [skip_to] => 0
+    [login_cookie] => 0FD9D3A35AA843DA81DD311725B873A7
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.get_last_question_id_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_order_num_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 561
+    [profile_pool_type_id_] => 2
+    [url_id_] => nbp7bvmtqt
+    [dic_ap_question_order_num_] => 
+)
+
+
+Resource id #161
+
+Array
+(
+    [onl_respondent_id_] => 561
+    [profile_pool_type_id_] => 2
+    [url_id_] => nbp7bvmtqt
+    [dic_ap_question_order_num_] => 0
+)
+
+
+
+	Date/Time: 2014-10-14 15:09:31
+
+Array
+(
+    [question_id] => invite
+    [skip_to] => 0
+    [login_cookie] => AB84872800E9456F81CD4DED9AAAB6B9
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.get_last_question_id_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_order_num_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 
+    [profile_pool_type_id_] => 1
+    [url_id_] => 1
+    [dic_ap_question_order_num_] => 
+)
+
+
+Resource id #161
+
+Array
+(
+    [onl_respondent_id_] => 
+    [profile_pool_type_id_] => 1
+    [url_id_] => 1
+    [dic_ap_question_order_num_] => 0
+)
+
+
+
+	Date/Time: 2014-10-17 17:59:53
+
+Array
+(
+    [question_id] => invite
+    [skip_to] => 0
+    [login_cookie] => B7F0EA0430304C9581B7FA229EF1A286
+    [submit] => Дальше
+)
+
+
+begin b36_director.access_package.get_last_question_id_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_order_num_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 761
+    [profile_pool_type_id_] => 1
+    [url_id_] => 4jd2zkcyqt
+    [dic_ap_question_order_num_] => 
+)
+
+
+Resource id #161
+
+Array
+(
+    [onl_respondent_id_] => 761
+    [profile_pool_type_id_] => 1
+    [url_id_] => 4jd2zkcyqt
+    [dic_ap_question_order_num_] => 0
+)
+
+

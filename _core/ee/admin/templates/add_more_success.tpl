@@ -1,0 +1,1 @@
+<span class="success"><%str_to_title::modul%> was added successfully (inserted id - <a href="<%:EE_ADMIN_URL%><%:modul%>.php?op=1&edit=<%:added%><%iif:<%:edit2%>,,,&edit2=<%:edit2%>%><%iif:<%:lang%>,,,&lang=<%:lang%>%><%iif:<%:added%>,,,&added=<%:added%>%>"><%:added%></a>)</span>

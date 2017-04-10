@@ -1,0 +1,1 @@
+<img onMouseOver="ddrivetip('<%preview_page_meta_tags::id,:row_language%>')" onMouseOut="hideddrivetip()" src="<%:EE_HTTP%>img/meta_preview.gif" width="16" height="16" alt="<%str_to_title:<%cons:meta_tags_preview%>%>" border="0">

@@ -1,0 +1,1 @@
+<%get_menu_level:400<%:t%>,1,templates/menu/left_empty.tpl,templates/menu/left_empty.tpl%>

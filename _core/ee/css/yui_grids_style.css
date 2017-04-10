@@ -1,0 +1,87 @@
+#yui-loading-msg {	
+	text-align: center;
+	display: none;
+	font-weight: bold;
+	font-size: 16px;
+	float: left;
+}
+#yui-loading-msg p {
+	float: left;
+	line-height: 32px; 
+	margin: 0 10px 0 0;
+}
+.yui-dt table {
+	width: 100%;
+}
+#popup_content {
+	overflow: hidden;
+	text-align: center; 
+	vertical-align: middle;
+}
+.yui-dt-message div {
+	text-align: center;
+}
+.yui-dt-paginator table, .yui-dt-paginator td {
+	border: none !important;
+	text-align: center !important;
+}
+td.yui-dt-col-edit, th.yui-dt-col-edit, td.yui-dt-col-del, th.yui-dt-col-del,
+td.yui-dt-col-folder_access, th.yui-dt-col-folder_access, td.yui-dt-col-modules_list, th.yui-dt-col-modules_list,
+td.yui-dt-col-obj_link, th.yui-dt-col-obj_link, td.yui-dt-col-tpl_preview, th.yui-dt-col-tpl_preview,
+td.yui-dt-col-image_preview, th.yui-dt-col-image_preview, 
+td.yui-dt-col-copy_form, th.yui-dt-col-copy_form, td.yui-dt-col-export_form, th.yui-dt-col-export_form,
+td.yui-dt-col-export_form_data, th.yui-dt-col-export_form_data,
+td.yui-dt-col-checkbox, th.yui-dt-col-checkbox,
+td.yui-dt-col-dns_cdn_server, th.yui-dt-col-dns_cdn_server {
+	width: 25px;
+	text-align: center !important;
+}
+td.yui-dt-col-edit div, td.yui-dt-col-del div, .yui-dt-col-checkbox div,
+td.yui-dt-col-folder_access div, td.yui-dt-col-modules_list div,
+td.yui-dt-col-obj_link div, td.yui-dt-col-empty div,
+td.yui-dt-col-tpl_preview div, td.yui-dt-col-image_preview div, 
+td.yui-dt-col-copy_form div, td.yui-dt-col-export_form div,
+td.yui-dt-col-export_form_data div {
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+} 
+td.yui-dt-col-edit button, td.yui-dt-col-del button,
+td.yui-dt-col-folder_access button, td.yui-dt-col-modules_list button,
+th button,  button#refresh-button, td.yui-dt-col-image_preview button,
+td.yui-dt-col-copy_form button {
+	border: none; 
+	background-color: transparent;
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+	cursor: pointer;
+}
+th.yui-dt-col-edit div, th.yui-dt-col-del div, th.yui-dt-col-zoom_in div, th.yui-dt-col-zoom_out div {
+	padding: 3px 0 3px 0 !important;
+}
+td.yui-dt-col-id, th.yui-dt-col-id {
+	width: 50px;
+}
+td.yui-dt-col-record_id, th.yui-dt-col-record_id {
+	width: 70px;
+}
+.yui-dt-highlighted {
+	cursor: default !important;
+}
+.yui-dt-col-edit, .yui-dt-col-del, .yui-dt-col-zoom_in, .yui-dt-col-zoom_out,
+.yui-dt-col-folder_access, .yui-dt-col-modules_list, .yui-dt-col-add_th, .yui-dt-col-obj_link,
+.yui-dt-col-tpl_preview, .yui-dt-col-image_preview, .yui-dt-col-copy_form, .yui-dt-col-export_form,
+.yui-dt-col-dns_cdn_server, .yui-dt-col-export_form_data {
+	border-right: none !important;
+}
+.yui-dt-hidden {
+	display: none !important;
+}
+.yui-dt-liner table, .yui-dt-liner tr, .yui-dt-liner td  {
+	border: none !important;
+}
+.yui-dt thead tr.yui-dt-first div {
+	padding: 4px 0px !important;
+}
+.yui-dt-col-empty {
+	width: 29px;
+}

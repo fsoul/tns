@@ -1,0 +1,1 @@
+<textarea rows="10" cols="50" <%iif::readonly,,,readonly%> name="<%:field_name%>"><%getHtmlOf:<%:field_name%>%></textarea>

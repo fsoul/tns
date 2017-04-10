@@ -1,0 +1,1 @@
+<a href="#" onclick="del('<%:id%>','\'<%trim::name%>\' (id=<%:id%>)',0,'<%check_count_unsent_mails:<%:id%>%>')"><img src="<%:EE_HTTP%>img/delBt.gif" width="16" height="16" alt="<%cons:GRID_DEL%>" title = "<%cons:GRID_DEL%>" border="0"></a>

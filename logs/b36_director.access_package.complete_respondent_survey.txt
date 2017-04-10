@@ -1,0 +1,725 @@
+
+	Date/Time: 2014-11-13 15:08:41
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 841
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 6FB4C1D0EB2043708A48AC4337A6C0C7
+)
+
+
+Resource id #138
+
+Array
+(
+    [onl_respondent_id_] => 841
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 6FB4C1D0EB2043708A48AC4337A6C0C7
+)
+
+
+
+	Date/Time: 2015-01-06 16:08:02
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1001
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 0FD9D3A35AA843DA81DD311725B873A7
+)
+
+
+Resource id #140
+
+Array
+(
+    [onl_respondent_id_] => 1001
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 0FD9D3A35AA843DA81DD311725B873A7
+)
+
+
+
+	Date/Time: 2015-01-06 16:10:16
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1001
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 0FD9D3A35AA843DA81DD311725B873A7
+)
+
+
+Resource id #140
+
+Array
+(
+    [onl_respondent_id_] => 1001
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 0FD9D3A35AA843DA81DD311725B873A7
+)
+
+
+
+	Date/Time: 2015-01-16 12:52:37
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1021
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 0FD9D3A35AA843DA81DD311725B873A7
+)
+
+
+Resource id #140
+
+Array
+(
+    [onl_respondent_id_] => 1021
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 0FD9D3A35AA843DA81DD311725B873A7
+)
+
+
+
+	Date/Time: 2015-01-17 10:46:50
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1021
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => B0533017B0094BAEA4C7817DF002444E
+)
+
+
+Resource id #140
+
+Array
+(
+    [onl_respondent_id_] => 1021
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => B0533017B0094BAEA4C7817DF002444E
+)
+
+
+
+	Date/Time: 2015-01-19 15:05:22
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1041
+    [survey_id_] => 3
+    [complete_type_] => 5
+    [cookie_] => B0533017B0094BAEA4C7817DF002444E
+)
+
+
+Resource id #140
+
+Array
+(
+    [onl_respondent_id_] => 1041
+    [survey_id_] => 3
+    [complete_type_] => 5
+    [cookie_] => B0533017B0094BAEA4C7817DF002444E
+)
+
+
+
+	Date/Time: 2015-01-20 10:59:35
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1021
+    [survey_id_] => 3
+    [complete_type_] => 5
+    [cookie_] => D3FBEEB1E0BA4445A5D3013912B41F15
+)
+
+
+Resource id #140
+
+Array
+(
+    [onl_respondent_id_] => 1021
+    [survey_id_] => 3
+    [complete_type_] => 5
+    [cookie_] => D3FBEEB1E0BA4445A5D3013912B41F15
+)
+
+
+
+	Date/Time: 2015-02-25 10:29:59
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1041
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 4DFCB17FC50E463B89F31EADF68C1ECD
+)
+
+
+Resource id #140
+
+Array
+(
+    [onl_respondent_id_] => 1041
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 4DFCB17FC50E463B89F31EADF68C1ECD
+)
+
+
+
+	Date/Time: 2015-02-25 10:30:22
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1021
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 4DFCB17FC50E463B89F31EADF68C1ECD
+)
+
+
+Resource id #140
+
+Array
+(
+    [onl_respondent_id_] => 1021
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 4DFCB17FC50E463B89F31EADF68C1ECD
+)
+
+
+
+	Date/Time: 2015-02-25 10:30:28
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1021
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 4DFCB17FC50E463B89F31EADF68C1ECD
+)
+
+
+Resource id #140
+
+Array
+(
+    [onl_respondent_id_] => 1021
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 4DFCB17FC50E463B89F31EADF68C1ECD
+)
+
+
+
+	Date/Time: 2015-02-25 10:30:41
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1061
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 4DFCB17FC50E463B89F31EADF68C1ECD
+)
+
+
+Resource id #140
+
+Array
+(
+    [onl_respondent_id_] => 1061
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 4DFCB17FC50E463B89F31EADF68C1ECD
+)
+
+
+
+	Date/Time: 2015-02-25 10:30:47
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1061
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 4DFCB17FC50E463B89F31EADF68C1ECD
+)
+
+
+Resource id #140
+
+Array
+(
+    [onl_respondent_id_] => 1061
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 4DFCB17FC50E463B89F31EADF68C1ECD
+)
+
+
+
+	Date/Time: 2015-02-25 10:30:52
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1061
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 4DFCB17FC50E463B89F31EADF68C1ECD
+)
+
+
+Resource id #140
+
+Array
+(
+    [onl_respondent_id_] => 1061
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 4DFCB17FC50E463B89F31EADF68C1ECD
+)
+
+
+
+	Date/Time: 2015-02-25 10:37:36
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1061
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 4DFCB17FC50E463B89F31EADF68C1ECD
+)
+
+
+Resource id #140
+
+Array
+(
+    [onl_respondent_id_] => 1061
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 4DFCB17FC50E463B89F31EADF68C1ECD
+)
+
+
+
+	Date/Time: 2015-02-25 10:37:49
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1021
+    [survey_id_] => 3
+    [complete_type_] => 5
+    [cookie_] => 4DFCB17FC50E463B89F31EADF68C1ECD
+)
+
+
+Resource id #140
+
+Array
+(
+    [onl_respondent_id_] => 1021
+    [survey_id_] => 3
+    [complete_type_] => 5
+    [cookie_] => 4DFCB17FC50E463B89F31EADF68C1ECD
+)
+
+
+
+	Date/Time: 2015-02-25 10:48:43
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1061
+    [survey_id_] => 3
+    [complete_type_] => 5
+    [cookie_] => 4DFCB17FC50E463B89F31EADF68C1ECD
+)
+
+
+Resource id #140
+
+Array
+(
+    [onl_respondent_id_] => 1061
+    [survey_id_] => 3
+    [complete_type_] => 5
+    [cookie_] => 4DFCB17FC50E463B89F31EADF68C1ECD
+)
+
+
+
+	Date/Time: 2015-02-25 10:49:00
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1041
+    [survey_id_] => 3
+    [complete_type_] => 5
+    [cookie_] => 4DFCB17FC50E463B89F31EADF68C1ECD
+)
+
+
+Resource id #140
+
+Array
+(
+    [onl_respondent_id_] => 1041
+    [survey_id_] => 3
+    [complete_type_] => 5
+    [cookie_] => 4DFCB17FC50E463B89F31EADF68C1ECD
+)
+
+
+
+	Date/Time: 2015-02-25 16:05:02
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1081
+    [survey_id_] => 3
+    [complete_type_] => 5
+    [cookie_] => 4DFCB17FC50E463B89F31EADF68C1ECD
+)
+
+
+Resource id #140
+
+Array
+(
+    [onl_respondent_id_] => 1081
+    [survey_id_] => 3
+    [complete_type_] => 5
+    [cookie_] => 4DFCB17FC50E463B89F31EADF68C1ECD
+)
+
+
+
+	Date/Time: 2015-03-02 12:29:05
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1101
+    [survey_id_] => 3
+    [complete_type_] => 5
+    [cookie_] => F5A2C56C31C141E98FE6429AB0512598
+)
+
+
+Resource id #140
+
+Array
+(
+    [onl_respondent_id_] => 1101
+    [survey_id_] => 3
+    [complete_type_] => 5
+    [cookie_] => F5A2C56C31C141E98FE6429AB0512598
+)
+
+
+
+	Date/Time: 2015-03-11 16:52:55
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1141
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 6C82FE92E9164281910449C4585194EC
+)
+
+
+Resource id #140
+
+Array
+(
+    [onl_respondent_id_] => 1141
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 6C82FE92E9164281910449C4585194EC
+)
+
+
+
+	Date/Time: 2015-09-18 11:40:57
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1141
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 39215823AF014D098221C34D3BDD5236
+)
+
+
+Resource id #143
+
+Array
+(
+    [onl_respondent_id_] => 1141
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 39215823AF014D098221C34D3BDD5236
+)
+
+
+
+	Date/Time: 2015-09-18 11:45:37
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1141
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 39215823AF014D098221C34D3BDD5236
+)
+
+
+Resource id #143
+
+Array
+(
+    [onl_respondent_id_] => 1141
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 39215823AF014D098221C34D3BDD5236
+)
+
+
+
+	Date/Time: 2015-09-22 18:33:07
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 130604
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 39215823AF014D098221C34D3BDD5236
+)
+
+
+Resource id #143
+
+Array
+(
+    [onl_respondent_id_] => 130604
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 39215823AF014D098221C34D3BDD5236
+)
+
+
+
+	Date/Time: 2015-09-24 13:07:40
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 130604
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => F3B955DCDCB4448E99BC61C32C0B5977
+)
+
+
+
+
+Array
+(
+    [onl_respondent_id_] => 130604
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => F3B955DCDCB4448E99BC61C32C0B5977
+)
+
+
+
+	Date/Time: 2015-09-24 14:07:15
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1141
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 39215823AF014D098221C34D3BDD5236
+)
+
+
+Resource id #143
+
+Array
+(
+    [onl_respondent_id_] => 1141
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 39215823AF014D098221C34D3BDD5236
+)
+
+
+
+	Date/Time: 2015-09-24 16:57:00
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 130642
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 39215823AF014D098221C34D3BDD5236
+)
+
+
+Resource id #143
+
+Array
+(
+    [onl_respondent_id_] => 130642
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 39215823AF014D098221C34D3BDD5236
+)
+
+
+
+	Date/Time: 2015-09-24 16:57:07
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 130642
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 39215823AF014D098221C34D3BDD5236
+)
+
+
+
+
+Array
+(
+    [onl_respondent_id_] => 130642
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 39215823AF014D098221C34D3BDD5236
+)
+
+
+
+	Date/Time: 2015-09-24 16:57:13
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 130642
+    [survey_id_] => 3
+    [complete_type_] => 5
+    [cookie_] => 39215823AF014D098221C34D3BDD5236
+)
+
+
+Resource id #143
+
+Array
+(
+    [onl_respondent_id_] => 130642
+    [survey_id_] => 3
+    [complete_type_] => 5
+    [cookie_] => 39215823AF014D098221C34D3BDD5236
+)
+
+
+
+	Date/Time: 2015-09-24 17:11:03
+
+begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1141
+    [survey_id_] => 3
+    [complete_type_] => 5
+    [cookie_] => A8CCF0A3C0B14E21862BFC31C9863F42
+)
+
+
+Resource id #143
+
+Array
+(
+    [onl_respondent_id_] => 1141
+    [survey_id_] => 3
+    [complete_type_] => 5
+    [cookie_] => A8CCF0A3C0B14E21862BFC31C9863F42
+)
+
+

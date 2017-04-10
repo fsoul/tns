@@ -1,0 +1,1675 @@
+[2015-10-26 10:46:45]  Function: authorize Error text: Wrong auth params
+
+email: gorelovamacc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-10-26 17:39:06]  Function: authorize Error text: Wrong auth params
+
+email: danilchuk@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-10-26 17:39:48]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.comdanilchyk@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-10-27 13:10:24]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 25ed1bcb423b0b7200f485fc5ff71c8e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36 / 
+
+[2015-10-27 13:10:30]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 7d5c009e4eb8bbc78647caeca308e61b / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36 / 
+
+[2015-10-27 14:04:17]  Function: authorize Error text: Wrong auth params
+
+email: ogurchik@gmail.com / pass: 3ab65f6ab7ac767a3dceba9e011f0d0d / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 / 
+
+[2015-10-27 14:51:09]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 14e61a523df4bc46d61cac6aa3c2824d / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36 / 
+
+[2015-10-27 14:58:50]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 14e61a523df4bc46d61cac6aa3c2824d / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36 / 
+
+[2015-10-27 15:11:39]  Function: authorize Error text: Wrong auth params
+
+email: ogurchik@gmail.com / pass: 00b7691d86d96aebd21dd9e138f90840 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 / 
+
+[2015-10-27 15:11:54]  Function: authorize Error text: Wrong auth params
+
+email: ogurchik@gmail.com / pass: 00b7691d86d96aebd21dd9e138f90840 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 / 
+
+[2015-10-27 15:12:11]  Function: authorize Error text: Wrong auth params
+
+email: ogurchik@gmail.com / pass: b59c67bf196a4758191e42f76670ceba / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 / 
+
+[2015-10-27 15:12:26]  Function: authorize Error text: Wrong auth params
+
+email: ogurchik@gmail.com / pass: 00b7691d86d96aebd21dd9e138f90840 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 / 
+
+[2015-10-27 15:12:34]  Function: authorize Error text: Wrong auth params
+
+email: ogurchik@gmail.com / pass: 00b7691d86d96aebd21dd9e138f90840 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 / 
+
+[2015-10-27 15:12:54]  Function: authorize Error text: Wrong auth params
+
+email: ogurchik@gmail.com / pass: f1290186a5d0b1ceab27f4e77c0c5d68 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 / 
+
+[2015-10-27 16:39:12]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2015-10-30 14:47:19]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2015-11-02 10:15:49]  Function: authorize Error text: ORA-04063: package body "B36_DIRECTOR.AP_PACKAGE" has errors
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.AP_PACKAGE"
+ORA-06512: at line 1
+
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 / cookie: 121E50AFE60B4D1695B89FA73DE2954E / 
+
+[2015-11-02 10:15:54]  Function: authorize Error text: ORA-04063: package body "B36_DIRECTOR.AP_PACKAGE" has errors
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.AP_PACKAGE"
+ORA-06512: at line 1
+
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 / 
+
+[2015-11-02 10:16:02]  Function: authorize Error text: ORA-04063: package body "B36_DIRECTOR.AP_PACKAGE" has errors
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.AP_PACKAGE"
+ORA-06512: at line 1
+
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 / 
+
+[2015-11-02 11:30:02]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: e10adc3949ba59abbe56e057f20f883e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.125 Safari/537.36 / cookie: 2BD40BE8F2CE483083A790B1B1D90DBB / 
+
+[2015-11-06 10:12:26]  Function: authorize Error text: Wrong auth params
+
+email: gorelova2macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 185.26.182.38 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.68 / cookie: 8850E51A6C1C40AA8AF399B755271A39 / 
+
+[2015-11-10 15:56:00]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 57f962c03ef3526ec6e95ceb50785c4c / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36 / plugin_id: 1445954824974 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-10 16:03:50]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 57f962c03ef3526ec6e95ceb50785c4c / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36 / plugin_id: 1445954824974 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-10 16:06:38]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 57f962c03ef3526ec6e95ceb50785c4c / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36 / plugin_id: 1445954824974 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-10 16:07:36]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 57f962c03ef3526ec6e95ceb50785c4c / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36 / plugin_id: 1445954824974 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-10 16:07:47]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 57f962c03ef3526ec6e95ceb50785c4c / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36 / plugin_id: 1445954824974 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-10 16:10:30]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 57f962c03ef3526ec6e95ceb50785c4c / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36 / plugin_id: 1445954824974 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-10 16:12:31]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 57f962c03ef3526ec6e95ceb50785c4c / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36 / plugin_id: 1445954824974 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-10 16:13:48]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 57f962c03ef3526ec6e95ceb50785c4c / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36 / plugin_id: 1445954824974 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-10 16:27:12]  Function: authorize Error text: Wrong auth params
+
+email: metlushko@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (Android; Tablet; rv:32.0) Gecko/32.0 Firefox/32.0 / cookie: ADD262FCD6F64ACEAE671569C698E2D2 / 
+
+[2015-11-10 16:27:39]  Function: authorize Error text: Wrong auth params
+
+email: metlushko@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (Linux; Android 4.4.4; Nexus 7 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Safari/537.36 / cookie: 3C5CEEC6A9AA4747A854F8F53EBB6D2F / 
+
+[2015-11-10 16:29:02]  Function: authorize Error text: Wrong auth params
+
+email: metlushko@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (Android; Tablet; rv:32.0) Gecko/32.0 Firefox/32.0 / cookie: ADD262FCD6F64ACEAE671569C698E2D2 / 
+
+[2015-11-13 19:28:34]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: b6dccbd486aaf30c593034eda6efbaa2 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / plugin_id: 1445954824974 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-13 19:29:26]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: b56d1428295dcdcd1bed4fc4764c0051 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / plugin_id: 1445954824974 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-13 19:37:23]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 7f069e3c79a4d064b2abaacdc5b56bc1 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / plugin_id: 1445954824974 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-13 19:46:05]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:42.0) Gecko/20100101 Firefox/42.0 / plugin_id: 1411142506585 / cookie: E8ABD4ADDC7147588FD1E601DF94A6C4 / 
+
+[2015-11-16 13:33:18]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: a22c9333531972f2eb13ad3a33d0bfdd / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Linux; Android 5.0.1; LG-H422 Build/LRX21Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile Safari/537.36 / cookie: D8981AA9AAD2411A8912E1B4818CFE32 / 
+
+[2015-11-17 15:04:09]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: c8837b23ff8aaa8a2dde915473ce0991 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.68 / cookie: 8850E51A6C1C40AA8AF399B755271A39 / 
+
+[2015-11-17 15:10:46]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: c8837b23ff8aaa8a2dde915473ce0991 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.68 / cookie: 8850E51A6C1C40AA8AF399B755271A39 / 
+
+[2015-11-17 15:11:48]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: c8837b23ff8aaa8a2dde915473ce0991 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.68 / cookie: 8850E51A6C1C40AA8AF399B755271A39 / 
+
+[2015-11-20 11:30:11]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2015-11-20 11:35:13]  Function: pwd_request_change_pass Error text: Не все обязательные параметры указаны либо неверных их тип
+
+request_id: woej3enuju / new_pass: ������ / 
+
+[2015-11-20 11:47:11]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2015-11-20 15:49:56]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-20 15:50:18]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-20 15:50:36]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: c33367701511b4f6020ec61ded352059 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / 
+
+[2015-11-20 15:50:58]  Function: authorize Error text: Wrong auth params
+
+email: danilchuk@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / 
+
+[2015-11-20 15:51:52]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / 
+
+[2015-11-23 10:09:25]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.68 / cookie: 8850E51A6C1C40AA8AF399B755271A39 / 
+
+[2015-11-23 10:09:28]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.68 / 
+
+[2015-11-23 11:35:10]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-23 11:35:17]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / 
+
+[2015-11-23 12:54:47]  Function: get_min_convertion_score Error text: ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.AP_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.AP_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.AP_PACKAGE"
+ORA-06512: at line 1
+
+
+dic_score_convert_type_id: 3 / 
+
+[2015-11-23 16:12:10]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-23 16:12:12]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / 
+
+[2015-11-23 17:08:27]  Function: authorize Error text: Wrong auth params
+
+email: metlushko@macc.com.ua / pass: 32a3187b92e64b77f3f0c8b0426d3783 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Linux; Android 5.0.1; LG-H422 Build/LRX21Y) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Mobile Safari/537.36 / 
+
+[2015-11-24 11:05:13]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2015-11-24 11:05:16]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2015-11-24 11:32:10]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2015-11-24 11:32:18]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2015-11-24 11:35:13]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2015-11-24 11:35:18]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2015-11-24 11:39:07]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2015-11-24 12:21:33]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2015-11-24 12:25:13]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2015-11-24 12:25:31]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2015-11-24 12:25:37]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2015-11-24 12:25:39]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2015-11-24 15:40:58]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2015-11-24 15:46:04]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@macc.com.ua / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.68 / cookie: 8850E51A6C1C40AA8AF399B755271A39 / 
+
+[2015-11-24 16:07:14]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2015-11-24 16:27:00]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2015-11-25 11:42:46]  Function: authorize Error text: Wrong auth params
+
+email: syt@macc.com.ua / pass: 25d55ad283aa400af464c76d713c07ad / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / cookie: BBB715224C574C98B081131705A0AD4F / 
+
+[2015-11-25 11:42:48]  Function: authorize Error text: Wrong auth params
+
+email: syt@macc.com.ua / pass: 25d55ad283aa400af464c76d713c07ad / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / 
+
+[2015-11-25 11:42:50]  Function: authorize Error text: Wrong auth params
+
+email: syt@macc.com.ua / pass: 25d55ad283aa400af464c76d713c07ad / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / 
+
+[2015-11-25 11:42:51]  Function: authorize Error text: Wrong auth params
+
+email: syt@macc.com.ua / pass: 25d55ad283aa400af464c76d713c07ad / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / 
+
+[2015-11-27 15:15:44]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2015-11-27 15:15:44]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2015-11-27 15:15:46]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2015-11-27 15:23:59]  Function: authorize Error text: Email not confirmed
+
+email: n@d.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-27 15:29:02]  Function: authorize Error text: Email not confirmed
+
+email: n@d.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-27 15:37:08]  Function: authorize Error text: Email not confirmed
+
+email: n@d.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-27 15:37:26]  Function: authorize Error text: Email not confirmed
+
+email: n@d.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-27 15:37:35]  Function: authorize Error text: Email not confirmed
+
+email: n@d.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / 
+
+[2015-11-27 15:41:35]  Function: authorize Error text: Email not confirmed
+
+email: n@d.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / 
+
+[2015-11-27 15:42:14]  Function: authorize Error text: Email not confirmed
+
+email: n@d.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / 
+
+[2015-11-27 16:27:31]  Function: authorize Error text: Email not confirmed
+
+email: n@d.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / 
+
+[2015-11-27 16:43:44]  Function: authorize Error text: Email not confirmed
+
+email: n@d.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-27 16:48:10]  Function: authorize Error text: Email not confirmed
+
+email: n@d.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-27 16:49:06]  Function: authorize Error text: Email not confirmed
+
+email: n@d.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / 
+
+[2015-11-27 16:50:04]  Function: authorize Error text: Email not confirmed
+
+email: n@d.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / 
+
+[2015-11-27 16:59:15]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-27 17:03:17]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / plugin_id: 1445954824974 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-27 17:17:26]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.58 / plugin_id: 1445432531706 / cookie: DFD126C12D634DECBCE30C18A05A12C2 / 
+
+[2015-11-27 18:07:56]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / plugin_id: 1445954824974 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-27 18:08:17]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / plugin_id: 1445954824974 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-27 18:09:08]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / plugin_id: 1445954824974 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-27 18:09:32]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / plugin_id: 1445954824974 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-27 18:10:20]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / plugin_id: 1445954824974 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-27 18:16:54]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / plugin_id: 1445954824974 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-27 18:17:02]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / plugin_id: 1445954824974 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-27 18:20:51]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / plugin_id: 1445954824974 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-27 18:21:00]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / plugin_id: 1445954824974 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-27 18:27:28]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.58 / plugin_id: 1445432531706 / cookie: DFD126C12D634DECBCE30C18A05A12C2 / 
+
+[2015-11-27 18:37:11]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.58 / plugin_id: 1445432531706 / cookie: DFD126C12D634DECBCE30C18A05A12C2 / 
+
+[2015-11-27 18:38:48]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.58 / plugin_id: 1445432531706 / cookie: DFD126C12D634DECBCE30C18A05A12C2 / 
+
+[2015-11-27 18:40:36]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.58 / plugin_id: 1445432531706 / cookie: DFD126C12D634DECBCE30C18A05A12C2 / 
+
+[2015-11-27 18:44:24]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / plugin_id: 1445954824974 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-11-27 18:44:26]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.58 / plugin_id: 1445432531706 / cookie: DFD126C12D634DECBCE30C18A05A12C2 / 
+
+[2015-11-27 18:46:40]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.58 / plugin_id: 1445432531706 / cookie: DFD126C12D634DECBCE30C18A05A12C2 / 
+
+[2015-11-27 18:49:46]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.58 / plugin_id: 1445432531706 / cookie: DFD126C12D634DECBCE30C18A05A12C2 / 
+
+[2015-11-27 18:51:14]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.58 / plugin_id: 1445432531706 / cookie: DFD126C12D634DECBCE30C18A05A12C2 / 
+
+[2015-11-27 18:52:07]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.58 / plugin_id: 1445432531706 / cookie: DFD126C12D634DECBCE30C18A05A12C2 / 
+
+[2015-11-27 18:53:03]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.58 / plugin_id: 1445432531706 / cookie: DFD126C12D634DECBCE30C18A05A12C2 / 
+
+[2015-11-27 18:53:19]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.58 / plugin_id: 1445432531706 / cookie: DFD126C12D634DECBCE30C18A05A12C2 / 
+
+[2015-11-30 14:02:48]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.68 / cookie: 8850E51A6C1C40AA8AF399B755271A39 / 
+
+[2015-11-30 14:02:51]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.68 / cookie: 8850E51A6C1C40AA8AF399B755271A39 / 
+
+[2015-11-30 14:03:00]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.68 / cookie: 8850E51A6C1C40AA8AF399B755271A39 / 
+
+[2015-12-01 09:08:44]  Function: authorize Error text: Wrong auth params
+
+email: syt@macc.com.ua / pass: 25d55ad283aa400af464c76d713c07ad / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / 
+
+[2015-12-01 09:08:44]  Function: authorize Error text: Wrong auth params
+
+email: syt@macc.com.ua / pass: 25d55ad283aa400af464c76d713c07ad / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / 
+
+[2015-12-01 09:16:20]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@macc.com.ua / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 194.247.174.125 / useragent: Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3 / cookie: 56B2C9A7415E44E4BA876B4AD75E7F14 / 
+
+[2015-12-01 14:51:22]  Function: authorize Error text: Email not confirmed
+
+email: n@d.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-12-01 14:51:38]  Function: authorize Error text: Email not confirmed
+
+email: n@d.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-12-01 14:52:12]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-12-01 14:52:15]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-12-01 15:15:58]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-12-01 15:16:51]  Function: authorize Error text: Email not confirmed
+
+email: n@d.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-12-01 15:17:33]  Function: authorize Error text: Email not confirmed
+
+email: n@d.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-12-01 15:17:39]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-12-01 15:19:03]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-12-01 15:19:14]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-12-01 15:20:25]  Function: authorize Error text: Email not confirmed
+
+email: n@d.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-12-01 15:25:35]  Function: authorize Error text: Email not confirmed
+
+email: n@d.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-12-01 17:01:21]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.68 / cookie: 8850E51A6C1C40AA8AF399B755271A39 / 
+
+[2015-12-01 17:01:25]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.68 / cookie: 8850E51A6C1C40AA8AF399B755271A39 / 
+
+[2015-12-01 17:05:42]  Function: authorize Error text: Email not confirmed
+
+email: gorelova2@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.68 / cookie: 8850E51A6C1C40AA8AF399B755271A39 / 
+
+[2015-12-01 17:05:47]  Function: authorize Error text: Email not confirmed
+
+email: gorelova2@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.68 / cookie: 8850E51A6C1C40AA8AF399B755271A39 / 
+
+[2015-12-01 17:09:22]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@macc.com.ua / pass: c8837b23ff8aaa8a2dde915473ce0991 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 / cookie: 4C67DF8850CD4FACA2ABD331C1C9ECD3 / 
+
+[2015-12-01 17:10:30]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@macc.com.ua / pass: c81e728d9d4c2f636f067f89cc14862c / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.68 / cookie: 8850E51A6C1C40AA8AF399B755271A39 / 
+
+[2015-12-01 17:10:44]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@macc.com.ua / pass: c81e728d9d4c2f636f067f89cc14862c / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.68 / cookie: 8850E51A6C1C40AA8AF399B755271A39 / 
+
+[2015-12-01 17:10:47]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@macc.com.ua / pass: c4ca4238a0b923820dcc509a6f75849b / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 OPR/33.0.1990.68 / cookie: 8850E51A6C1C40AA8AF399B755271A39 / 
+
+[2015-12-01 17:11:57]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@macc.com.ua / pass: c4ca4238a0b923820dcc509a6f75849b / ip: 192.168.4.81 / useragent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0 / cookie: 57F8069BC1FC44D7B05A59C82ADE1478 / 
+
+[2015-12-01 17:12:00]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@macc.com.ua / pass: c81e728d9d4c2f636f067f89cc14862c / ip: 192.168.4.81 / useragent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0 / cookie: 57F8069BC1FC44D7B05A59C82ADE1478 / 
+
+[2015-12-01 17:12:04]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@macc.com.ua / pass: eccbc87e4b5ce2fe28308fd9f2a7baf3 / ip: 192.168.4.81 / useragent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0 / cookie: 57F8069BC1FC44D7B05A59C82ADE1478 / 
+
+[2015-12-01 17:12:08]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@macc.com.ua / pass: c4ca4238a0b923820dcc509a6f75849b / ip: 192.168.4.81 / useragent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0 / cookie: 57F8069BC1FC44D7B05A59C82ADE1478 / 
+
+[2015-12-01 17:12:56]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@macc.com.ua / pass: c4ca4238a0b923820dcc509a6f75849b / ip: 192.168.4.81 / useragent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 OPR/33.0.1990.115 / cookie: 8B6BC6598ABE4B56841DF6555241ED8A / 
+
+[2015-12-01 17:13:00]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@macc.com.ua / pass: c81e728d9d4c2f636f067f89cc14862c / ip: 192.168.4.81 / useragent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 OPR/33.0.1990.115 / cookie: 8B6BC6598ABE4B56841DF6555241ED8A / 
+
+[2015-12-02 14:33:04]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@macc.com.ua / pass: 32a3187b92e64b77f3f0c8b0426d3783 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Linux; Android 5.0.1; LG-H422 Build/LRX21Y) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Mobile Safari/537.36 / cookie: 43A8D81AD8D84B5A99BB14236B5A2E57 / 
+
+[2015-12-02 14:33:23]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@macc.com.ua / pass: 32a3187b92e64b77f3f0c8b0426d3783 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Linux; Android 5.0.1; LG-H422 Build/LRX21Y) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Mobile Safari/537.36 / cookie: 43A8D81AD8D84B5A99BB14236B5A2E57 / 
+
+[2015-12-02 14:36:37]  Function: authorize Error text: Wrong auth params
+
+email: testoprosuser / pass: 25ef1726e05e1aae1602db86aa5513f1 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Linux; Android 5.0.1; LG-H422 Build/LRX21Y) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Mobile Safari/537.36 / cookie: 43A8D81AD8D84B5A99BB14236B5A2E57 / 
+
+[2015-12-02 14:37:23]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@gmail.com / pass: 4297f44b13955235245b2497399d7a93 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Linux; Android 5.0.1; LG-H422 Build/LRX21Y) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Mobile Safari/537.36 / cookie: 43A8D81AD8D84B5A99BB14236B5A2E57 / 
+
+[2015-12-02 14:52:17]  Function: authorize Error text: Wrong auth params
+
+email: syt@macc.com.ua / pass: 3b4f49d78e5d53741fab5625de1cce12 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Linux; Android 5.0.1; LG-H422 Build/LRX21Y) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Mobile Safari/537.36 / cookie: 43A8D81AD8D84B5A99BB14236B5A2E57 / 
+
+[2015-12-02 14:52:32]  Function: authorize Error text: Wrong auth params
+
+email: syt@macc.com.ua / pass: 3b4f49d78e5d53741fab5625de1cce12 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Linux; Android 5.0.1; LG-H422 Build/LRX21Y) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Mobile Safari/537.36 / cookie: 43A8D81AD8D84B5A99BB14236B5A2E57 / 
+
+[2015-12-02 14:53:22]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2015-12-02 14:57:24]  Function: authorize Error text: Wrong auth params
+
+email: swt1@gmail.com / pass: 3b4f49d78e5d53741fab5625de1cce12 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Linux; Android 5.0.1; LG-H422 Build/LRX21Y) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Mobile Safari/537.36 / cookie: 43A8D81AD8D84B5A99BB14236B5A2E57 / 
+
+[2015-12-02 14:57:42]  Function: authorize Error text: Wrong auth params
+
+email: swt1@gmail.com / pass: 3b4f49d78e5d53741fab5625de1cce12 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Linux; Android 5.0.1; LG-H422 Build/LRX21Y) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Mobile Safari/537.36 / cookie: 43A8D81AD8D84B5A99BB14236B5A2E57 / 
+
+[2015-12-11 14:22:49]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 / plugin_id: 1445954824974 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2015-12-11 15:23:07]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2015-12-11 15:23:07]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2015-12-22 11:55:54]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:42.0) Gecko/20100101 Firefox/42.0 / plugin_id: 1411142506585 / cookie: E8ABD4ADDC7147588FD1E601DF94A6C4 / 
+
+[2016-01-26 13:33:21]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2016-01-26 13:50:55]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2016-01-26 13:51:02]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2016-01-26 13:51:05]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2016-01-28 18:38:08]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-01-29 17:28:53]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: b3ddbc502e307665f346cbd6e52cc10d / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-01-29 17:28:58]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-01-29 17:29:04]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-01-29 17:29:06]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-01-29 17:29:08]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-01-29 17:29:10]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-01-29 17:29:11]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-01-29 17:29:22]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-01-29 17:29:56]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: b3ddbc502e307665f346cbd6e52cc10d / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-01-29 17:30:05]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-01-29 19:23:58]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-01-29 19:26:30]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-02-01 13:00:56]  Function: authorize Error text: Wrong auth params
+
+email: sdf / pass: 84d9cfc2f395ce883a41d7ffc1bbcf4e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-02-01 13:11:19]  Function: authorize Error text: Wrong auth params
+
+email: tfdh / pass: 6ba667f2e5fb6e2e9a9edd14f49a3d53 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-02-01 13:22:32]  Function: authorize Error text: Wrong auth params
+
+email: sdfs / pass: 667a4af374347aaebc6d04d8572fbb85 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-02-01 13:23:09]  Function: authorize Error text: Wrong auth params
+
+email: sdf / pass: d9729feb74992cc3482b350163a1a010 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-02-01 13:36:36]  Function: authorize Error text: Wrong auth params
+
+email: asd / pass: 6226f7cbe59e99a90b5cef6f94f966fd / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-02-01 13:37:06]  Function: authorize Error text: Wrong auth params
+
+email: sd / pass: 6226f7cbe59e99a90b5cef6f94f966fd / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-02-01 15:58:31]  Function: authorize Error text: Wrong auth params
+
+email: sd / pass: 6226f7cbe59e99a90b5cef6f94f966fd / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-02-01 15:58:41]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email: sd�� / pass: d2acae6ffc2a83c46f3e7631bdfefd04 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-02-01 16:01:27]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email: ��� / pass: 83232d9f098c0ca4655bfd1d8a86d54b / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-02-01 16:04:18]  Function: authorize Error text: Wrong auth params
+
+email: 5436 / pass: d81f9c1be2e08964bf9f24b15f0e4900 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-02-01 17:19:13]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@macc.com.ua / pass: 81b073de9370ea873f548e31b8adc081 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-02-01 17:19:27]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@macc.com.ua / pass: 6458f3bfa6486a2be61b9fb6f37645c8 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-02-01 17:19:38]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@macc.com.ua / pass: 9c151d7c2d511dfec70f3fd53171b5db / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-02-01 17:43:37]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@macc.com.ua / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-02-01 17:43:57]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-02-01 17:44:06]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@macc.com.ua / pass: 0e9212587d373ca58e9bada0c15e6fe4 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-02-01 17:51:43]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@macc.com.ua / pass: 289dff07669d7a23de0ef88d2f7129e7 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-02-01 17:52:00]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@macc.com.ua / pass: ecb79ee47971c148603804886c1e12c9 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-02-01 17:57:13]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@macc.com.ua / pass: ecb79ee47971c148603804886c1e12c9 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-02-01 18:07:08]  Function: authorize Error text: Wrong auth params
+
+email: 433 / pass: 72cad9e1f9ae79872b8d6ac34fc2851c / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-02-01 18:07:13]  Function: authorize Error text: Wrong auth params
+
+email: 323 / pass: be83ab3ecd0db773eb2dc1b0a17836a1 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-02-01 18:10:02]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-02-01 18:10:19]  Function: authorize Error text: Wrong auth params
+
+email: 34 / pass: 17e62166fc8586dfa4d1bc0e1742c08b / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36 / cookie: 39215823AF014D098221C34D3BDD5236 / 
+
+[2016-02-23 18:29:33]  Function: authorize Error text: Wrong auth params
+
+email: swt1.test@gmail.com / pass: 2072093f755c91f035aaf48d9dc7252c / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Linux; Android 5.0.1; LG-H422 Build/LRX21Y) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Mobile Safari/537.36 / cookie: 43A8D81AD8D84B5A99BB14236B5A2E57 / 
+
+[2016-02-23 18:32:32]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2016-02-24 11:05:13]  Function: authorize Error text: Wrong auth params
+
+email: swt1.test@gmail.com / pass: 2072093f755c91f035aaf48d9dc7252c / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Linux; Android 5.0.1; LG-H422 Build/LRX21Y) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Mobile Safari/537.36 / cookie: 43A8D81AD8D84B5A99BB14236B5A2E57 / 
+
+[2016-02-24 16:05:08]  Function: authorize Error text: Wrong auth params
+
+email: swt1.test@gmail.com / pass: 2072093f755c91f035aaf48d9dc7252c / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Linux; Android 5.0.1; LG-H422 Build/LRX21Y) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Mobile Safari/537.36 / cookie: 43A8D81AD8D84B5A99BB14236B5A2E57 / 
+
+[2016-02-24 16:06:14]  Function: authorize Error text: Wrong auth params
+
+email: syt@macc.com.ua / pass: 3b4f49d78e5d53741fab5625de1cce12 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Linux; Android 5.0.1; LG-H422 Build/LRX21Y) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Mobile Safari/537.36 / cookie: 43A8D81AD8D84B5A99BB14236B5A2E57 / 
+
+[2016-02-24 16:07:03]  Function: authorize Error text: Wrong auth params
+
+email: syt@macc.com.ua / pass: 3b4f49d78e5d53741fab5625de1cce12 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Linux; Android 5.0.1; LG-H422 Build/LRX21Y) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Mobile Safari/537.36 / cookie: 43A8D81AD8D84B5A99BB14236B5A2E57 / 
+
+[2016-02-24 17:51:39]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@macc.com.ua / pass: e10adc3949ba59abbe56e057f20f883e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (Linux; Android 4.4.2; LG-D285 Build/KOT49I.A1441760826) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile Safari/537.36 / cookie: 6C4BC807346C42F4B6CC450194A31340 / 
+
+[2016-02-25 17:54:45]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 82.145.209.16 / useragent: Opera/9.80 (Android; Opera Mini/14.0.2065/37.7910; U; ru) Presto/2.12.423 Version/12.16 / 
+
+[2016-03-18 10:37:51]  Function: authorize Error text: Wrong auth params
+
+email: syt@macc.com. / pass: fcea920f7412b5da7be0cf42b8c93759 / ip: 82.145.209.39 / useragent: Opera/9.80 (Android; Opera Mini/15.0.2125/37.8025; U; ru) Presto/2.12.423 Version/12.16 / 
+
+[2016-04-08 13:25:22]  Function: authorize Error text: Wrong auth params
+
+email: syt@macc.com.ua / pass: e10adc3949ba59abbe56e057f20f883e / ip: 188.231.143.7 / useragent: Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0 Cyberfox/45.0.2 / 
+
+[2016-04-12 14:05:11]  Function: authorize Error text: Wrong auth params
+
+email: syt@macc.com.ua / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 82.145.209.171 / useragent: Opera/9.80 (Android; Opera Mini/15.0.2125/37.8157; U; ru) Presto/2.12.423 Version/12.16 / 
+
+[2016-04-13 11:37:25]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36 OPR/35.0.2066.92 / plugin_id: 1445432531706 / cookie: DFD126C12D634DECBCE30C18A05A12C2 / 
+
+[2016-04-22 18:45:16]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@macc.com.ua / pass: c33367701511b4f6020ec61ded352059 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36 OPR/36.0.2130.65 / cookie: DFD126C12D634DECBCE30C18A05A12C2 / 
+
+[2016-04-25 18:05:14]  Function: authorize Error text: Wrong auth params
+
+email: gorelova7@macc.com.ua / pass: c33367701511b4f6020ec61ded352059 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36 / plugin_id: 11461324659402 / cookie: DC341DA0C1664B8B891EDE38C3E95A9F / 
+
+[2016-04-25 18:05:20]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: c33367701511b4f6020ec61ded352059 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36 / plugin_id: 11461324659402 / cookie: DC341DA0C1664B8B891EDE38C3E95A9F / 
+
+[2016-04-25 18:05:25]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36 / plugin_id: 11461324659402 / cookie: DC341DA0C1664B8B891EDE38C3E95A9F / 
+
+[2016-04-25 18:05:30]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: e10adc3949ba59abbe56e057f20f883e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36 / plugin_id: 11461324659402 / cookie: DC341DA0C1664B8B891EDE38C3E95A9F / 
+
+[2016-04-25 18:05:56]  Function: authorize Error text: Wrong auth params
+
+email: danilchuk@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36 / plugin_id: 11461324659402 / cookie: DC341DA0C1664B8B891EDE38C3E95A9F / 
+
+[2016-04-25 18:06:02]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: e10adc3949ba59abbe56e057f20f883e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36 / plugin_id: 11461324659402 / cookie: DC341DA0C1664B8B891EDE38C3E95A9F / 
+
+[2016-04-25 18:06:08]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: c33367701511b4f6020ec61ded352059 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36 / plugin_id: 11461324659402 / cookie: DC341DA0C1664B8B891EDE38C3E95A9F / 
+
+[2016-04-25 18:12:52]  Function: authorize Error text: Wrong auth params
+
+email: test_opros@uke.net / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:45.0) Gecko/20100101 Firefox/45.0 / cookie: 8D41145804784B81869DF8C438C807A7 / 
+
+[2016-04-25 18:13:08]  Function: authorize Error text: Wrong auth params
+
+email: test_opros@ukr.net / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:45.0) Gecko/20100101 Firefox/45.0 / cookie: 8D41145804784B81869DF8C438C807A7 / 
+
+[2016-05-19 17:03:53]  Function: authorize Error text: Wrong auth params
+
+email: metlushko / pass: 4297f44b13955235245b2497399d7a93 / ip: 88.81.252.86 / useragent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36 / cookie: A8CCF0A3C0B14E21862BFC31C9863F42 / 
+
+[2016-05-19 17:04:12]  Function: authorize Error text: Wrong auth params
+
+email: metlushko@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 88.81.252.86 / useragent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36 / cookie: A8CCF0A3C0B14E21862BFC31C9863F42 / 
+
+[2016-08-29 15:12:11]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile Safari/537.36 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / 
+
+[2016-08-29 15:20:56]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile Safari/537.36 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / 
+
+[2016-08-30 18:45:44]  Function: authorize Error text: Wrong auth params
+
+email: danilchyk@macc.com.ua / pass: 2ca730a53c1cde627102751bd8fe0572 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 / cookie: 19C0CCA43AAA48FD8DBFBA7E6134DB94 / 
+
+[2016-08-30 18:51:28]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile Safari/537.36 / 
+
+[2016-08-30 18:51:33]  Function: authorize Error text: Wrong auth params
+
+email: dd / pass: 77963b7a931377ad4ab5ad6a9cd718aa / ip: 89.252.56.204 / useragent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile Safari/537.36 / 
+
+[2016-08-30 18:53:30]  Function: authorize Error text: Wrong auth params
+
+email: danilchyk@macc.com.ua / pass: 8b353d5cc07e13577608711f4602fcb7 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 / cookie: 5BCFDDE069DC4A2C9F34A6C9CE074244 / 
+
+[2016-08-30 18:53:33]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile Safari/537.36 / 
+
+[2016-08-30 19:03:43]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 / cookie: 19C0CCA43AAA48FD8DBFBA7E6134DB94 / 
+
+[2016-08-30 19:05:52]  Function: authorize Error text: Wrong auth params
+
+email: danilchyk@macc.com.ua / pass: 430edb0c535bf08174e122efecfa711d / ip: 89.252.56.204 / useragent: Mozilla/5.0 (Linux; U; Android 2.2; en-gb; GT-P1000 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 / 
+
+[2016-08-30 19:06:26]  Function: authorize Error text: Wrong auth params
+
+email: danilchyk@macc.com.ua / pass: 430edb0c535bf08174e122efecfa711d / ip: 89.252.56.204 / useragent: Mozilla/5.0 (Linux; U; Android 2.2; en-gb; GT-P1000 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 / 
+
+[2016-08-30 19:22:42]  Function: authorize Error text: Wrong auth params
+
+email: danilchyk@macc.com.ua / pass: 24bf6e223bbf0d4a3f3c976baaa61990 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (Linux; U; Android 2.2; en-gb; GT-P1000 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 / 
+
+[2016-08-30 19:39:23]  Function: authorize Error text: Wrong auth params
+
+email: danilchyk@macc.com.ua / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 / cookie: EFE245B9ADFC4EE886B47C37D13AC2E4 / 
+
+[2016-08-31 15:33:43]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile Safari/537.36 / 
+
+[2016-08-31 16:06:31]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile Safari/537.36 / cookie: D01ECDD29BBC4EA284510E4CF064B72E / 
+
+[2016-09-01 10:42:27]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 / cookie: D01ECDD29BBC4EA284510E4CF064B72E / 
+
+[2016-09-01 12:41:32]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile Safari/537.36 / cookie: D01ECDD29BBC4EA284510E4CF064B72E / 
+
+[2016-09-07 14:10:56]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: c33367701511b4f6020ec61ded352059 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.89 Safari/537.36 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / 
+
+[2016-09-07 14:11:12]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.89 Safari/537.36 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / 
+
+[2016-09-07 14:11:19]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: c33367701511b4f6020ec61ded352059 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.89 Safari/537.36 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / 
+
+[2016-09-07 14:11:24]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: e10adc3949ba59abbe56e057f20f883e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.89 Safari/537.36 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / 
+
+[2016-09-07 14:11:49]  Function: authorize Error text: Wrong auth params
+
+email: metlushko@macc.com.ua / pass: c33367701511b4f6020ec61ded352059 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.89 Safari/537.36 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / 
+
+[2016-09-07 14:12:04]  Function: authorize Error text: Wrong auth params
+
+email: metlushko@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.89 Safari/537.36 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / 
+
+[2016-09-07 14:12:09]  Function: authorize Error text: Wrong auth params
+
+email: metlushko@macc.com.ua / pass: c33367701511b4f6020ec61ded352059 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.89 Safari/537.36 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / 
+
+[2016-09-12 14:56:22]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 / cookie: C0AEA583F1EC43C2B41743319C77DEF6 / 
+
+[2016-09-12 14:56:23]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 / cookie: C0AEA583F1EC43C2B41743319C77DEF6 / 
+
+[2016-09-12 14:58:16]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2016-09-16 09:54:13]  Function: authorize Error text: Wrong auth params
+
+email: shonin@macc.com.ua / pass: e10adc3949ba59abbe56e057f20f883e / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0 / cookie: 0FED40D54E354145A9B76214DC9DB3ED / 
+
+[2016-09-16 09:55:32]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2016-09-16 09:55:34]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2016-09-16 09:55:50]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2016-09-28 10:11:07]  Function: authorize Error text: Email not confirmed
+
+email: moka@email.ua / pass: 4a22c0ce361312f4010c4cfd92d203e0 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36 / cookie: 18ED8CBCCDFC46D486BAA2179F502B83 / 
+
+[2016-09-28 10:11:17]  Function: authorize Error text: Wrong auth params
+
+email: moka@email.ua / pass: f4efabb34471420cbb3000b179444a0c / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36 / cookie: 18ED8CBCCDFC46D486BAA2179F502B83 / 
+
+[2016-09-28 10:11:46]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2016-09-28 10:39:33]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: e10adc3949ba59abbe56e057f20f883e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / 
+
+[2016-09-28 10:39:42]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: e10adc3949ba59abbe56e057f20f883e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / 
+
+[2016-09-28 10:39:54]  Function: authorize Error text: Wrong auth params
+
+email: metlushko@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / 
+
+[2016-09-28 10:40:05]  Function: authorize Error text: Wrong auth params
+
+email: metlushko@macc.com.ua / pass: e10adc3949ba59abbe56e057f20f883e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / 
+
+[2016-09-28 10:42:17]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 31.172.136.169 / useragent: Mozilla/5.0 (Windows NT 5.1; rv:49.0) Gecko/20100101 Firefox/49.0 / cookie: 5FAF8BF24F434CB189CE90931D4EC7A2 / 
+
+[2016-09-28 10:42:28]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: c33367701511b4f6020ec61ded352059 / ip: 31.172.136.169 / useragent: Mozilla/5.0 (Windows NT 5.1; rv:49.0) Gecko/20100101 Firefox/49.0 / cookie: 5FAF8BF24F434CB189CE90931D4EC7A2 / 
+
+[2016-09-28 10:42:39]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 3d186804534370c3c817db0563f0e461 / ip: 31.172.136.169 / useragent: Mozilla/5.0 (Windows NT 5.1; rv:49.0) Gecko/20100101 Firefox/49.0 / cookie: 5FAF8BF24F434CB189CE90931D4EC7A2 / 
+
+[2016-09-28 10:42:47]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 31.172.136.169 / useragent: Mozilla/5.0 (Windows NT 5.1; rv:49.0) Gecko/20100101 Firefox/49.0 / cookie: 5FAF8BF24F434CB189CE90931D4EC7A2 / 
+
+[2016-09-30 17:48:52]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36 / cookie: C0AEA583F1EC43C2B41743319C77DEF6 / 
+
+[2016-09-30 17:48:52]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36 / cookie: C0AEA583F1EC43C2B41743319C77DEF6 / 
+
+[2016-09-30 17:49:04]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 3d186804534370c3c817db0563f0e461 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36 / cookie: C0AEA583F1EC43C2B41743319C77DEF6 / 
+
+[2016-09-30 17:49:16]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 3d186804534370c3c817db0563f0e461 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36 / cookie: C0AEA583F1EC43C2B41743319C77DEF6 / 
+
+[2016-09-30 17:52:11]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: c33367701511b4f6020ec61ded352059 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36 / cookie: C0AEA583F1EC43C2B41743319C77DEF6 / 
+
+[2016-09-30 17:52:25]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36 / cookie: C0AEA583F1EC43C2B41743319C77DEF6 / 
+
+[2016-10-11 14:45:29]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36 OPR/40.0.2308.81 / plugin_id: 11470726029186 / cookie: DDC666BF095C41DB85FD62C6A44C0AE3 / 
+
+[2016-11-07 11:43:05]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: c33367701511b4f6020ec61ded352059 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.90 Safari/537.36 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / 
+
+[2016-11-07 11:43:17]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.90 Safari/537.36 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / 
+
+[2016-11-07 11:43:22]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: c33367701511b4f6020ec61ded352059 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.90 Safari/537.36 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / 
+
+[2016-11-07 11:43:27]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: e10adc3949ba59abbe56e057f20f883e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.90 Safari/537.36 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / 
+
+[2016-11-07 11:43:39]  Function: authorize Error text: Wrong auth params
+
+email: metlushko@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.90 Safari/537.36 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / 
+
+[2016-11-07 11:43:44]  Function: authorize Error text: Wrong auth params
+
+email: metlushko@macc.com.ua / pass: c33367701511b4f6020ec61ded352059 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.90 Safari/537.36 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / 
+
+[2016-11-07 11:43:51]  Function: authorize Error text: Wrong auth params
+
+email: metlushko@macc.com.ua / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.90 Safari/537.36 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / 
+
+[2016-11-07 11:44:04]  Function: authorize Error text: Wrong auth params
+
+email: metlushko@macc.com.ua / pass: e10adc3949ba59abbe56e057f20f883e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.90 Safari/537.36 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / 
+
+[2016-11-07 11:44:45]  Function: authorize Error text: Wrong auth params
+
+email: gorelova@macc.com.ua / pass: 3d186804534370c3c817db0563f0e461 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.90 Safari/537.36 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / 
+
+[2016-11-07 11:44:54]  Function: authorize Error text: Wrong auth params
+
+email: metlushko@macc.com.ua  / pass: 4297f44b13955235245b2497399d7a93 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.90 Safari/537.36 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / 
+
+[2016-11-07 13:48:34]  Function: set_adv_block_status Error text: Не все обязательные параметры указаны либо неверных их тип
+
+is_counter_block: 0 / is_adv_block: 1 / 
+
+[2016-11-07 13:51:05]  Function: set_adv_block_status Error text: Не все обязательные параметры указаны либо неверных их тип
+
+is_counter_block: 0 / is_adv_block: 1 / 
+
+[2016-11-10 15:54:55]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 0 / onl_respondent_id: 130823 / cookie:  / plugin_id: undefined / ip:  / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.90 Safari/537.36 / 
+
+[2016-11-10 15:55:45]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 0 / onl_respondent_id: 130823 / cookie:  / plugin_id: undefined / ip:  / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.90 Safari/537.36 / 
+
+[2016-11-10 15:59:28]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 0 / onl_respondent_id: 130823 / cookie:  / plugin_id: undefined / ip:  / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.90 Safari/537.36 / 
+
+[2016-11-10 16:00:12]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 0 / onl_respondent_id: 130823 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / plugin_id: undefined / ip:  / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.90 Safari/537.36 / 
+
+[2016-11-10 16:01:04]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 0 / onl_respondent_id: 130823 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / plugin_id:  / ip:  / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.90 Safari/537.36 / 
+
+[2016-11-10 16:02:24]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 0 / onl_respondent_id: 130823 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / plugin_id:  / ip:  / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.90 Safari/537.36 / 
+
+[2016-11-10 16:03:36]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 0 / onl_respondent_id: 130823 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / plugin_id:  / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.90 Safari/537.36 / 
+
+[2016-12-01 16:49:23]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 1 / onl_respondent_id: 130823 / cookie: 036DD87865CD43E6BFF99E5EC288CE17 / plugin_id:  / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36 / 
+
+[2016-12-01 17:10:05]  Function: dic_area_list Error text: ORA-01722: invalid number
+
+
+dic_region_id: ... / 
+
+[2016-12-01 17:10:05]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2016-12-01 17:10:26]  Function: dic_area_list Error text: ORA-01722: invalid number
+
+
+dic_region_id: ... / 
+
+[2016-12-01 17:10:26]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2016-12-01 17:10:36]  Function: dic_area_list Error text: ORA-01722: invalid number
+
+
+dic_region_id: ... / 
+
+[2016-12-01 17:10:36]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2016-12-01 17:23:48]  Function: dic_area_list Error text: ORA-01722: invalid number
+
+
+dic_region_id: ... / 
+
+[2016-12-01 17:23:48]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2016-12-01 17:24:01]  Function: dic_area_list Error text: ORA-01722: invalid number
+
+
+dic_region_id: ... / 
+
+[2016-12-01 17:24:01]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2016-12-01 17:25:28]  Function: dic_area_list Error text: ORA-01722: invalid number
+
+
+dic_region_id: ... / 
+
+[2016-12-01 17:25:28]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2016-12-01 17:26:53]  Function: dic_area_list Error text: ORA-01722: invalid number
+
+
+dic_region_id: ... / 
+
+[2016-12-01 17:26:53]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2016-12-01 17:32:02]  Function: dic_area_list Error text: ORA-01722: invalid number
+
+
+dic_region_id: ... / 
+
+[2016-12-01 17:32:02]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2016-12-01 17:42:47]  Function: dic_area_list Error text: ORA-01722: invalid number
+
+
+dic_region_id: ... / 
+
+[2016-12-01 17:42:47]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2016-12-01 17:56:40]  Function: dic_area_list Error text: ORA-01722: invalid number
+
+
+dic_region_id: ... / 
+
+[2016-12-01 17:56:40]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2016-12-01 17:56:50]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 0 / onl_respondent_id: 130823 / cookie: 18701EF80E534520872689C444E87C7A / plugin_id:  / ip: 194.247.174.125 / useragent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36 / 
+
+[2017-01-26 19:07:31]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36 / cookie: 8324ACE8DC8D4ACF9BF0D9521C6D2AAB / 
+
+[2017-01-26 19:07:42]  Function: authorize Error text: Wrong auth params
+
+email: misha.kletsko@gmail.com / pass: 8fbd2a62950fc372e53f0b8e8b8a6b80 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36 / cookie: 8324ACE8DC8D4ACF9BF0D9521C6D2AAB / 
+
+[2017-01-26 19:08:00]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36 / cookie: 8324ACE8DC8D4ACF9BF0D9521C6D2AAB / 
+
+[2017-01-26 19:08:11]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2017-01-26 19:08:16]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2017-01-26 19:08:18]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2017-01-26 19:35:06]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2017-01-26 19:35:10]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2017-01-26 19:37:02]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36 / cookie: 8324ACE8DC8D4ACF9BF0D9521C6D2AAB / 
+
+[2017-01-26 19:37:12]  Function: authorize Error text: Wrong auth params
+
+email: testoprosuser / pass: 25ef1726e05e1aae1602db86aa5513f1 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36 / cookie: 8324ACE8DC8D4ACF9BF0D9521C6D2AAB / 
+
+[2017-01-26 19:37:36]  Function: authorize Error text: Wrong auth params
+
+email: misha.kletsko@gmail.com / pass: 8fbd2a62950fc372e53f0b8e8b8a6b80 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36 / cookie: 8324ACE8DC8D4ACF9BF0D9521C6D2AAB / 
+
+[2017-01-26 19:37:39]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36 / cookie: 8324ACE8DC8D4ACF9BF0D9521C6D2AAB / 
+
+[2017-01-27 14:01:35]  Function: dic_area_list Error text: ORA-01722: invalid number
+
+
+dic_region_id: ... / 
+
+[2017-01-27 14:01:35]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2017-01-27 14:02:18]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2017-01-27 14:02:33]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2017-01-27 14:13:32]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2017-01-27 14:26:44]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2017-01-27 14:28:48]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2017-01-27 14:28:58]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2017-01-27 14:29:00]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2017-01-27 14:57:34]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36 / cookie: 8324ACE8DC8D4ACF9BF0D9521C6D2AAB / 
+
+[2017-01-27 14:58:02]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 0 / onl_respondent_id: 130883 / cookie: 8324ACE8DC8D4ACF9BF0D9521C6D2AAB / plugin_id:  / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36 / 
+
+[2017-01-27 14:59:06]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2017-01-27 15:00:07]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2017-01-27 15:02:04]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2017-01-27 15:07:39]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2017-01-27 15:08:55]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2017-01-27 15:08:58]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2017-01-27 15:11:35]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2017-02-27 12:28:32]  Function: authorize Error text: Wrong auth params
+
+email: mkletsko@macc.com.ua / pass: f02ac2ab67299864982d875545f5e9fb / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36 / cookie: 8324ACE8DC8D4ACF9BF0D9521C6D2AAB / 
+
+[2017-02-27 12:28:32]  Function: authorize Error text: Wrong auth params
+
+email: mkletsko@macc.com.ua / pass: f02ac2ab67299864982d875545f5e9fb / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36 / cookie: 8324ACE8DC8D4ACF9BF0D9521C6D2AAB / 
+
+[2017-02-27 12:29:05]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2017-02-27 12:29:44]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2017-02-27 12:34:43]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36 / cookie: 8324ACE8DC8D4ACF9BF0D9521C6D2AAB / 
+
+[2017-02-27 12:34:51]  Function: authorize Error text: Wrong auth params
+
+email: testoprosuser / pass: 25ef1726e05e1aae1602db86aa5513f1 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36 / cookie: 8324ACE8DC8D4ACF9BF0D9521C6D2AAB / 
+
+[2017-02-27 12:35:16]  Function: authorize Error text: Wrong auth params
+
+email: t1pool / pass: e5f49fc4bd766061b72c14528f9a599a / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36 / cookie: 8324ACE8DC8D4ACF9BF0D9521C6D2AAB / 
+
+[2017-02-27 12:35:25]  Function: authorize Error text: Wrong auth params
+
+email: root / pass: 64306313b693cdc49241199449a6a3f6 / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36 / cookie: 8324ACE8DC8D4ACF9BF0D9521C6D2AAB / 
+
+[2017-02-27 12:35:39]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 0 / onl_respondent_id: 130883 / cookie: 8324ACE8DC8D4ACF9BF0D9521C6D2AAB / plugin_id:  / ip: 89.252.56.204 / useragent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36 / 
+
+[2017-03-24 15:44:40]  Function: authorize Error text: Wrong auth params
+
+email: fdsfsd / pass: 32d9265c2e3703d89c0ba1fdc256ac38 / ip: 176.37.39.27 / useragent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 / 
+
+[2017-03-24 15:53:39]  Function: authorize Error text: Не все обязательные параметры указаны либо неверных их тип
+
+email:  / pass: d41d8cd98f00b204e9800998ecf8427e / ip: 176.37.39.27 / useragent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 / 
+
+[2017-03-24 17:45:01]  Function: authorize Error text: Wrong auth params
+
+email: testoprosuser / pass: 25ef1726e05e1aae1602db86aa5513f1 / ip: 176.37.39.27 / useragent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 / 
+
+[2017-03-24 17:45:29]  Function: authorize Error text: Wrong auth params
+
+email: testoprosuser / pass: 25ef1726e05e1aae1602db86aa5513f1 / ip: 176.37.39.27 / useragent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 / 
+
+[2017-03-24 17:46:15]  Function: dic_city_list Error text: ORA-01722: invalid number
+
+
+dic_area_id: ... / 
+
+[2017-03-24 17:48:42]  Function: authorize Error text: Email not confirmed
+
+email: v.bilinskyi@macc.com.ua / pass: 25ef1726e05e1aae1602db86aa5513f1 / ip: 176.37.39.27 / useragent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 / 
+
+[2017-03-24 17:56:59]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 0 / onl_respondent_id: 130903 / cookie: 548E202832BD43A68026DBEF14F0A3C5 / plugin_id:  / ip: 176.37.39.27 / useragent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 / 
+
+[2017-03-24 18:10:01]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 0 / onl_respondent_id: 130903 / cookie: 548E202832BD43A68026DBEF14F0A3C5 / plugin_id:  / ip: 176.37.39.27 / useragent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 / 
+
+[2017-03-24 18:14:53]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 0 / onl_respondent_id: 130903 / cookie: 548E202832BD43A68026DBEF14F0A3C5 / plugin_id:  / ip: 176.37.39.27 / useragent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 / 
+
+[2017-03-24 18:15:27]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 0 / onl_respondent_id: 130903 / cookie: 548E202832BD43A68026DBEF14F0A3C5 / plugin_id:  / ip: 176.37.39.27 / useragent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 / 
+
+[2017-03-24 18:20:26]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 0 / onl_respondent_id: 130903 / cookie: 548E202832BD43A68026DBEF14F0A3C5 / plugin_id:  / ip: 176.37.39.27 / useragent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 / 
+
+[2017-03-24 18:21:02]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 0 / onl_respondent_id: 130903 / cookie: 548E202832BD43A68026DBEF14F0A3C5 / plugin_id:  / ip: 176.37.39.27 / useragent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 / 
+
+[2017-03-24 18:21:06]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 0 / onl_respondent_id: 130903 / cookie: 548E202832BD43A68026DBEF14F0A3C5 / plugin_id:  / ip: 176.37.39.27 / useragent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 / 
+
+[2017-03-24 18:22:02]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 0 / onl_respondent_id: 130903 / cookie: 548E202832BD43A68026DBEF14F0A3C5 / plugin_id:  / ip: 176.37.39.27 / useragent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 / 
+
+[2017-03-24 20:23:04]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 0 / onl_respondent_id: 130903 / cookie: 548E202832BD43A68026DBEF14F0A3C5 / plugin_id:  / ip: 176.37.39.27 / useragent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 / 
+
+[2017-03-24 20:26:40]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 0 / onl_respondent_id: 130903 / cookie: 548E202832BD43A68026DBEF14F0A3C5 / plugin_id:  / ip: 176.37.39.27 / useragent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36 / 
+
+[2017-03-24 20:26:54]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 0 / onl_respondent_id: 130903 / cookie: 548E202832BD43A68026DBEF14F0A3C5 / plugin_id:  / ip: 176.37.39.27 / useragent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36 / 
+
+[2017-03-24 20:27:05]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 0 / onl_respondent_id: 130903 / cookie: 548E202832BD43A68026DBEF14F0A3C5 / plugin_id:  / ip: 176.37.39.27 / useragent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 / 
+
+[2017-03-24 20:27:07]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 0 / onl_respondent_id: 130903 / cookie: 548E202832BD43A68026DBEF14F0A3C5 / plugin_id:  / ip: 176.37.39.27 / useragent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 / 
+
+[2017-03-24 20:32:40]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 0 / onl_respondent_id: 130903 / cookie: 548E202832BD43A68026DBEF14F0A3C5 / plugin_id:  / ip: 176.37.39.27 / useragent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 / 
+
+[2017-03-24 20:36:48]  Function: authorize Error text: Wrong auth params
+
+email: v.bilinskyi@macc.com.ua / pass: 31774cb1bc0537e65af1c51fade8e7a2 / ip: 176.37.39.27 / useragent: Mozilla/5.0 (Linux; Android 5.1.1; Redmi Note 3 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36 / 
+
+[2017-03-24 20:38:01]  Function: authorize Error text: Wrong auth params
+
+email: v.bilinskyi@macc.com.ua / pass: 4e565f15a902ec73ab3ead3b4f1f6f99 / ip: 176.37.39.27 / useragent: Mozilla/5.0 (Linux; Android 5.1.1; Redmi Note 3 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36 / 
+
+[2017-03-24 20:38:54]  Function: authorize Error text: Wrong auth params
+
+email: v.bilinskyi@macc.com.ua / pass: fd268275a27f12ea3d32bbc9a919a169 / ip: 176.37.39.27 / useragent: Mozilla/5.0 (Linux; Android 5.1.1; Redmi Note 3 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36 / 
+
+[2017-03-24 23:29:11]  Function: set_adv_block_status Error text: ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_ONL_RESPONDENT_EVENT"."EVENT_TYPE")
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 517
+ORA-06512: at line 1
+
+
+is_counter_block: 0 / is_adv_block: 0 / onl_respondent_id: 130903 / cookie: 548E202832BD43A68026DBEF14F0A3C5 / plugin_id:  / ip: 176.37.39.27 / useragent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 / 
+

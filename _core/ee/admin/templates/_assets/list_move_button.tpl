@@ -1,0 +1,1 @@
+<a href="#" onclick = "moveFiles(); return false;" title="Move"><img src="<%:EE_HTTP%>img/move_24.gif" width="24" height="24" alt="Move" style="margin:5px;" border="0"></a>

@@ -1,0 +1,2 @@
+<%include:<%:modul%>/views_btns%>
+<a target="_blank" href="<%:EE_HTTP%>?t=<%:id%>"><img alt="<%cons:View page%>" title="[^] <%:name%> page" src="<%:EE_HTTP%>img/doc.gif" border="0" /></a>&nbsp;&nbsp;&nbsp;

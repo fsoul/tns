@@ -1,0 +1,698 @@
+/* 
+    Document   : components.css
+    Created on : Feb 21, 2012, 5:46:21 PM
+    Author     : david.rosser
+    Description:
+        Define user interface components here.
+*/
+
+/* =UI Components
+-------------------------------------------------------------- */
+
+/* =Ajax Loader
+-------------------------------------------------------------- */
+div.ajax-loader{
+    background: url(/assets/images/global/ui-components/loading/ajax-loader.gif) no-repeat;
+    width: 31px;
+    height: 31px;
+}
+
+
+/* =Buttons Global
+-------------------------------------------------------------- */
+/*
+All buttons styles should extend this class
+*/
+div.container a.button{
+    cursor: pointer;
+    display: inline-block;
+    font-family: 'FrutigerLTPro-Light';
+    text-decoration: none;
+}
+
+div.container a.button:hover{
+
+}
+
+
+/* =Button Link
+-------------------------------------------------------------- */
+/*
+The default button style used across all templates
+This variation has the grey background
+*/
+div.container a.button.link{
+    background: url(images/button-link-arrow-spritesheet.png) no-repeat top right #f2f2f2;
+    padding: 11px 30px 8px 12px;
+    
+}
+
+div.container a.button.link:hover{
+    background-color: #EC008C;
+    background-position: right -35px;
+    color: #fff;
+}
+
+/*
+This variation has the white background
+*/
+div.container a.button.link.light{
+    background-color: #fff;
+}
+
+div.container a.button.link.light:hover{
+    background-color: #EC008C;
+}
+
+/* =Button Link Sign up
+-------------------------------------------------------------- */
+div.container a.button.link.sign-up{
+    background-image: url(/assets/images/global/ui-components/buttons/button-link-sign-up-spritesheet.png);
+    padding-right: 40px;
+}
+
+/* =Button Link Log in
+-------------------------------------------------------------- */
+div.container a.button.link.log-in{
+    background-image: url(/assets/images/global/ui-components/buttons/button-link-log-in-spritesheet.png);
+    padding-right: 35px;
+}
+
+
+/* =Button Component
+-------------------------------------------------------------- */
+/*
+Button Components should be used for in-page functionality 
+*/
+input[type="submit"],
+button.component,
+div.container a.button.component{
+    background: #fbfbfb;
+    background-image: url(/assets/images/global/ui-components/buttons/ie-button-component-background-spritesheet.jpg);
+    background: -webkit-gradient(linear, 0 0, 0 bottom, from(#fbfbfb), to(#f0f0f0));
+    background: -webkit-linear-gradient(#fbfbfb, #f0f0f0);
+    background: -moz-linear-gradient(#fbfbfb, #f0f0f0);
+    background: -ms-linear-gradient(#fbfbfb, #f0f0f0);
+    background: -o-linear-gradient(#fbfbfb, #f0f0f0);
+    background: linear-gradient(#fbfbfb, #f0f0f0);
+
+    border: 1px solid #d5d5d5;
+    font-family: 'FrutigerLTPro-Light';
+    padding: 6px 8px;
+}
+
+input[type="submit"]:hover,
+button.component:hover,
+div.container a.button.component:hover{
+    background: #f0f0f0;
+    background-image: url(/assets/images/global/ui-components/buttons/ie-button-component-background-spritesheet.jpg);
+    background: -webkit-gradient(linear, 0 0, 0 bottom, from(#f0f0f0), to(#fbfbfb));
+    background: -webkit-linear-gradient(#f0f0f0, #fbfbfb);
+    background: -moz-linear-gradient(#f0f0f0, #fbfbfb);
+    background: -ms-linear-gradient(#f0f0f0, #fbfbfb);
+    background: -o-linear-gradient(#f0f0f0, #fbfbfb);
+    background: linear-gradient(#f0f0f0, #fbfbfb);
+
+    color: #000;
+}
+
+
+/* =Button Component Download
+-------------------------------------------------------------- */
+/*
+The download button. Used for cases such as PDF download's 
+*/
+div.container a.button.component.download{
+    background: url(/assets/images/global/ui-components/buttons/button-download-spritesheet.jpg) no-repeat !important;
+    padding-left: 13px;
+    padding-right: 13px;
+    text-indent: -99999px;
+}
+
+div.container a.button.component.download:hover{
+    background-position: 0 -30px !important;
+}
+
+/* =Button Component list
+-------------------------------------------------------------- */
+/*
+Used for multiple inline buttons
+*/
+div.container ul.buttons{
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+div.container ul.buttons li{
+     float: left;
+     padding-right: 10px;
+}
+
+div.container ul.buttons li a{
+    position: relative !important;
+}
+
+div.container ul.buttons li a.button.link{
+    position: relative !important;
+}
+
+/* =Button Component Left & Right
+-------------------------------------------------------------- */
+
+
+/* =Button Component Key
+-------------------------------------------------------------- */
+div.container a.button.component.key{
+    font-size: 10px;
+    padding: 4px 5px;
+}
+
+
+/* =Button Arrow
+-------------------------------------------------------------- */
+div.container a.button.arrow{
+    border: 1px solid #D5D5D5;
+    width: 24px;
+    height: 25px;
+}
+
+div.container a.button.arrow.left{
+    background: url(/assets/images/global/ui-components/buttons/button-arrow-spritesheet.jpg) no-repeat top left;
+}
+
+div.container a.button.arrow.left:hover{
+    background-position: 0 bottom;
+}
+
+div.container a.button.arrow.right{
+    background: url(/assets/images/global/ui-components/buttons/button-arrow-spritesheet.jpg) no-repeat top right;
+}
+
+div.container a.button.arrow.right:hover{
+    background-position: bottom right;
+}
+
+
+
+/* =Button Close
+-------------------------------------------------------------- */
+div.container a.button.close{
+    background-image: url(/assets/images/global/ui-components/buttons/button-close-spritesheet.jpg);
+    text-indent: -99999px;
+    width: 23px;
+    height: 23px;
+}
+
+div.container a.button.close:hover{
+    background-position: 0 -23px;
+}
+
+
+/* =Button Expand Large
+-------------------------------------------------------------- */
+div.container a.button.expand-large{
+    background: url(/assets/images/global/ui-components/buttons/button-link-text-expand-large-spritesheet.jpg) no-repeat top right;
+    width: 29px;
+    height: 29px;
+}
+
+div.container a.button.expand-large:hover{
+    background-position: 0 -29px;
+    color: #000;
+}
+
+div.container a.button.expand-large.expanded{
+    background-position: 0 -58px;
+}
+
+div.container a.button.expand-large.expanded:hover{
+    background-position: 0 -87px;
+}
+
+
+/* =Pagination
+-------------------------------------------------------------- */
+div.container div.pagination{
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 15px 0;
+    overflow: hidden;
+}
+
+div.container div.pagination ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+div.container div.pagination div.buttons{
+    float: left;
+    left: 50%;
+    position: relative;
+}
+
+div.container div.pagination div.buttons ul{
+    left: -50%;
+    position: relative;
+}
+
+div.container div.pagination div.buttons ul li{
+    float: left;
+    margin: 0 1px;
+}
+
+div.container div.pagination div.buttons ul li.disabled{
+    background: #fbfbfb;
+    background: -webkit-gradient(linear, 0 0, 0 bottom, from(#fbfbfb), to(#f0f0f0));
+    background: -webkit-linear-gradient(#fbfbfb, #f0f0f0);
+    background: -moz-linear-gradient(#fbfbfb, #f0f0f0);
+    background: -ms-linear-gradient(#fbfbfb, #f0f0f0);
+    background: -o-linear-gradient(#fbfbfb, #f0f0f0);
+    background: linear-gradient(#fbfbfb, #f0f0f0);
+
+    opacity: 0.5;
+    -moz-opacity: 0.5;
+
+    border: 1px solid #d5d5d5;
+    color: #EC008C;
+    float:left;
+    padding: 6px 8px 6px 8px;
+}
+
+div.container div.pagination div.buttons ul li.seperator{
+    background: url(/assets/images/global/vr.jpg) repeat-y center;
+    height: 29px;
+    margin-bottom: -10px;
+    padding: 0 10px;
+}
+
+div.container div.pagination div.buttons ul li a{
+    background: #fbfbfb;
+    background: -webkit-gradient(linear, 0 0, 0 bottom, from(#fbfbfb), to(#f0f0f0));
+    background: -webkit-linear-gradient(#fbfbfb, #f0f0f0);
+    background: -moz-linear-gradient(#fbfbfb, #f0f0f0);
+    background: -ms-linear-gradient(#fbfbfb, #f0f0f0);
+    background: -o-linear-gradient(#fbfbfb, #f0f0f0);
+    background: linear-gradient(#fbfbfb, #f0f0f0);
+
+    border: 1px solid #d5d5d5;
+    float: left;    
+    padding: 6px 8px 6px 8px;
+}
+
+div.container div.pagination div.buttons ul li a.link:hover{
+    border-color: #EC008C;
+}
+
+div.container div.pagination div.buttons ul li a.link.page.active{
+    color: #000;
+}
+
+
+/* =Content Filter 
+-------------------------------------------------------------- */ 
+div.container div.content-filter{
+    background-color: #f2f2f2;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 10px 10px 10px 20px;
+    width: 924px;
+}
+
+div.container div.content-filter span.information{
+    color: #333;
+    display: inline-block;
+    font-family: 'FrutigerLTPro-Light';
+    font-size: 15px;
+    padding-top: 5px;
+}
+
+div.container div.content-filter label{
+    padding-right: 5px;
+}
+
+
+
+/* =Page Load Insights
+-------------------------------------------------------------- */ 
+div.container div.load-more{
+    height: 35px;
+    padding: 10px 0;
+    position: relative;
+}
+
+div.container div.load-more hr{
+    position: absolute;
+    top: 16px;
+    width: 100%;
+    z-index: 9;
+}
+
+/* =Page Load Insights Button
+-------------------------------------------------------------- */ 
+div.container div.load-more ul{
+    list-style: none;
+    left: 50%;
+    margin: 0 0 0 -82px;
+    padding-left: 0;
+    position: absolute;
+    z-index: 10;
+}
+
+div.container div.load-more ul li{
+    padding: 0 10px;
+    background-color: #fff;
+}
+
+div.container div.load-more ul li a.button.component{
+    background: url(/assets/images/global/ui-components/loading/load-more-background-spritesheet.jpg) no-repeat top right;
+    padding-right: 35px;
+}
+
+div.container div.load-more ul li a.button.component:hover{
+    background-position: right -30px
+}
+
+
+/* =BC Feature Carousel 
+-------------------------------------------------------------- */
+/*
+Inline carousels for B and C Features
+*/
+div.container div.a-feature div.carousel-container,
+div.container div.b-feature div.carousel-container,
+div.container div.c-feature div.carousel-container{
+    
+}
+
+div.container div.a-feature div.carousel-container div.controls,
+div.container div.b-feature div.carousel-container div.controls,
+div.container div.c-feature div.carousel-container div.controls{
+    margin-top: 21px;   
+}
+
+div.container div.a-feature div.carousel-container div.controls.left,
+div.container div.b-feature div.carousel-container div.controls.left,
+div.container div.c-feature div.carousel-container div.controls.left{
+    float: left;
+}
+
+div.container div.a-feature div.carousel-container div.controls.right,
+div.container div.b-feature div.carousel-container div.controls.right,
+div.container div.c-feature div.carousel-container div.controls.right{
+    float: right;
+}
+
+div.container div.a-feature div.carousel-container div.controls a.button.arrow,
+div.container div.b-feature div.carousel-container div.controls a.button.arrow,
+div.container div.c-feature div.carousel-container div.controls a.button.arrow{
+    position: relative;
+}
+
+div.container div.a-feature div.carousel-container div.controls a.button.arrow.disabled,
+div.container div.b-feature div.carousel-container div.controls a.button.arrow.disabled,
+div.container div.c-feature div.carousel-container div.controls a.button.arrow.disabled{
+    opacity: 0.5;
+    -moz-opacity: 0.5;
+    filter:alpha(opacity=50);
+}
+
+div.container div.a-feature div.carousel-container div.carousel,
+div.container div.b-feature div.carousel-container div.carousel,
+div.container div.c-feature div.carousel-container div.carousel{
+    float: left;
+    margin: 0 10px;
+    overflow: hidden;
+    position: relative;
+    height: 80px;
+    top: 0;
+    left: 0;
+}
+
+div.container div.a-feature div.carousel-container div.carousel ul,
+div.container div.b-feature div.carousel-container div.carousel ul,
+div.container div.c-feature div.carousel-container div.carousel ul{
+    float: left;
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+    position: absolute;
+    width: 100000px;
+}
+
+div.container div.a-feature div.carousel-container div.carousel ul li,
+div.container div.b-feature div.carousel-container div.carousel ul li,
+div.container div.c-feature div.carousel-container div.carousel ul li{
+    float: left;
+}
+
+
+/* =Lightbox
+-------------------------------------------------------------- */
+div.lightbox{
+    background-color: #fff;
+    border: 1px solid #d5d5d5;
+    display: none; 
+    padding: 10px;
+    min-width: 200px;
+    min-height: 200px;
+    z-index: 10000;
+}
+
+div.lightbox.small-screen{
+    top: 0 !important;
+    bottom: 0 !important;
+}
+ 
+div.lightbox a.close {
+    background-image: url(/assets/images/global/ui-components/buttons/button-close-overlay-spritesheet.jpg);
+    cursor: pointer;
+    position: absolute;
+    width: 27px;
+    height: 27px;
+}
+
+div.lightbox a.close:hover {
+     background-position: 0 -27px;
+}
+
+div.lightbox h3{
+    font-family: 'FrutigerLTPro-Light' !important;
+    font-size: 15px !important;
+    font-weight: normal !important;
+    margin-top: 0;
+}
+
+
+/* =Lightbox Video
+-------------------------------------------------------------- */
+div.lightbox.video a.close {
+    top: 15px;
+    right: 3px;
+}
+
+div.lightbox.video h4{
+    margin-top: 19px;
+    padding-left: 7px;
+}
+
+div.lightbox.video p{
+    margin-bottom: 0;
+}
+
+
+/* =Lightbox Form
+-------------------------------------------------------------- */
+div.lightbox.form{
+    overflow-y: auto;
+    padding: 20px;
+    width: 290px;
+}
+
+div.lightbox.slideshare a.close,
+div.lightbox.form a.close {
+    background-image: url(/assets/images/global/ui-components/buttons/button-close-spritesheet.jpg);
+    top: 16px;
+    right: 15px;
+    width: 23px;
+    height: 23px;
+}
+
+div.lightbox.slideshare a.close:hover,
+div.lightbox.form a.close:hover{
+    background-position: 0 -23px;
+}
+
+div.lightbox.form h3{
+    padding-bottom: 8px;
+    border-bottom: 1px solid #dedede;
+}
+
+div.lightbox.form h4{
+    font-size: 13px;
+}
+
+div.lightbox.form form div.form-item label{
+    padding-bottom: 2px;
+}
+
+div.lightbox.form form div.form-item input{
+    width: 270px;
+}
+
+div.lightbox.form form div.form-item textarea{
+    padding: 6px 8px;
+    width: 270px;
+}
+
+div.lightbox.form form div.form-item div.opt-in-box label.input-label{
+    float: left;
+}
+
+div.lightbox.form form div.form-item div.opt-in-box label.opt-in{
+    margin-top: 5px;
+}
+
+div.lightbox.form form div.form-item div.opt-in-box input.checkbox{
+    margin-left: 5px;
+    width: auto;
+}
+
+div.lightbox.form form button.component{
+    margin-bottom: 50px;
+}
+
+/* =Lightbox Form States
+-------------------------------------------------------------- */ 
+div.lightbox.form div.state.ajax{
+    text-align: center;
+}
+
+div.lightbox.form div.state.ajax div.ajax-loader{
+    margin: 5px 0 0 133px;
+}
+
+
+/* =Lightbox Slideshare
+-------------------------------------------------------------- */
+div.lightbox.slideshare{
+    padding: 20px 20px 10px 20px;
+}
+
+div.lightbox.slideshare strong{
+    border-bottom: 1px solid #dedede;
+    font-family: 'FrutigerLTPro-Light';
+    font-size: 15px;
+    font-weight: normal;
+    margin: 0 0 15px 0 !important;
+    padding-bottom: 8px;
+}
+
+div.lightbox.slideshare strong a{
+    text-decoration: none;
+    max-width: 400px;
+}
+
+div.lightbox.slideshare strong a:hover{
+    text-decoration: underline;
+}
+
+/* =Lightbox Youtube
+-------------------------------------------------------------- */
+div.lightbox.youtube{
+
+}
+
+div.lightbox.youtube a.close{
+    top: 17px !important;
+    right: 4px !important;
+}
+
+div.lightbox.youtube h3{
+    margin-top: 16px !important;
+    margin-left: 6px !important;
+}
+
+
+/* =Video Trigger
+-------------------------------------------------------------- */
+div.container a.lightbox-trigger,
+div.container div.lightbox-trigger{
+    cursor: pointer;
+    position: relative;
+}
+
+div.container a.lightbox-trigger span.icon,
+div.container div.lightbox-trigger span.icon{
+    background: url(/assets/images/global/ui-components/video/icon-play-spritesheet.png);
+    margin: -32.5px 0 0 -32.5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 65px;
+    height: 65px;
+}
+
+div.container a.lightbox-trigger span.icon:hover,
+div.container div.lightbox-trigger span.icon.hover{
+    background-position: 0 -65px;
+}
+
+
+#popupwebsite{
+    top: 113px !important;
+    bottom: 60px !important;
+    position: absolute !important;
+    overflow-y: hidden !important;
+}
+
+.other_website{
+    width:522px !important;
+
+}
+.websitelnk1{
+    width:290px !important;
+    height: 50px !important;
+
+}
+.websitelnk2{
+    width:370px !important;
+    height: 50px !important;
+}
+
+#popupwebsite .wrapper{
+    width:100% ;
+}
+
+.other_website a{
+    padding-right: 1px ;
+    float:left;
+    width: 172px;
+    margin-bottom: 15px;
+    text-decoration: none;
+}
+
+.websitelnk1 a{
+    padding-right: 1px ;
+    float:left;
+    width: 167px;
+    margin-bottom: 15px;
+}
+
+.websitelnk2 a{
+    padding-right: 1px ;
+    float:left;
+    width: 172px;
+    margin-bottom: 15px;
+}
+
+
+#popupwebsite .wrapper a:hover{
+    text-decoration: underline;
+}

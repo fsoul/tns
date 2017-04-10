@@ -1,0 +1,1 @@
+<%row%<option <%iif::sel_t_view,:id,selected="selected",,%><%iif::sel_t_view,,<%iif::view_folder,html,selected="selected",%>%> value="<%:id%>"><%:view_name%> <%iif::view_folder,html, (default)%></option>%row%>

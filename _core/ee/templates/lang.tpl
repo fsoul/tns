@@ -1,0 +1,1 @@
+<%row%<a href="<%:EE_HTTP%><%iif:<%:admin_template%>,,<%get_default_aliase_for_page:<%:t%>,,<%:lang_code%>%>,?t=<%:t%>&language=<%:lang_code%>%>" <%iif::lang_code,:language,class="lang_active",class="lang_inactive"%>><%iif:<%:row_num%>,1,,|%>&nbsp;<%:lang_name%>&nbsp;</a>%row%>

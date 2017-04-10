@@ -1,0 +1,2 @@
+<%setValueOf:show,<%getField:<%strip_commas:SELECT id FROM users WHERE id="<%:<%:field_name%>%>" LIMIT 1%>%>%>
+<div style="height: 88px; width: 389px; overflow: auto; border: 1px solid #BBB; margin-top: 3px; background-color: #FFF;"><%include:_formbuilder/user_info_content%></div>

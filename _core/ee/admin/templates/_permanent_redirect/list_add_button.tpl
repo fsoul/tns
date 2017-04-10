@@ -1,0 +1,3 @@
+<!-- <a href="<%:modul%>.php?op=3" class="button">&nbsp;Add <%str_to_title::modul_title%>...&nbsp;</a> -->
+
+<a href="javascript:<%iif:<%check_content_access::CA_READ_ONLY,:CA_EDIT,:CA_PUBLISH,%>,,openPopup('<%:modul%>.php?op=3'\,<%:popup_width%>\,<%:popup_height%>\,<%:popup_scroll%>),alert('<%:NO_CONTENT_ACCESS%>')%>" class="<%iif:<%check_content_access::CA_READ_ONLY,:CA_EDIT,:CA_PUBLISH,%>,,button,button_gray%>">&nbsp;Add <%str_to_title::modul_title%>...&nbsp;</a>

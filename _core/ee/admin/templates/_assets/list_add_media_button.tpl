@@ -1,0 +1,1 @@
+<a href="javascript:add_media();" title="Add media"><img src="<%:EE_HTTP%>img/media_add_24.gif" height="24" width="24" border="0" style="margin:5px;" alt="Add media"/></a>

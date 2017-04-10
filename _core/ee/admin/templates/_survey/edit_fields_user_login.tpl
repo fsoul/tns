@@ -1,0 +1,1 @@
+<%get_user_login_by_id:<%gethtmlof:<%:field_name%>%>%> (<%get_user_name_by_id:<%gethtmlof:<%:field_name%>%>%>)

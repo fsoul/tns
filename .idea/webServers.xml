@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="21a2df5e-90e5-4495-9c4a-ce848f6ce219" name="devopros.macc.com.ua" url="http://devopros.macc.com.ua">
+        <fileTransfer host="devopros.macc.com.ua" port="22" rootFolder="/var/www/html/devopros" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+<catalog_answer_package>
+	<info>
+		<package>
+			<id>6454543573579812179357431</id>
+			<create_timestamp>%s</create_timestamp>
+			<language>%s</language>
+			<default_language>%s</default_language>
+		</package>
+		<eshop>
+			<version>to be specified</version>
+			<id>%s</id>
+			<key>to be specified</key>
+			<host>%s</host>
+			<ip>%s</ip>
+		</eshop>
+		<catalog_lib>
+			<version>1.0.0.1</version>
+		</catalog_lib>
+		<user>
+			<login>to be specified</login>
+			<password>to be specified</password>
+		</user>
+	</info>
+	<request>
+		<function_name>%s</function_name>
+%s
+	</request>
+</catalog_answer_package>

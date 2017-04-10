@@ -1,0 +1,1 @@
+<%row%<option <%iif::default_language,1,selected="selected"%> value="<%:language_code%>"><%:language_name%> <%iif::default_language,1, (default)%></option>%row%>

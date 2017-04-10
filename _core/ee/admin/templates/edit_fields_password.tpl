@@ -1,0 +1,1 @@
+<input type="password" name="<%:field_name%>" value="" size="<%:size%>" autocomplete="off" />

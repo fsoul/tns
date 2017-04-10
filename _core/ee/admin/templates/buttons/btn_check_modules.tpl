@@ -1,0 +1,1 @@
+<input style="cursor: hand" type="button" accessKey="<%CONSTANT:BUT_CHECK_MODULES%>" value="<%CONSTANT:BUT_CHECK_MODULES%>" name="check_modules" class="button" onclick="openPopup('<%:EE_HTTP%><%:EE_ADMIN_SECTION_IN_HTACCESS%>self_test_all.php?test_all=1',618,382,true)">

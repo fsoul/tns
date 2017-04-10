@@ -1,0 +1,1 @@
+<%create_object_selector:news_export, filter_%>

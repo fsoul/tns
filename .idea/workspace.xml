@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa4838c7-1025-42bf-8727-cb19972ebd71" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ap_process_function.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/ap_process_function.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="747" column="37" lean-forward="false" selection-start-line="747" selection-start-column="9" selection-end-line="747" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ap_init_function.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/ap_init_function.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="respondent.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/respondent.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lang.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/lang.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="153" column="30" lean-forward="false" selection-start-line="153" selection-start-column="30" selection-end-line="153" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ap_respondent_fields.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/mobile/ap_respondent_fields.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ap_password_reminder.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/mobile/ap_password_reminder.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ap_login_form.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/mobile/ap_login_form.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mobile_register_form.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/mobile/mobile_register_form.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="205" column="0" lean-forward="true" selection-start-line="205" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="enviroment.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/enviroment.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;%e_cms_cons:POPUP_CANCEL%&gt;</find>
+      <find>page_comment_black</find>
+      <find>first_name_</find>
+      <find>last_name_</find>
+      <find>birth_date_d</find>
+      <find>active-main-wrap</find>
+      <find>button button-click click-next-window</find>
+      <find>* Будь ласка, перевірте вказані дані</find>
+      <find>стать</find>
+      <find>Далі</find>
+      <find>номер</find>
+      <find>require</find>
+      <find>is_mo</find>
+      <find>parse_error_code</find>
+      <find>parse_error_code('404');</find>
+      <find>alert</find>
+      <find>console.log</find>
+      <find>distr</find>
+      <find>d</find>
+      <find>display_hidden_fields()</find>
+      <find>display_hidden_fields</find>
+      <find>getVa</find>
+      <find>setValueOf</find>
+      <find>show_cap</find>
+      <find>handl</find>
+      <find>fb_form_submit</find>
+      <find>err</find>
+      <find>check_template</find>
+      <find>registration_form</find>
+      <find>phone_number</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;%iif::language,UA,* Будь ласка, перевірте вказані дані,* Пожалуйста проверьте указанные данные%&gt;</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/templates/menu/right_block.tpl" />
+        <option value="$PROJECT_DIR$/_core/ee/action.php" />
+        <option value="$PROJECT_DIR$/_core/ee/js/popup.js" />
+        <option value="$PROJECT_DIR$/_core/ee/modules/menu_function.php" />
+        <option value="$PROJECT_DIR$/templates/mobile/footer.tpl" />
+        <option value="$PROJECT_DIR$/_core/ee/modules/f_db_url_mapping_function.php" />
+        <option value="$PROJECT_DIR$/templates/mobile/ap_mobile_register_form.tpl" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/templates/head.tpl" />
+        <option value="$PROJECT_DIR$/templates/mobile/header.tpl" />
+        <option value="$PROJECT_DIR$/css/mobile.css" />
+        <option value="$PROJECT_DIR$/templates/mobile/head.tpl" />
+        <option value="$PROJECT_DIR$/templates/mobile_register_form.tpl" />
+        <option value="$PROJECT_DIR$/css/mob_reg.css" />
+        <option value="$PROJECT_DIR$/_core/ee/lib.php" />
+        <option value="$PROJECT_DIR$/templates/mobile/ap_respondent_register_form.tpl" />
+        <option value="$PROJECT_DIR$/templates/mobile/error_404.tpl" />
+        <option value="$PROJECT_DIR$/js/respondent.js" />
+        <option value="$PROJECT_DIR$/js/captcha.js" />
+        <option value="$PROJECT_DIR$/modules/ap_process_function.php" />
+        <option value="$PROJECT_DIR$/js/lang.js" />
+        <option value="$PROJECT_DIR$/templates/mobile/mobile_register_form.tpl" />
+        <option value="$PROJECT_DIR$/js/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1985" />
+    <option name="y" value="24" />
+    <option name="width" value="1615" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tnsTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tnsTest" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tnsTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tnsTest" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tnsTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tnsTest" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobile" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tnsTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tnsTest" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tnsTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tnsTest" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_core" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ee" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa4838c7-1025-42bf-8727-cb19972ebd71" name="Default" comment="" />
+      <created>1490608227805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1490608227805</updated>
+      <workItem from="1490608229011" duration="194000" />
+      <workItem from="1490608450097" duration="15406000" />
+      <workItem from="1490686504157" duration="13674000" />
+      <workItem from="1490771962797" duration="23000" />
+      <workItem from="1490778583641" duration="7312000" />
+      <workItem from="1490858446354" duration="12065000" />
+      <workItem from="1490871444825" duration="13617000" />
+      <workItem from="1490944693863" duration="17426000" />
+      <workItem from="1491290076899" duration="2309000" />
+      <workItem from="1491376534446" duration="16000" />
+      <workItem from="1491827234267" duration="10906000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="92948000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1985" y="24" width="1615" height="1026" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2489164" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2495356" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_core/ee/define_constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/int_news_detail_row.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/ap_plugin_form2.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="33" column="13" lean-forward="false" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/page_error_div.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/internal_div.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lang/lang_ru.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lang/lang_ua.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_core/ee/modules/err_page_function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1907">
+          <caret line="190" column="9" lean-forward="false" selection-start-line="190" selection-start-column="9" selection-end-line="190" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/mobile/error_404.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/mobile/ap_respondent_register_form.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/error_404.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="11" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/captcha_img.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/captcha_row.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="123" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ap_respondent_register_form.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1458">
+          <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/ap_respondent_fields_.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/mobile/head.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4734">
+          <caret line="263" column="45" lean-forward="false" selection-start-line="263" selection-start-column="45" selection-end-line="263" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/mobile/header.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="46" column="22" lean-forward="false" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/password_fields.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/ap_ajax_selectors.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/ap_respondent_fields.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1962">
+          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_core/ee/modules/_base_function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="521" column="9" lean-forward="false" selection-start-line="521" selection-start-column="9" selection-end-line="521" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_core/ee/modules/template_function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="223" column="28" lean-forward="false" selection-start-line="223" selection-start-column="28" selection-end-line="223" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AccessPanel/Securimage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2556">
+          <caret line="142" column="24" lean-forward="false" selection-start-line="142" selection-start-column="16" selection-end-line="142" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_core/ee/modules/securimage_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="462" column="29" lean-forward="false" selection-start-line="462" selection-start-column="22" selection-end-line="462" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/captcha.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/internal.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="671" column="9" lean-forward="false" selection-start-line="671" selection-start-column="9" selection-end-line="671" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_core/ee/modules/db_mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="448" column="32" lean-forward="true" selection-start-line="448" selection-start-column="32" selection-end-line="448" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_core/ee/modules/sql_function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="75" column="29" lean-forward="true" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_core/ee/modules/object_function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="622" column="0" lean-forward="true" selection-start-line="622" selection-start-column="0" selection-end-line="622" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="202" column="20" lean-forward="false" selection-start-line="202" selection-start-column="20" selection-end-line="202" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_core/ee/lib/ee_form/formbuilder_function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="29" column="32" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/header_internal_1.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/header.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1017">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ap_header_login_form.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-439">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/head.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="734">
+          <caret line="298" column="6" lean-forward="false" selection-start-line="298" selection-start-column="6" selection-end-line="298" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/mobile_register_form.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/page_error.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/ap_respondent_register_form.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_core/ee/lib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="1000" column="8" lean-forward="false" selection-start-line="1000" selection-start-column="8" selection-end-line="1000" selection-end-column="8" />
+          <folding>
+            <marker date="1490875643937" expanded="true" signature="5191:5253" ph="select var, config" />
+            <marker date="1490875643937" expanded="true" signature="5838:6206" ph="SELECT langu... v_language" />
+            <marker date="1490875643937" expanded="true" signature="6271:6338" ph="SELECT langu... v_language" />
+            <marker date="1490875643937" expanded="true" signature="6828:6898" ph="SELECT langu... v_language" />
+            <marker date="1490875643937" expanded="true" signature="10956:11029" ph="SELECT langu... language" />
+            <marker date="1490875643937" expanded="true" signature="12534:12604" ph="SELECT id FR... tpl_pages" />
+            <marker date="1490875643937" expanded="true" signature="12907:12966" ph="SELECT langu... v_language" />
+            <marker date="1490875643937" expanded="true" signature="14241:14364" ph="SELECT * FRO... permanent_redirect" />
+            <marker date="1490875643937" expanded="true" signature="14567:14706" ph="SELECT * FRO... permanent_redirect_object" />
+            <marker date="1490875643937" expanded="true" signature="15289:15364" ph="SELECT id FR... tpl_views" />
+            <marker date="1490875643937" expanded="true" signature="15801:15842" ph="SELECT file_... tpl_files" />
+            <marker date="1490875643937" expanded="true" signature="16154:16209" ph="select count... content" />
+            <marker date="1490875643937" expanded="true" signature="20334:20428" ph="SELECT id FR... v_tpl_page" />
+            <marker date="1490875643937" expanded="true" signature="28021:28073" ph="SELECT view_... v_tpl_views" />
+            <marker date="1490875643937" expanded="true" signature="39837:39869" ph="..." />
+            <marker date="1490875643937" expanded="true" signature="41963:42057" ph="select %s fr... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enviroment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ap_init_function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ap_process_function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="747" column="37" lean-forward="false" selection-start-line="747" selection-start-column="9" selection-end-line="747" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/mobile/ap_login_form.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/mobile/ap_password_reminder.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/mobile/ap_respondent_fields.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/respondent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/mobile/mobile_register_form.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="205" column="0" lean-forward="true" selection-start-line="205" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lang.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="153" column="30" lean-forward="false" selection-start-line="153" selection-start-column="30" selection-end-line="153" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

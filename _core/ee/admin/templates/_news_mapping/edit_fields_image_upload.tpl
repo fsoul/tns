@@ -1,0 +1,1 @@
+<input type="file" name="<%:field_name%>" size="<%:size%>">&nbsp;&nbsp;<input type="submit" value="Upload" name="upload" class="button" style="width:82px;">

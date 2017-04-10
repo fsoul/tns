@@ -1,0 +1,121 @@
+
+	date/time: 2015-09-18 15:50:54
+
+$project_code: fngnak7s9a
+
+$respondent_code: m9thtejdhr
+
+$complete_type: 2
+
+$res: 
+
+$page_id: 45
+
+
+	date/time: 2015-09-22 14:15:33
+
+$project_code: fngnak7s9a
+
+$respondent_code: m9thtejdhr
+
+$complete_type: 2
+
+
+	date/time: 2015-09-22 14:16:28
+
+$project_code: fngnak7s9a
+
+$respondent_code: m9thtejdhr
+
+$complete_type: 2
+
+$res: 2
+
+$res 2: Респондент не був зареєстрований на опитуваннi
+
+$page_id: 30
+
+
+	date/time: 2015-09-22 14:16:51
+
+$project_code: fngnak7s9a
+
+$respondent_code: m9thtejdhr
+
+$complete_type: 2
+
+$res: 2
+
+$res 2: Респондент не був зареєстрований на опитуваннi
+
+$page_id: 30
+
+
+	date/time: 2015-09-22 14:17:32
+
+$project_code: fngnak7s9a
+
+$respondent_code: m9thtejdhr
+
+$complete_type: 2
+
+
+	date/time: 2015-09-22 15:34:10
+
+$project_code: fngnak7s9a
+
+$respondent_code: m9thtejdhr
+
+$complete_type: 2
+
+$res: 2
+
+$res 2: Респондент не був зареєстрований на опитуваннi
+
+$page_id: 30
+
+
+	date/time: 2015-09-22 15:34:39
+
+$project_code: fngnak7s9a
+
+$respondent_code: m9thtejdhr
+
+$complete_type: 2
+
+$res: 2
+
+$res 2: Респондент не був зареєстрований на опитуваннi
+
+$page_id: 30
+
+
+	date/time: 2015-09-22 15:37:47
+
+$project_code: fngnak7s9a
+
+$respondent_code: m9thtejdhr
+
+$complete_type: 2
+
+$res: 2
+
+$res 2: Респондент не був зареєстрований на опитуваннi
+
+$page_id: 30
+
+
+	date/time: 2015-09-24 16:52:22
+
+$project_code: 7kl2bsc3cf
+
+$respondent_code: m9thtejdhr
+
+$complete_type: 2
+
+$res: 0
+
+$res 2: Опитування успiшно завершено
+
+$page_id: 30
+

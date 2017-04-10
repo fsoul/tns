@@ -1,0 +1,4724 @@
+
+	Date/Time: 2014-09-22 21:07:07
+
+Array
+(
+    [ap_respondent_id_] => 561
+    [cookie_] => AB84872800E9456F81CD4DED9AAAB6B9
+    [ip_] => 89.182.93.21
+    [answer_id_] => 0
+)
+
+
+Array
+(
+    [code] => 2291
+    [message] => ORA-02291: integrity constraint (B36_DIRECTOR.FK_CP__DIC_INET_DEVICE) violated - parent key not found
+ORA-06512: at "B36_DIRECTOR.CONTACT_PACKAGE", line 22
+ORA-06512: at "B36_DIRECTOR.PLUGIN_PACKAGE", line 51
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 861
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.add_respondent_mini_sur_answer(:ap_respondent_id_, :cookie_, :ip_, :answer_id_); commit; end;
+)
+
+
+code: 2291
+
+print_oci_error_array
+
+
+	Date/Time: 2014-09-23 10:28:35
+
+Array
+(
+    [ap_respondent_id_] => 561
+    [cookie_] => 09EFAC1BA8F1436D87191CF067D923FE
+    [ip_] => 109.68.41.128
+    [answer_id_] => 0
+)
+
+
+Array
+(
+    [code] => 2291
+    [message] => ORA-02291: integrity constraint (B36_DIRECTOR.FK_CP__DIC_INET_DEVICE) violated - parent key not found
+ORA-06512: at "B36_DIRECTOR.CONTACT_PACKAGE", line 22
+ORA-06512: at "B36_DIRECTOR.PLUGIN_PACKAGE", line 51
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 861
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.add_respondent_mini_sur_answer(:ap_respondent_id_, :cookie_, :ip_, :answer_id_); commit; end;
+)
+
+
+code: 2291
+
+print_oci_error_array
+
+
+	Date/Time: 2014-10-03 17:11:29
+
+Array
+(
+    [ap_respondent_id_] => 721
+    [cookie_] => C986EE79436A4EAC85AC9934BECBBC5C
+    [ip_] => 10.6.1.10
+    [answer_id_] => 0
+)
+
+
+Array
+(
+    [code] => 2291
+    [message] => ORA-02291: integrity constraint (B36_DIRECTOR.FK_CP__DIC_INET_DEVICE) violated - parent key not found
+ORA-06512: at "B36_DIRECTOR.CONTACT_PACKAGE", line 22
+ORA-06512: at "B36_DIRECTOR.PLUGIN_PACKAGE", line 51
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 861
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.add_respondent_mini_sur_answer(:ap_respondent_id_, :cookie_, :ip_, :answer_id_); commit; end;
+)
+
+
+code: 2291
+
+print_oci_error_array
+
+
+	Date/Time: 2014-10-03 17:11:57
+
+Array
+(
+    [ap_respondent_id_] => 721
+    [cookie_] => C986EE79436A4EAC85AC9934BECBBC5C
+    [ip_] => 10.6.1.10
+    [answer_id_] => 0
+)
+
+
+Array
+(
+    [code] => 2291
+    [message] => ORA-02291: integrity constraint (B36_DIRECTOR.FK_CP__DIC_INET_DEVICE) violated - parent key not found
+ORA-06512: at "B36_DIRECTOR.CONTACT_PACKAGE", line 22
+ORA-06512: at "B36_DIRECTOR.PLUGIN_PACKAGE", line 51
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 861
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.add_respondent_mini_sur_answer(:ap_respondent_id_, :cookie_, :ip_, :answer_id_); commit; end;
+)
+
+
+code: 2291
+
+print_oci_error_array
+
+
+	Date/Time: 2014-10-14 15:09:49
+
+Array
+(
+    [onl_respondent_id_] => 
+    [profile_pool_type_id_] => 1
+    [url_id_] => 1
+    [dic_ap_question_id_] => 1
+    [cookie_] => AB84872800E9456F81CD4DED9AAAB6B9
+    [profile_answer_code_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 1016
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.init_profile_answer(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_id_, :cookie_, :profile_answer_code_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2014-10-14 15:09:49
+
+Array
+(
+    [profile_answer_code_] => 
+    [dic_answers_id_] => 4743
+)
+
+
+Array
+(
+    [code] => 1400
+    [message] => ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_POLL_ANSWER_TMP"."PROFILE_ANSWER_CODE")
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 1039
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.add_profile_answer(:profile_answer_code_, :dic_answers_id_); commit; end;
+)
+
+
+code: 1400
+
+print_oci_error_array
+
+
+	Date/Time: 2014-10-14 15:10:28
+
+Array
+(
+    [onl_respondent_id_] => 
+    [profile_pool_type_id_] => 1
+    [url_id_] => 1
+    [dic_ap_question_id_] => 2
+    [cookie_] => AB84872800E9456F81CD4DED9AAAB6B9
+    [profile_answer_code_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 1016
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.init_profile_answer(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_id_, :cookie_, :profile_answer_code_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2014-10-14 15:10:28
+
+Array
+(
+    [profile_answer_code_] => 
+    [dic_answers_id_] => 4747
+)
+
+
+Array
+(
+    [code] => 1400
+    [message] => ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_POLL_ANSWER_TMP"."PROFILE_ANSWER_CODE")
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 1039
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.add_profile_answer(:profile_answer_code_, :dic_answers_id_); commit; end;
+)
+
+
+code: 1400
+
+print_oci_error_array
+
+
+	Date/Time: 2014-10-14 15:10:33
+
+Array
+(
+    [onl_respondent_id_] => 
+    [profile_pool_type_id_] => 1
+    [url_id_] => 1
+    [dic_ap_question_id_] => 3
+    [cookie_] => AB84872800E9456F81CD4DED9AAAB6B9
+    [profile_answer_code_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 1016
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.init_profile_answer(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_id_, :cookie_, :profile_answer_code_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2014-10-14 15:10:33
+
+Array
+(
+    [profile_answer_code_] => 
+    [dic_answers_id_] => 4753
+)
+
+
+Array
+(
+    [code] => 1400
+    [message] => ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_POLL_ANSWER_TMP"."PROFILE_ANSWER_CODE")
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 1039
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.add_profile_answer(:profile_answer_code_, :dic_answers_id_); commit; end;
+)
+
+
+code: 1400
+
+print_oci_error_array
+
+
+	Date/Time: 2014-10-14 15:15:30
+
+Array
+(
+    [onl_respondent_id_] => 
+    [profile_pool_type_id_] => 1
+    [url_id_] => 1
+    [dic_ap_question_id_] => 4
+    [cookie_] => AB84872800E9456F81CD4DED9AAAB6B9
+    [profile_answer_code_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 1016
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.init_profile_answer(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_id_, :cookie_, :profile_answer_code_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2014-10-14 15:15:30
+
+Array
+(
+    [profile_answer_code_] => 
+    [dic_answers_id_] => 4764
+)
+
+
+Array
+(
+    [code] => 1400
+    [message] => ORA-01400: cannot insert NULL into ("B36_DIRECTOR"."AP_POLL_ANSWER_TMP"."PROFILE_ANSWER_CODE")
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 1039
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.add_profile_answer(:profile_answer_code_, :dic_answers_id_); commit; end;
+)
+
+
+code: 1400
+
+print_oci_error_array
+
+
+	Date/Time: 2014-11-02 21:46:04
+
+Array
+(
+    [ap_respondent_id_] => 761
+    [cookie_] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [ip_] => 89.182.86.76
+    [answer_id_] => 0
+)
+
+
+Array
+(
+    [code] => 2291
+    [message] => ORA-02291: integrity constraint (B36_DIRECTOR.FK_CP__DIC_INET_DEVICE) violated - parent key not found
+ORA-06512: at "B36_DIRECTOR.CONTACT_PACKAGE", line 22
+ORA-06512: at "B36_DIRECTOR.PLUGIN_PACKAGE", line 51
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 866
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.add_respondent_mini_sur_answer(:ap_respondent_id_, :cookie_, :ip_, :answer_id_); commit; end;
+)
+
+
+code: 2291
+
+print_oci_error_array
+
+
+	Date/Time: 2014-11-07 16:04:22
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => Горелова
+    [first_name_] => Ирина
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503514214
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [reffer_email] => gorelova@macc.com.ua
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 62
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :reffer_email, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2014-11-07 16:24:02
+
+Array
+(
+    [email_] => ogurchik
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 963
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2014-11-07 16:41:14
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => i
+    [first_name_] => i
+    [sex_] => 1
+    [birth_date_] => 1.1.1990
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501111111
+    [email_] => i@i.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [reffer_email] => gorelova@macc.com.ua
+    [reg_ip_] => 77.120.195.131
+    [reg_cookie_] => D82950B6B33F4949B90C6A33E83421DE
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+Array
+(
+    [code] => 20001
+    [message] => ORA-20001: referer_email_
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 62
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :reffer_email, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+)
+
+
+code: 20001
+
+$this->_error_message:  referer_email_
+
+
+	Date/Time: 2014-11-07 16:41:44
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => i
+    [first_name_] => i
+    [sex_] => 1
+    [birth_date_] => 1.1.1990
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501111111
+    [email_] => i@i.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [reffer_email] => gorelova@macc.com.ua
+    [reg_ip_] => 77.120.195.131
+    [reg_cookie_] => D82950B6B33F4949B90C6A33E83421DE
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+Array
+(
+    [code] => 20001
+    [message] => ORA-20001: 
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 62
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :reffer_email, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+)
+
+
+code: 20001
+
+$this->_error_message:  
+
+
+	Date/Time: 2014-11-13 14:46:51
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => i
+    [first_name_] => i
+    [sex_] => 1
+    [birth_date_] => 1.1.1995
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503518982
+    [email_] => i@i.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 77.120.195.131
+    [reg_cookie_] => D82950B6B33F4949B90C6A33E83421DE
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+Array
+(
+    [code] => 20001
+    [message] => ORA-20001: referer_email_=
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 67
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+)
+
+
+code: 20001
+
+$this->_error_message:  referer_email_=
+
+
+	Date/Time: 2014-11-13 14:48:53
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => i
+    [first_name_] => i
+    [sex_] => 1
+    [birth_date_] => 1.1.1995
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503518982
+    [email_] => i@i.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => gorelova@macc.com.ua
+    [reg_ip_] => 77.120.195.131
+    [reg_cookie_] => D82950B6B33F4949B90C6A33E83421DE
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+Array
+(
+    [code] => 20001
+    [message] => ORA-20001: referer_email_=gorelova@macc.com.ua
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 66
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+)
+
+
+code: 20001
+
+$this->_error_message:  referer_email_=gorelova@macc.com.ua
+
+
+	Date/Time: 2014-11-16 22:27:35
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => qwertyq
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 4.5.1984
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid2@testtest.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 89.182.108.162
+    [reg_cookie_] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+Array
+(
+    [code] => 20001
+    [message] => ORA-20001: The phone number is already in use.
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 63
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+)
+
+
+code: 20001
+
+$this->_error_message:  The phone number is already in use.
+
+
+	Date/Time: 2014-11-17 11:45:13
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 6.6.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid2@testtest.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 192.53.103.10
+    [reg_cookie_] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+Array
+(
+    [code] => 20001
+    [message] => ORA-20001: The phone number is already in use.
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 63
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+)
+
+
+code: 20001
+
+$this->_error_message:  The phone number is already in use.
+
+
+	Date/Time: 2014-11-17 11:47:07
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 6.6.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid2@testtest.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 192.53.103.10
+    [reg_cookie_] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+Array
+(
+    [code] => 20001
+    [message] => ORA-20001: The phone number is already in use.
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 63
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+)
+
+
+code: 20001
+
+$this->_error_message:  The phone number is already in use.
+
+
+	Date/Time: 2014-11-17 11:50:08
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 6.6.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid2@testtest.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 192.53.103.10
+    [reg_cookie_] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+Array
+(
+    [code] => 20001
+    [message] => ORA-20001: The phone number is already in use.
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 63
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+)
+
+
+code: 20001
+
+$this->_error_message:  The phone number is already in use.
+
+
+	Date/Time: 2014-11-17 11:51:35
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 6.6.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid2@testtest.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 192.53.103.10
+    [reg_cookie_] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+Array
+(
+    [code] => 20001
+    [message] => ORA-20001: The phone number is already in use.
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 63
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+)
+
+
+code: 20001
+
+$this->_error_message:  The phone number is already in use.
+
+
+	Date/Time: 2014-11-17 11:53:09
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => qwe
+    [first_name_] => qwe
+    [sex_] => 1
+    [birth_date_] => 6.6.1985
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0501231212
+    [email_] => yurabid2@testtest.com
+    [district_id_] => 3
+    [region_] => 61
+    [city_] => 157
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 192.53.103.10
+    [reg_cookie_] => B4984270B674479BA1C3DC1BC1BE3A0D
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+Array
+(
+    [code] => 20001
+    [message] => ORA-20001: The phone number is already in use.
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 63
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+)
+
+
+code: 20001
+
+$this->_error_message:  The phone number is already in use.
+
+
+	Date/Time: 2015-01-19 15:07:55
+
+Array
+(
+    [ap_respondent_id_] => 1041
+    [cookie_] => B0533017B0094BAEA4C7817DF002444E
+    [ip_] => 194.247.174.125
+    [answer_id_] => 0
+)
+
+
+Array
+(
+    [code] => 2291
+    [message] => ORA-02291: integrity constraint (B36_DIRECTOR.FK_CP__DIC_INET_DEVICE) violated - parent key not found
+ORA-06512: at "B36_DIRECTOR.CONTACT_PACKAGE", line 22
+ORA-06512: at "B36_DIRECTOR.PLUGIN_PACKAGE", line 51
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 879
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.add_respondent_mini_sur_answer(:ap_respondent_id_, :cookie_, :ip_, :answer_id_); commit; end;
+)
+
+
+code: 2291
+
+print_oci_error_array
+
+
+	Date/Time: 2015-03-07 23:13:17
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-03-07 23:13:17
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-03-07 23:13:21
+
+Array
+(
+    [ap_respondent_id_] => 1021
+    [cookie_] => 5CDD8EC1E7324B0089A1859EF90B4F22
+    [plugin_id_] => 
+    [result_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_respondent_survey(:ap_respondent_id_, :cookie_, :plugin_id_, :result_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-03-07 23:13:38
+
+Array
+(
+    [respondent_id_] => 1021
+    [last_name_] => 
+    [first_name_] => 
+    [sex_] => 
+    [birth_date_] => 
+    [city_phone_number_] => 
+    [cell_phone_number_] => 
+    [email_] => 
+    [district_id_] => 
+    [region_] => 
+    [city_] => 
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [parent_respondent_id_] => 
+    [parent_respondent_email_] => 
+    [cumulative_card_num_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_respondent_info_by_id(:respondent_id_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :parent_respondent_id_, :parent_respondent_email_, :cumulative_card_num_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-03-07 23:14:04
+
+Array
+(
+    [respondent_id_] => 1021
+    [last_name_] => 
+    [first_name_] => 
+    [sex_] => 
+    [birth_date_] => 
+    [city_phone_number_] => 
+    [cell_phone_number_] => 
+    [email_] => 
+    [district_id_] => 
+    [region_] => 
+    [city_] => 
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [parent_respondent_id_] => 
+    [parent_respondent_email_] => 
+    [cumulative_card_num_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_respondent_info_by_id(:respondent_id_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :parent_respondent_id_, :parent_respondent_email_, :cumulative_card_num_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-03-07 23:14:06
+
+Array
+(
+    [respondent_id_] => 1021
+    [last_name_] => 
+    [first_name_] => 
+    [sex_] => 
+    [birth_date_] => 
+    [city_phone_number_] => 
+    [cell_phone_number_] => 
+    [email_] => 
+    [district_id_] => 
+    [region_] => 
+    [city_] => 
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [parent_respondent_id_] => 
+    [parent_respondent_email_] => 
+    [cumulative_card_num_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_respondent_info_by_id(:respondent_id_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :parent_respondent_id_, :parent_respondent_email_, :cumulative_card_num_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-03-07 23:23:29
+
+Array
+(
+    [respondent_id_] => 1021
+    [last_name_] => 
+    [first_name_] => 
+    [sex_] => 
+    [birth_date_] => 
+    [city_phone_number_] => 
+    [cell_phone_number_] => 
+    [email_] => 
+    [district_id_] => 
+    [region_] => 
+    [city_] => 
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [parent_respondent_id_] => 
+    [parent_respondent_email_] => 
+    [cumulative_card_num_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_respondent_info_by_id(:respondent_id_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :parent_respondent_id_, :parent_respondent_email_, :cumulative_card_num_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-03-07 23:24:37
+
+Array
+(
+    [respondent_id_] => 1021
+    [last_name_] => 
+    [first_name_] => 
+    [sex_] => 
+    [birth_date_] => 
+    [city_phone_number_] => 
+    [cell_phone_number_] => 
+    [email_] => 
+    [district_id_] => 
+    [region_] => 
+    [city_] => 
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [parent_respondent_id_] => 
+    [parent_respondent_email_] => 
+    [cumulative_card_num_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_respondent_info_by_id(:respondent_id_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :parent_respondent_id_, :parent_respondent_email_, :cumulative_card_num_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-03-11 17:47:36
+
+Array
+(
+    [ap_respondent_id_] => 1141
+    [cookie_] => 6C82FE92E9164281910449C4585194EC
+    [ip_] => 194.247.174.125
+    [answer_id_] => 0
+)
+
+
+Array
+(
+    [code] => 2291
+    [message] => ORA-02291: integrity constraint (B36_DIRECTOR.FK_CP__DIC_INET_DEVICE) violated - parent key not found
+ORA-06512: at "B36_DIRECTOR.CONTACT_PACKAGE", line 22
+ORA-06512: at "B36_DIRECTOR.PLUGIN_PACKAGE", line 52
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 882
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.add_respondent_mini_sur_answer(:ap_respondent_id_, :cookie_, :ip_, :answer_id_); commit; end;
+)
+
+
+code: 2291
+
+print_oci_error_array
+
+
+	Date/Time: 2015-03-11 17:49:45
+
+Array
+(
+    [email_] => 
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-03-11 17:53:55
+
+Array
+(
+    [ap_respondent_id_] => 1141
+    [cookie_] => A00E4EC583A34D398D4606F13F009BBE
+    [ip_] => 89.252.56.204
+    [answer_id_] => 0
+)
+
+
+Array
+(
+    [code] => 2291
+    [message] => ORA-02291: integrity constraint (B36_DIRECTOR.FK_CP__DIC_INET_DEVICE) violated - parent key not found
+ORA-06512: at "B36_DIRECTOR.CONTACT_PACKAGE", line 22
+ORA-06512: at "B36_DIRECTOR.PLUGIN_PACKAGE", line 52
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 882
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.add_respondent_mini_sur_answer(:ap_respondent_id_, :cookie_, :ip_, :answer_id_); commit; end;
+)
+
+
+code: 2291
+
+print_oci_error_array
+
+
+	Date/Time: 2015-03-11 17:54:46
+
+Array
+(
+    [ap_respondent_id_] => 1141
+    [cookie_] => A00E4EC583A34D398D4606F13F009BBE
+    [ip_] => 89.252.56.204
+    [answer_id_] => 0
+)
+
+
+Array
+(
+    [code] => 2291
+    [message] => ORA-02291: integrity constraint (B36_DIRECTOR.FK_CP__DIC_INET_DEVICE) violated - parent key not found
+ORA-06512: at "B36_DIRECTOR.CONTACT_PACKAGE", line 22
+ORA-06512: at "B36_DIRECTOR.PLUGIN_PACKAGE", line 52
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 882
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.add_respondent_mini_sur_answer(:ap_respondent_id_, :cookie_, :ip_, :answer_id_); commit; end;
+)
+
+
+code: 2291
+
+print_oci_error_array
+
+
+	Date/Time: 2015-03-12 00:12:34
+
+Array
+(
+    [ap_respondent_id_] => 1141
+    [cookie_] => 5CDD8EC1E7324B0089A1859EF90B4F22
+    [ip_] => 89.182.70.3
+    [answer_id_] => 0
+)
+
+
+Array
+(
+    [code] => 2291
+    [message] => ORA-02291: integrity constraint (B36_DIRECTOR.FK_CP__DIC_INET_DEVICE) violated - parent key not found
+ORA-06512: at "B36_DIRECTOR.CONTACT_PACKAGE", line 22
+ORA-06512: at "B36_DIRECTOR.PLUGIN_PACKAGE", line 52
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 882
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.add_respondent_mini_sur_answer(:ap_respondent_id_, :cookie_, :ip_, :answer_id_); commit; end;
+)
+
+
+code: 2291
+
+print_oci_error_array
+
+
+	Date/Time: 2015-03-16 11:03:21
+
+Array
+(
+    [email_] => g
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-03-16 11:03:29
+
+Array
+(
+    [email_] => gor
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-03-19 15:30:26
+
+Array
+(
+    [email_] => syt@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-03-19 15:30:27
+
+Array
+(
+    [email_] => syt@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-03-19 15:30:30
+
+Array
+(
+    [email_] => syt@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-03-19 15:30:32
+
+Array
+(
+    [email_] => syt@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-03-19 15:30:34
+
+Array
+(
+    [email_] => syt@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-03-19 15:30:34
+
+Array
+(
+    [email_] => syt@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-03-19 15:33:06
+
+Array
+(
+    [email_] => testoprosuser
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-03-20 12:30:28
+
+Array
+(
+    [email_] => gorelo
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-04-16 16:15:56
+
+Array
+(
+    [email_] => asd
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-04-20 17:37:54
+
+Array
+(
+    [email_] => ogurchik@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-05-22 14:45:01
+
+Array
+(
+    [onl_respondent_id_] => 
+    [profile_pool_type_id_] => 1
+    [url_id_] => 4jd2zkcyqt
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 1239
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.close_form_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-08 15:02:21
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-08 15:02:21
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-08 15:20:55
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-08 16:03:47
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-08 16:45:52
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-08 16:47:56
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-09 10:05:01
+
+Array
+(
+    [ap_respondent_id_] => 1141
+    [cookie_] => 6FB4C1D0EB2043708A48AC4337A6C0C7
+    [ip_] => 195.245.221.2
+    [answer_id_] => 1
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.add_respondent_mini_sur_answer(:ap_respondent_id_, :cookie_, :ip_, :answer_id_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-09 17:25:27
+
+Array
+(
+    [email_] => jnis@ukr.net
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-09 17:25:27
+
+Array
+(
+    [email_] => jnis@ukr.net
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-09 17:25:31
+
+Array
+(
+    [email_] => jnis@ukr.net
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-09 17:25:40
+
+Array
+(
+    [email_] => jnis@ukr.net
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-09 17:25:40
+
+Array
+(
+    [email_] => jnis@ukr.net
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-09 17:25:47
+
+Array
+(
+    [email_] => jnis@ukr.net
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-09 17:26:00
+
+Array
+(
+    [email_] => jnis@ukr.net
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-12 16:39:14
+
+Array
+(
+    [email_] => 
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-15 12:00:22
+
+Array
+(
+    [email_] => 
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-15 12:27:06
+
+Array
+(
+    [email_] => g
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-15 12:27:06
+
+Array
+(
+    [email_] => g
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-15 12:27:38
+
+Array
+(
+    [email_] => g
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-15 12:27:57
+
+Array
+(
+    [email_] => g
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-15 12:30:02
+
+Array
+(
+    [email_] => 
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-15 17:02:41
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-15 17:02:41
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-15 17:16:08
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-15 17:16:09
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-15 17:16:26
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-15 17:16:27
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-15 17:22:12
+
+Array
+(
+    [respondent_id_] => 1141
+    [last_name_] => 
+    [first_name_] => 
+    [sex_] => 
+    [birth_date_] => 
+    [city_phone_number_] => 
+    [cell_phone_number_] => 
+    [email_] => 
+    [district_id_] => 
+    [region_] => 
+    [city_] => 
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [parent_respondent_id_] => 
+    [parent_respondent_email_] => 
+    [cumulative_card_num_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_respondent_info_by_id(:respondent_id_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :parent_respondent_id_, :parent_respondent_email_, :cumulative_card_num_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-15 17:27:43
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-15 17:27:55
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-15 17:31:18
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-15 17:37:42
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-15 17:38:08
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-16 15:56:38
+
+Array
+(
+    [email_] => 
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-16 16:12:51
+
+Array
+(
+    [email_] => 
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-16 17:08:17
+
+Array
+(
+    [email_] => 
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-16 17:20:31
+
+Array
+(
+    [email_] => gorelova@macc
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-16 17:20:44
+
+Array
+(
+    [email_] => gorelova@macc
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-16 17:21:11
+
+Array
+(
+    [email_] => gorelova@macc
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-16 17:21:14
+
+Array
+(
+    [email_] => gorelova@macc
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-16 17:21:16
+
+Array
+(
+    [email_] => gorelova@macc
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-16 17:25:05
+
+Array
+(
+    [email_] => gorelova@macc
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-16 17:25:18
+
+Array
+(
+    [email_] => gorelova@macc
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-17 12:26:51
+
+Array
+(
+    [email_] => metlushko@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-17 12:26:51
+
+Array
+(
+    [email_] => metlushko@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-17 12:27:39
+
+Array
+(
+    [email_] => metlushko@macc. com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-17 12:27:39
+
+Array
+(
+    [email_] => metlushko@macc. com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-17 12:28:28
+
+Array
+(
+    [email_] => metlushko@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-17 12:28:29
+
+Array
+(
+    [email_] => metlushko@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-18 18:15:51
+
+Array
+(
+    [onl_respondent_id_] => 345
+    [profile_pool_type_id_] => 2
+    [url_id_] => nbp7bvmtqt
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 1239
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.close_form_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-19 19:00:36
+
+Array
+(
+    [email_] => gorelova@,acc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-23 17:35:03
+
+Array
+(
+    [email_] => jnis@ukr.net
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-23 17:35:03
+
+Array
+(
+    [email_] => jnis@ukr.net
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-23 17:35:07
+
+Array
+(
+    [email_] => jnis@ukr.net
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-06-23 17:35:23
+
+Array
+(
+    [email_] => yulia.kelbus@gmail.com
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-07-09 15:38:01
+
+Array
+(
+    [email_] => gorelova.macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-07-09 15:38:02
+
+Array
+(
+    [email_] => gorelova.macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 971
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-07-16 10:41:06
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => &#4315;&#4312;&#4321;&#4304;&#4314;&#4315;&#4308;&#4305;&#4304;
+    [first_name_] => Алексіос
+    [sex_] => 1
+    [birth_date_] => 11.5.1978
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0508602022
+    [email_] => ironwit@gmail.com
+    [district_id_] => 62
+    [region_] => 500
+    [city_] => 29404
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 93.79.97.193
+    [reg_cookie_] => 999BE0D8D1644FEE8CE69500331CDCA7
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 1
+    [dic_know_about_us_other_] => 
+)
+
+
+Array
+(
+    [code] => 20001
+    [message] => ORA-20001: ORA-00001: unique constraint (B36_DIRECTOR.PK_ONL_RESPONDENT) violated
+ORA-06512: at "B36_DIRECTOR.ADM_PACKAGE", line 13
+ORA-06512: at "B36_DIRECTOR.ADM_PACKAGE", line 68
+ORA-06512: at "B36_DIRECTOR.ONL_RESPONDENT_PACKAGE", line 105
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 82
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+)
+
+
+code: 20001
+
+$this->_error_message:  ORA-00001: unique constraint (B36_DIRECTOR.PK_ONL_RESPONDENT) violated
+
+
+	Date/Time: 2015-07-21 15:35:12
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => Горелова
+    [first_name_] => Ирина
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503518985
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 7FF54C47696D48E79D0DC5DC0CFDAAEB
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+Array
+(
+    [code] => 20001
+    [message] => ORA-20001: ORA-00001: unique constraint (B36_DIRECTOR.PK_ONL_RESPONDENT) violated
+ORA-06512: at "B36_DIRECTOR.ADM_PACKAGE", line 13
+ORA-06512: at "B36_DIRECTOR.ADM_PACKAGE", line 68
+ORA-06512: at "B36_DIRECTOR.ONL_RESPONDENT_PACKAGE", line 105
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 82
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+)
+
+
+code: 20001
+
+$this->_error_message:  ORA-00001: unique constraint (B36_DIRECTOR.PK_ONL_RESPONDENT) violated
+
+
+	Date/Time: 2015-07-21 15:38:42
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => Горелова
+    [first_name_] => Ирина
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503518985
+    [email_] => ogurchik@gmail.com
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 194.247.174.125
+    [reg_cookie_] => 7FF54C47696D48E79D0DC5DC0CFDAAEB
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+Array
+(
+    [code] => 20001
+    [message] => ORA-20001: ORA-00001: unique constraint (B36_DIRECTOR.PK_ONL_RESPONDENT) violated
+ORA-06512: at "B36_DIRECTOR.ADM_PACKAGE", line 13
+ORA-06512: at "B36_DIRECTOR.ADM_PACKAGE", line 68
+ORA-06512: at "B36_DIRECTOR.ONL_RESPONDENT_PACKAGE", line 105
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 82
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+)
+
+
+code: 20001
+
+$this->_error_message:  ORA-00001: unique constraint (B36_DIRECTOR.PK_ONL_RESPONDENT) violated
+
+
+	Date/Time: 2015-07-29 12:51:27
+
+Array
+(
+    [onl_respondent_id_] => 111
+    [profile_pool_type_id_] => 1
+    [url_id_] => 4jd2zkcyqt
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 1239
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.close_form_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-07-29 12:53:04
+
+Array
+(
+    [onl_respondent_id_] => 111
+    [profile_pool_type_id_] => 1
+    [url_id_] => 4jd2zkcyqt
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 1239
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.close_form_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-07-29 12:53:22
+
+Array
+(
+    [onl_respondent_id_] => 111
+    [profile_pool_type_id_] => 1
+    [url_id_] => 4jd2zkcyqt
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 1239
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.close_form_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-07-29 12:53:52
+
+Array
+(
+    [onl_respondent_id_] => 111
+    [profile_pool_type_id_] => 1
+    [url_id_] => 4jd2zkcyqt
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 1239
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.close_form_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-07-29 12:54:24
+
+Array
+(
+    [onl_respondent_id_] => 111
+    [profile_pool_type_id_] => 1
+    [url_id_] => 4jd2zkcyqt
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 1239
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.close_form_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-07-29 14:31:07
+
+Array
+(
+    [onl_respondent_id_] => 111
+    [profile_pool_type_id_] => 1
+    [url_id_] => 4jd2zkcyqt
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 1239
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.close_form_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-07-29 14:31:13
+
+Array
+(
+    [onl_respondent_id_] => 111
+    [profile_pool_type_id_] => 1
+    [url_id_] => 4jd2zkcyqt
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 1239
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.close_form_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-07-29 14:45:35
+
+Array
+(
+    [onl_respondent_id_] => 112
+    [profile_pool_type_id_] => 2
+    [url_id_] => 4jd2zkcyqt
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 1239
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.close_form_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-07-29 14:47:24
+
+Array
+(
+    [onl_respondent_id_] => 113
+    [profile_pool_type_id_] => 2
+    [url_id_] => 4jd2zkcyqt
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 1239
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.close_form_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-07-29 15:11:11
+
+Array
+(
+    [onl_respondent_id_] => 115
+    [profile_pool_type_id_] => 2
+    [url_id_] => 4jd2zkcyqt
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 1239
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.close_form_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-08-04 15:36:49
+
+Array
+(
+    [onl_respondent_id_] => 1141
+    [profile_pool_type_id_] => 3
+    [url_id_] => fngnak7s9a
+    [dic_ap_question_order_num_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_last_question_id_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_order_num_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-08-05 20:21:07
+
+Array
+(
+    [onl_respondent_id_] => 1141
+    [profile_pool_type_id_] => 3
+    [url_id_] => fngnak7s9a
+    [dic_ap_question_order_num_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_last_question_id_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_order_num_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-08-05 20:46:54
+
+Array
+(
+    [onl_respondent_id_] => 1140
+    [profile_pool_type_id_] => 3
+    [url_id_] => fngnak7s9a
+    [dic_ap_question_order_num_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_last_question_id_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_order_num_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-08-05 20:47:06
+
+Array
+(
+    [onl_respondent_id_] => 1139
+    [profile_pool_type_id_] => 3
+    [url_id_] => fngnak7s9a
+    [dic_ap_question_order_num_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_last_question_id_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_order_num_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-08-05 20:47:19
+
+Array
+(
+    [onl_respondent_id_] => 1141
+    [profile_pool_type_id_] => 3
+    [url_id_] => fngnak7s9a
+    [dic_ap_question_order_num_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_last_question_id_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_order_num_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-08-05 20:47:36
+
+Array
+(
+    [onl_respondent_id_] => 1140
+    [profile_pool_type_id_] => 3
+    [url_id_] => fngnak7s9a
+    [dic_ap_question_order_num_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_last_question_id_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_order_num_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-08-05 20:48:01
+
+Array
+(
+    [onl_respondent_id_] => 1142
+    [profile_pool_type_id_] => 1
+    [url_id_] => fngnak7s9a
+    [dic_ap_question_order_num_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_last_question_id_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_order_num_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-08-05 20:48:12
+
+Array
+(
+    [onl_respondent_id_] => 1143
+    [profile_pool_type_id_] => 1
+    [url_id_] => fngnak7s9a
+    [dic_ap_question_order_num_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_last_question_id_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_order_num_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-08-05 20:48:31
+
+Array
+(
+    [onl_respondent_id_] => 1144
+    [profile_pool_type_id_] => 1
+    [url_id_] => fngnak7s9a
+    [dic_ap_question_order_num_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_last_question_id_by_url_id(:onl_respondent_id_, :profile_pool_type_id_, :url_id_, :dic_ap_question_order_num_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-08-21 17:46:47
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-08-21 17:46:47
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-08-26 16:08:26
+
+Array
+(
+    [is_complete_] => 0
+    [last_name_] => вап
+    [first_name_] => Вов
+    [sex_] => 1
+    [birth_date_] => 3.3.1987
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0672202222
+    [email_] => diamond2@i.ua
+    [district_id_] => 3
+    [region_] => 237
+    [city_] => 1581
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [referer_email_] => 
+    [reg_ip_] => 89.252.56.204
+    [reg_cookie_] => 39215823AF014D098221C34D3BDD5236
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 2
+    [dic_know_about_us_other_] => 
+)
+
+
+Array
+(
+    [code] => 20001
+    [message] => ORA-20001: The phone number is already in use.
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 233
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 57
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.ins_respondent(:is_complete_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :referer_email_, :reg_ip_, :reg_cookie_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+)
+
+
+code: 20001
+
+$this->_error_message:  The phone number is already in use.
+
+
+	Date/Time: 2015-08-27 12:46:34
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-08-27 12:46:34
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-08-27 13:33:14
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-08-27 17:16:27
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-08-27 17:16:27
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-08-27 17:54:17
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-08-27 17:54:17
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [respondent_id_] => 
+    [last_name_] => 
+    [first_name_] => 
+    [sex_] => 
+    [birth_date_] => 
+    [city_phone_number_] => 
+    [cell_phone_number_] => 
+    [district_id_] => 
+    [region_] => 
+    [city_] => 
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [parent_respondent_id_] => 
+    [parent_respondent_email_] => 
+    [cumulative_card_num_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_respondent_info_by_email(:email_, :respondent_id_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :parent_respondent_id_, :parent_respondent_email_, :cumulative_card_num_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-08-27 18:19:46
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-08-27 18:19:46
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-08-28 11:02:01
+
+Array
+(
+    [email_] => gorelova@macc.com.ua
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-09-01 13:42:48
+
+Array
+(
+    [email_] => 
+    [status_] => 
+)
+
+
+Array
+(
+    [code] => 1403
+    [message] => ORA-01403: no data found
+ORA-06512: at "B36_DIRECTOR.AP_PACKAGE", line 136
+ORA-06512: at "B36_DIRECTOR.ACCESS_PACKAGE", line 852
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_resp_status(:email_, :status_); commit; end;
+)
+
+
+code: 1403
+
+print_oci_error_array
+
+
+	Date/Time: 2015-09-17 12:23:08
+
+Array
+(
+    [respondent_id_] => 1141
+    [last_name_] => 
+    [first_name_] => 
+    [sex_] => 
+    [birth_date_] => 
+    [city_phone_number_] => 
+    [cell_phone_number_] => 
+    [email_] => 
+    [district_id_] => 
+    [region_] => 
+    [city_] => 
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [parent_respondent_id_] => 
+    [parent_respondent_email_] => 
+    [cumulative_card_num_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_respondent_info_by_id(:respondent_id_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :parent_respondent_id_, :parent_respondent_email_, :cumulative_card_num_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-09-17 13:08:28
+
+Array
+(
+    [respondent_id_] => 1141
+    [last_name_] => 
+    [first_name_] => 
+    [sex_] => 
+    [birth_date_] => 
+    [city_phone_number_] => 
+    [cell_phone_number_] => 
+    [email_] => 
+    [district_id_] => 
+    [region_] => 
+    [city_] => 
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [parent_respondent_id_] => 
+    [parent_respondent_email_] => 
+    [cumulative_card_num_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.get_respondent_info_by_id(:respondent_id_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :parent_respondent_id_, :parent_respondent_email_, :cumulative_card_num_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-09-18 12:06:14
+
+Array
+(
+    [url_id_] => xlx0itct6jr9lxnzi18x
+    [complete_type_] => 18
+    [point_] => 
+    [result_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.complete_resp_proj_by_url_id_2(:url_id_, :complete_type_, :point_, :result_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-09-18 16:47:45
+
+Array
+(
+    [url_id_] => fngnak7s9am9thtejdhr
+    [complete_type_] => 18
+    [point_] => 
+    [result_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.complete_resp_proj_by_url_id_2(:url_id_, :complete_type_, :point_, :result_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-09-18 16:53:04
+
+Array
+(
+    [url_id_] => fngnak7s9am9thtejdhr
+    [complete_type_] => 18
+    [point_] => 
+    [result_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.complete_resp_proj_by_url_id_2(:url_id_, :complete_type_, :point_, :result_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-09-18 16:54:19
+
+Array
+(
+    [url_id_] => fngnak7s9am9thtejdhr
+    [complete_type_] => 18
+    [point_] => 
+    [result_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.complete_resp_proj_by_url_id_2(:url_id_, :complete_type_, :point_, :result_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-09-18 17:04:12
+
+Array
+(
+    [url_id_] => fngnak7s9am9thtejdhr
+    [complete_type_] => 18
+    [point_] => 
+    [result_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.complete_resp_proj_by_url_id_2(:url_id_, :complete_type_, :point_, :result_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-09-24 12:11:24
+
+Array
+(
+    [email_] => ogurchik@ukr.net
+    [request_id_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.ins_pass_change_request(:email_, :request_id_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-09-24 13:05:08
+
+Array
+(
+    [email_] => sdf4@macc.com.ua
+    [request_id_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.ins_pass_change_request(:email_, :request_id_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-09-24 13:07:40
+
+Array
+(
+    [onl_respondent_id_] => 130604
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => F3B955DCDCB4448E99BC61C32C0B5977
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-09-24 13:18:03
+
+Array
+(
+    [email_] => ggh@macc.com.ua
+    [request_id_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.ins_pass_change_request(:email_, :request_id_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-09-24 15:41:48
+
+Array
+(
+    [email_] => g332va@macc.com.ua
+    [request_id_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.ins_pass_change_request(:email_, :request_id_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-09-24 16:09:38
+
+Array
+(
+    [email_] => fg3s@macc.com.ua
+    [request_id_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.ins_pass_change_request(:email_, :request_id_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-09-24 16:11:54
+
+Array
+(
+    [email_] => fg8s@macc.com.ua
+    [request_id_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.ins_pass_change_request(:email_, :request_id_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-09-24 16:20:16
+
+Array
+(
+    [email_] => ogurchik@gmail.com
+    [request_id_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.ins_pass_change_request(:email_, :request_id_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-09-24 16:32:54
+
+Array
+(
+    [email_] => ogurchik@gmail.com
+    [request_id_] => 
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.ins_pass_change_request(:email_, :request_id_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+
+
+	Date/Time: 2015-09-24 16:57:07
+
+Array
+(
+    [onl_respondent_id_] => 130642
+    [survey_id_] => 3
+    [complete_type_] => 1
+    [cookie_] => 39215823AF014D098221C34D3BDD5236
+)
+
+
+Array
+(
+    [code] => 4068
+    [message] => ORA-04068: existing state of packages has been discarded
+ORA-04061: existing state of package body "B36_DIRECTOR.ACCESS_PACKAGE" has been invalidated
+ORA-04065: not executed, altered or dropped package body "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06508: PL/SQL: could not find program unit being called: "B36_DIRECTOR.ACCESS_PACKAGE"
+ORA-06512: at line 1
+    [offset] => 0
+    [sqltext] => begin b36_director.access_package.complete_respondent_survey(:onl_respondent_id_, :survey_id_, :complete_type_, :cookie_); commit; end;
+)
+
+
+code: 4068
+
+print_oci_error_array
+

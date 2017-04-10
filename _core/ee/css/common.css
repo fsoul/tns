@@ -1,0 +1,85 @@
+@import url(dynamic_style.css);
+
+body {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000;
+	background: #fff;
+}
+.error {
+	color: #ff0000;
+	text-color: #ff0000;
+}
+.success {
+	color: #00aa00;
+	font-weight:bold;
+}
+.redform
+{
+	border:1px solid #CE0031;
+	background-color:#F7C600;
+}
+#admin_popup_header {
+	background-color:#666;
+	color:#fff;
+	font-size:16px;
+	font-weight:bold;
+	padding:4px;
+}
+#admin_content {
+	position:absolute;
+	top:0px;
+	left:0px;
+	height:100%;
+	overflow:hidden;
+}
+#admin_mask, #admin_mask2 {
+	position:fixed;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:100%;
+	z-index:5;
+	z-index:*200;
+	background-color:#000;
+	opacity:0.25;
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=25);
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(opacity=25)";
+}
+
+#admin_popup, #admin_popup2 {
+	position: fixed;
+	border:1px solid #000;
+	background-color: #fff;
+	z-index:202;
+}
+#admin_mask2 {z-index:203;}
+#admin_popup2 {z-index:204;}
+
+.admin_control_label
+{
+	font-weight:normal;
+	color:#CE0031;
+	padding:0px 2px 0px 2px;
+	background-color:#F7C600;
+	border:1px solid #CE0031;
+}
+
+#dhtmltooltip2 {
+position: absolute;
+border: 1px solid black;
+padding: 2px;
+background-color: lightyellow;
+visibility: hidden;
+z-index: 100;
+font: 10px Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+}
+#dhtmltooltip2 A, #dhtmltooltip2 TABLE TD {
+font: 10px Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+.fb_error_field {
+	display: none;
+}

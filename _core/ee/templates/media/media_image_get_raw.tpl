@@ -1,0 +1,1 @@
+<%media_get2:images%><%paste_file:<%:media_file%>%>

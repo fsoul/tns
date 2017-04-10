@@ -1,0 +1,6 @@
+<span style="vertical-align:10px;">
+<a href="<%:modul%>.php?op=publish_all" onclick="return confirm('Are you sure want to publish all draft content?')" title="Publish all pages content"><img src="<%:EE_HTTP%>img/publish_all_24.gif" height="24" width="24" border="0" style="margin:-5px 5px;" alt="Publish all pages content"/>Publish all</a>&nbsp;
+<a href="<%:modul%>.php?op=publish_common" onclick="return confirm('Are you sure want to publish draft content common for all pages?')" title="Publish common content"><img src="<%:EE_HTTP%>img/publish_common_24.gif" height="24" width="24" border="0" style="margin:-5px 5px;" alt="Publish common content"/>Publish common</a>&nbsp;
+<a href="<%:modul%>.php?op=revert_all" onclick="return confirm('Are you sure want to revert back and loose all draft content?')" title="Revert back all pages content"><img src="<%:EE_HTTP%>img/revert_all_24.gif" height="24" width="24" border="0" style="margin:-5px 5px;" alt="Revert back all pages content"/>Revert back all</a>&nbsp;
+<a href="<%:modul%>.php?op=revert_common" onclick="return confirm('Are you sure want to revert back and loose draft content common for all pages?')" title="Revert back common content"><img src="<%:EE_HTTP%>img/revert_common_24.gif" height="24" width="24" border="0" style="margin:-5px 5px;" alt="Revert back common content"/>Revert back common</a>&nbsp;
+</span>

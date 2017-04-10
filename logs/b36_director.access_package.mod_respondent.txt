@@ -1,0 +1,152 @@
+
+	Date/Time: 2015-06-08 11:24:19
+
+Array
+(
+    [respondent_id_] => 1141
+    [last_name_] => Gorelova &#4321;&#4307;&#4306;&#4321;&#4307;&#4324;&#4306;
+    [first_name_] => Irina &#4321;&#4307;&#4324;&#4306;&#4321;&#4307;&#4324;&#4306;
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [birth_date_d] => 26
+    [birth_date_m] => 12
+    [birth_date_y] => 1982
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0503518989
+    [email_] => gorelova@macc.com.ua
+    [respondent_fields_captcha_code] => NC6DK8
+    [pass_] => 123123
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.mod_respondent(:is_complete_, :respondent_id_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [respondent_id_] => 1141
+    [last_name_] => Gorelova &#4321;&#4307;&#4306;&#4321;&#4307;&#4324;&#4306;
+    [first_name_] => Irina &#4321;&#4307;&#4324;&#4306;&#4321;&#4307;&#4324;&#4306;
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503518989
+    [email_] => gorelova@macc.com.ua
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #419
+
+Array
+(
+    [is_complete_] => 1
+    [respondent_id_] => 1141
+    [last_name_] => Gorelova &#4321;&#4307;&#4306;&#4321;&#4307;&#4324;&#4306;
+    [first_name_] => Irina &#4321;&#4307;&#4324;&#4306;&#4321;&#4307;&#4324;&#4306;
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503518989
+    [email_] => gorelova@macc.com.ua
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 
+    [dic_know_about_us_other_] => 
+)
+
+
+
+	Date/Time: 2015-06-08 11:26:29
+
+Array
+(
+    [respondent_id_] => 1141
+    [last_name_] => &#4304;&#4304;Gorelova&#4304;&#4321;
+    [first_name_] => &#4304;&#4304;&#4304;Irina
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [birth_date_d] => 26
+    [birth_date_m] => 12
+    [birth_date_y] => 1982
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [cell_phone_number_] => 0503518989
+    [email_] => gorelova@macc.com.ua
+    [respondent_fields_captcha_code] => 8HFZ74
+    [pass_] => 123123
+    [reffer_email_] => 
+)
+
+
+begin b36_director.access_package.mod_respondent(:is_complete_, :respondent_id_, :last_name_, :first_name_, :sex_, :birth_date_, :city_phone_number_, :cell_phone_number_, :email_, :district_id_, :region_, :city_, :settlement_, :street_, :house_, :flat_, :cumulative_card_num_, :dic_know_about_us_id_, :dic_know_about_us_other_); commit; end;
+
+Array
+(
+    [is_complete_] => 0
+    [respondent_id_] => 1141
+    [last_name_] => &#4304;&#4304;Gorelova&#4304;&#4321;
+    [first_name_] => &#4304;&#4304;&#4304;Irina
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503518989
+    [email_] => gorelova@macc.com.ua
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 
+    [dic_know_about_us_other_] => 
+)
+
+
+Resource id #419
+
+Array
+(
+    [is_complete_] => 1
+    [respondent_id_] => 1141
+    [last_name_] => &#4304;&#4304;Gorelova&#4304;&#4321;
+    [first_name_] => &#4304;&#4304;&#4304;Irina
+    [sex_] => 0
+    [birth_date_] => 26.12.1982
+    [city_phone_number_] => 
+    [cell_phone_number_] => 0503518989
+    [email_] => gorelova@macc.com.ua
+    [district_id_] => 2
+    [region_] => 41
+    [city_] => 1
+    [settlement_] => 
+    [street_] => 
+    [house_] => 
+    [flat_] => 
+    [cumulative_card_num_] => 
+    [dic_know_about_us_id_] => 
+    [dic_know_about_us_other_] => 
+)
+
+

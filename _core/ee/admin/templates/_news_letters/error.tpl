@@ -1,0 +1,1 @@
+<tr bgcolor="#F0F0F0"><td class="error" colspan="2" align="center"><%:error%></td></tr>

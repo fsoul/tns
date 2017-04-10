@@ -1,0 +1,1 @@
+Only default language (<%:default_language%>) is used in this control

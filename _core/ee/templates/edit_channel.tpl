@@ -1,0 +1,1 @@
+<%channel_chooser:news_channel%>

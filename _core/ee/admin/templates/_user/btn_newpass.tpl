@@ -1,0 +1,1 @@
+<input type="submit" value="Change password" name="change_pass" class="button">

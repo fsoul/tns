@@ -1,0 +1,12 @@
+<%row%
+	<title><%:channel_title%></title>
+	<link><%:channel_link%></link>
+	<description><%:channel_description%></description>
+	<language><%:channel_language%></language>
+	<pubDate><%:channel_pubDate%></pubDate>
+	<lastBuildDate><%:channel_lastBuildDate%></lastBuildDate>
+	<docs><%:channel_docs%></docs>
+	<generator><%:channel_generator%></generator>
+	<managingEditor><%:channel_managingEditor%></managingEditor>
+	<webMaster><%:channel_webMaster%></webMaster>
+%row%>

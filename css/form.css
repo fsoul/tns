@@ -1,0 +1,94 @@
+/*
+    Document   : form.css
+    Author     : david.rosser
+    Description:
+        Define global form styles here.
+*/
+
+/* =Global
+-------------------------------------------------------------- */
+
+
+/* =Button
+-------------------------------------------------------------- */
+button.component{
+    color: #ec008c;
+}
+
+
+/* =Label
+-------------------------------------------------------------- */
+label,
+label{
+    cursor: default;
+    font-weight: normal;
+}
+
+/* =Select
+-------------------------------------------------------------- */
+select{
+    -webkit-appearance: none;
+    -moz-appearance: window;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    border: none;
+    background: url(images/selection-list-arrow-spritesheet.jpg) no-repeat top right #F0F0F0;
+    padding: 6px 48px 6px 8px;
+
+}
+
+select:focus{
+    border-color: #EC008C;
+    outline: none;
+}
+select.hide {
+    opacity: 0;
+    -moz-opacity: 0;
+    filter:alpha(opacity=0);
+}
+
+div.selection-list{
+    background: url(images/selection-list-arrow-spritesheet.jpg) no-repeat top right #F0F0F0;
+    border: 1px solid #d5d5d5;
+    display: inline-block;
+    font-size: 13px;
+    position: relative;
+}
+
+div.select-text-container {
+    padding: 6px 0px 6px 8px;
+    position: absolute;
+    top: 0;
+}
+
+/* =Input
+-------------------------------------------------------------- */
+input{
+    /*background: url(images/form-input-background.jpg) repeat-x;*/
+    border: 1px solid #d5d5d5v;
+    padding: 6px 8px;
+}
+
+input[type="submit"]{
+    color: #ec008c;
+}
+
+/* =Textarea
+-------------------------------------------------------------- */
+textarea{
+    background-color: #f9f9f9;
+    border: 1px solid #d5d5d5;
+}
+
+/* =Form Error Messages
+-------------------------------------------------------------- */
+input.error,
+textarea.error,
+select.error{
+    border: 1px solid #ff0000 !important;
+}
+
+label.error{
+    display: none !important;
+}

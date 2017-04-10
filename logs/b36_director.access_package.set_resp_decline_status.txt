@@ -1,0 +1,84 @@
+
+	Date/Time: 2015-06-10 16:16:22
+
+begin b36_director.access_package.set_resp_decline_status(:onl_respondent_id_, :status_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1141
+    [status_] => 1
+)
+
+
+Resource id #140
+
+Array
+(
+    [onl_respondent_id_] => 1141
+    [status_] => 1
+)
+
+
+
+	Date/Time: 2015-06-10 16:35:50
+
+begin b36_director.access_package.set_resp_decline_status(:onl_respondent_id_, :status_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1141
+    [status_] => 1
+)
+
+
+Resource id #140
+
+Array
+(
+    [onl_respondent_id_] => 1141
+    [status_] => 1
+)
+
+
+
+	Date/Time: 2015-06-16 17:07:58
+
+begin b36_director.access_package.set_resp_decline_status(:onl_respondent_id_, :status_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1202
+    [status_] => 1
+)
+
+
+Resource id #140
+
+Array
+(
+    [onl_respondent_id_] => 1202
+    [status_] => 1
+)
+
+
+
+	Date/Time: 2015-09-09 15:48:53
+
+begin b36_director.access_package.set_resp_decline_status(:onl_respondent_id_, :status_); commit; end;
+
+Array
+(
+    [onl_respondent_id_] => 1141
+    [status_] => 1
+)
+
+
+Resource id #143
+
+Array
+(
+    [onl_respondent_id_] => 1141
+    [status_] => 1
+)
+
+

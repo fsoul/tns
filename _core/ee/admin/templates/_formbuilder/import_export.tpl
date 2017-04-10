@@ -1,0 +1,1 @@
+	<a href="javascript:openPopup('<%:modul%>.php?op=xml_import&admin_template=yes',350,230,1);"><img src="<%:EE_HTTP%>img/xml_import.gif" width="24" height="24" alt="<%:FORMBUILDER_IMPORT_FORM%>" title="<%:FORMBUILDER_IMPORT_FORM%>" border="0" style="margin: 5px;"></a>

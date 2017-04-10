@@ -1,0 +1,1 @@
+<div style="height: 88px; width: 389px; overflow: auto; border: 1px solid #BBB; background-color: #FFF;"><%htmlspecialchars_decode:<%gethtmlof:<%:field_name%>%>%></div>

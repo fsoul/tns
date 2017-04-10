@@ -1,0 +1,94 @@
+<!doctype html>
+<html>
+	<body>
+		<script type="text/javascript">
+                        var protocol = "http:";
+                        
+                        if(location.protocol == "https:"){
+                            protocol = location.protocol;
+                        }else{
+                            protocol = "http:";
+                        }
+
+			var host = protocol + "//source.mmi.bemobile.ua";
+			//global
+			window["t_data"];
+			window["t_origin"];
+			window["tns_uid"];
+
+			function createUUID() {
+				var s = [];
+				var hexDigits = "0123456789ABCDEF";
+				for (var i = 0; i < 32; i++) {
+					s[i] = hexDigits.substr(Math.floor(Math.random() * 0x10), 1);
+				}
+				s[12] = "4";
+				s[16] = hexDigits.substr((s[16] & 0x3) | 0x8, 1);
+				return s.join("");
+			};
+
+			function send(value) {
+			   if(window["t_origin"] == "null"){
+			       window["t_origin"] = "*";
+                           }
+			   parent.postMessage(JSON.stringify({id: window["t_data"]["id"], key:window["t_data"]["key"], value: value}), window["t_origin"]);
+			};
+
+			window["idCoreOnReady"] = function(id){
+				localStorage.setItem(window["t_data"]["key"], id);
+				send(id);
+			};
+
+			function sendMessage() {
+				window["t_data"] = JSON.parse(window["t_data"]);
+				console.log(window["t_data"]);
+				if(/:/.test(window["t_data"]["key"])){
+		    		try{
+		    			var split = window["t_data"]["key"].split(":");
+				    	window["tns_uid"] = split[1];
+		    		}catch(er){
+		    			delete window["tns_uid"];
+		    		}
+		    	}
+
+				if(window["tns_uid"]){
+					localStorage.setItem(window["t_data"]["key"], window["tns_uid"]);
+				}
+
+				var value = localStorage.getItem(window["t_data"]["key"]);
+
+				if(window["tns_uid"] && window["tns_uid"] != value){
+					alert("localStorage not set properly");
+				}
+
+				if(window["tns_uid"] || !value){
+					console.log('new UUID');
+					value = createUUID();
+					localStorage.setItem(window["t_data"]["key"], value);
+					send(value);
+				}else{
+					send(value);
+				}
+			};
+
+		    function handleRequest(event){
+		    	window["t_data"] = event["data"];
+		    	window["t_origin"] = event["origin"];
+
+				if (window.postMessage && !window.JSON && window.localStorage){
+					head.js(host + "/json2.min.js", function() {
+						sendMessage();
+					});
+				}else{
+					sendMessage();
+				}
+		    };
+
+		    if(window.addEventListener){
+				window.addEventListener("message", handleRequest, false);
+			} else if (window.attachEvent){
+				window.attachEvent("onmessage", handleRequest);
+			}
+		</script>
+	</body>
+</html>

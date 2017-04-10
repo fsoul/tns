@@ -1,0 +1,1 @@
+<%include_if:edit,,,<%:modul%>/edit_fields_image_<%iif:<%:<%:field_name%>%>,,upload,show%>%>

@@ -1,0 +1,1 @@
+<%row%<a target='_blank' href='<%:EE_HTTP%>?t=<%:id%>&t_view=<%:view_name%>&admin_template=yes'><img alt='<%cons:View page%>' title='[^] <%:name%> page | <%:view_name%> view' src='<%:EE_HTTP%><%iif:<%:icon%>,,img/view.gif,<%:EE_IMG_PATH%><%:icon%>%>' width='16' height='16' border='0' /></a> %row%>

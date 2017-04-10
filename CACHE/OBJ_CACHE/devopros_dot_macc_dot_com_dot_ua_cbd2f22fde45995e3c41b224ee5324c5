@@ -1,0 +1,64 @@
+
+ SELECT 
+        r.id AS 'record_id',
+
+(
+    SELECT object_content.value
+
+      FROM object_content
+
+     WHERE object_content.object_field_id = '71'
+       AND object_content.object_record_id = r.id
+       AND object_content.language IN ('UA')
+
+) AS 'ap_news_date',
+
+(
+    SELECT object_content.value
+
+      FROM object_content
+
+     WHERE object_content.object_field_id = '72'
+       AND object_content.object_record_id = r.id
+       AND object_content.language IN ('UA')
+
+) AS 'ap_news_title',
+
+(
+    SELECT object_content.value
+
+      FROM object_content
+
+     WHERE object_content.object_field_id = '73'
+       AND object_content.object_record_id = r.id
+       AND object_content.language IN ('UA')
+
+) AS 'ap_news_preview',
+
+(
+    SELECT object_content.value
+
+      FROM object_content
+
+     WHERE object_content.object_field_id = '74'
+       AND object_content.object_record_id = r.id
+       AND object_content.language IN ('UA')
+
+) AS 'ap_news_content',
+
+(
+    SELECT object_content.value
+
+      FROM object_content
+
+     WHERE object_content.object_field_id = '75'
+       AND object_content.object_record_id = r.id
+       AND object_content.language IN ('UA')
+
+) AS 'ap_news_img',
+        'UA' AS language
+   FROM
+        object_record r
+
+  WHERE 1=1 AND 
+        r.object_id='13'

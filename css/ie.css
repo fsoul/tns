@@ -1,0 +1,18 @@
+
+#reg_form_checkbox {
+	width: 17px;
+	height: 17px;
+	padding: 0px 4px 4px 0px;
+}
+
+.reg_form_radio {
+	height: 22px;
+	padding: 0 0 0 0;
+}
+
+
+#dhtmltooltip2 {
+	/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+	filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+}
+

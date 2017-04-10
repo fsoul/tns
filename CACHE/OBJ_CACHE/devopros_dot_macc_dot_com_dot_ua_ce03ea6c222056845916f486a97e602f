@@ -1,0 +1,18 @@
+
+ SELECT 
+        r.id AS 'record_id',
+        (SELECT value FROM object_content WHERE object_field_id = '71' AND language='UA' AND object_record_id=r.id) AS 'ap_news_date',
+        (SELECT value FROM object_content WHERE object_field_id = '72' AND language='UA' AND object_record_id=r.id) AS 'UA__ap_news_title',
+        (SELECT value FROM object_content WHERE object_field_id = '72' AND language='EN' AND object_record_id=r.id) AS 'EN__ap_news_title',
+        (SELECT value FROM object_content WHERE object_field_id = '72' AND language='GE' AND object_record_id=r.id) AS 'GE__ap_news_title',
+        (SELECT value FROM object_content WHERE object_field_id = '72' AND language='RU' AND object_record_id=r.id) AS 'RU__ap_news_title',
+        (SELECT value FROM object_content WHERE object_field_id = '73' AND language='UA' AND object_record_id=r.id) AS 'UA__ap_news_preview',
+        (SELECT value FROM object_content WHERE object_field_id = '73' AND language='EN' AND object_record_id=r.id) AS 'EN__ap_news_preview',
+        (SELECT value FROM object_content WHERE object_field_id = '73' AND language='GE' AND object_record_id=r.id) AS 'GE__ap_news_preview',
+        (SELECT value FROM object_content WHERE object_field_id = '73' AND language='RU' AND object_record_id=r.id) AS 'RU__ap_news_preview',
+        (SELECT value FROM object_content WHERE object_field_id = '74' AND language='UA' AND object_record_id=r.id) AS 'ap_news_content',
+        (SELECT value FROM object_content WHERE object_field_id = '75' AND language='UA' AND object_record_id=r.id) AS 'ap_news_img',
+        'UA' AS language
+   FROM
+        object_record r
+   WHERE r.object_id='13'

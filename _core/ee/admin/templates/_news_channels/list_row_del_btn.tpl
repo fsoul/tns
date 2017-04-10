@@ -1,0 +1,1 @@
+	<%iif:<%check_if_in_mapping:channel,<%:id%>%>,1,<img src="<%:EE_HTTP%>img/delBt_gray.gif" width="16" height="16" alt="Used in news mapping" title = "Used in news mapping" border="0">,<a href="#" onclick="del('<%:id%>'\,'<%trim::name%>'\,'')"><img src="<%:EE_HTTP%>img/delBt.gif" width="16" height="16" alt="<%cons:GRID_DEL%>" title = "<%cons:GRID_DEL%>" border="0"></a>%>	
