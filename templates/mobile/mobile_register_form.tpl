@@ -12,12 +12,9 @@
 
 
 
-<!-- registration form
-<form action="/<%iif::language,UA,UA,RU%>/respondent-registered-success.html" method="post" name="registration" class="registration-form" id="mob_reg">
-<form action="/action.php?action=fb_form_submit&page_url=/UA/respondent-registered-success.html" method="post" name="registration" class="registration-form" id="mob_reg">
-<form action="/action.php?action=fb_form_submit" method="post" name="registration" class="registration-form" id="mob_reg">
--->
-<form action="/<%iif::language,UA,UA,RU%>/respondent-registered-success.html" method="post" name="registration" class="registration-form" id="mob_reg">
+
+<%include:page_error%>
+<form action="" method="post" name="registration" class="registration-form" id="mob_reg">
     <input type="hidden" name="tns_id" id="tns_id" value="">
     <%setValueOf:respondent_id_,0%>
     <!-- main content page (name and last name) -->
@@ -46,7 +43,7 @@
         <div class="int_b_content">
 
             <div class="page-caption floor-block-caption"><%iif::language,UA,Вкажіть стать,Укажите пол%></div>
-
+            <input type="hidden" name="sex_" value="1">
             <div class="mens-floor">
                 <img src="/css/images/man.png" class="img-man click-next-window" alt="Чоловік">
                 <div class="borfer-floor"></div>
@@ -194,7 +191,7 @@
                    title="Введiть номер телефону з кодом (10 цифр) без нецифрових символів (дужок, крапок, тире, пробілів)." >
         </div>
 
-        <div class="page-caption number-description"><%iif::language,UA,Номер у форматі,Номер в формате%> (067) 525-8236</div>
+        <div class="page-caption number-description"><%iif::language,UA,Номер у форматі,Номер в формате%> 0675258236</div>
 
         <div class="massage-error page-caption"><%iif::language,UA,* Перевірте вказані дані,* Проверьте указанные данные%></div>
 
@@ -278,7 +275,7 @@
 
         <div class="massage-error page-caption"><%iif::language,UA,* Перевірте вказані дані,* Проверьте указанные данные%></div>
 
-        <a class="button button-click click-next-window subm" ><%iif::language,UA,Вітаємо!,Поздравляем!%></a>
+        <a class="step7 button button-click click-next-window subm" ><%iif::language,UA,Вітаємо!,Поздравляем!%></a>
 
     </div><!-- END main content page (confirmation)-->
 

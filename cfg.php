@@ -81,15 +81,15 @@ if ($_SERVER['REMOTE_ADDR']=='89.252.56.204')
 }
 
 //echo '<!--'.$_SERVER['REMOTE_ADDR'].'-->';
-if (	$_SERVER['REMOTE_ADDR']=='82.144.201.69'
+if (($_SERVER['REMOTE_ADDR']=='82.144.201.69'
 	||
 	$_SERVER['REMOTE_ADDR']=='89.252.33.50'
 	||
-	$_SERVER['REMOTE_ADDR']=='89.252.56.204'
-	||
+	$_SERVER['REMOTE_ADDR']=='89.252.56.204')
+	&&
 	array_key_exists('debug', $_GET) &&
 	$_GET['debug']==1
 )	
-	define("DEBUG_MODE", 0);
+	define("DEBUG_MODE", 1);
 else
 	define("DEBUG_MODE", 0);

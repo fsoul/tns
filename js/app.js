@@ -101,11 +101,15 @@ $(document).ready(function(){
         $('.lang-drop').toggle(500);
     });
 
+    $('.img-woman').click(function () {
+       $('input[name="sex_"').val(0);
+    });
+
     $('.step5').click(function(e){
         var $email = $('input[name="email_"]');
         var $phone = $('input[name="cell_phone_number_"]');
         var isValidEmail = validateEmail($email.val());
-        var isValidPhone = $phone.val().length === 14;
+        var isValidPhone = $phone.val().length === 10;
         console.log('valPhone--> '+isValidPhone);
 
         if(!isValidEmail){
@@ -168,13 +172,55 @@ $(document).ready(function(){
 
     });
 
-    $('#phone_number').mask("(000) 000-0000");
+    $('#selector_street').change(function(){
+        console.log($(this).prop('selectedIndex'));
+    });
+
+    $('.step7').click(function(e) {
+        var $code = $('input[name="respondent_fields_captcha_code"]');
+        var sel_str = $('#selector_street').prop('selectedIndex');
+        var chek = $('#checkboxConfirm').prop("checked");
+
+        $.ajax({
+            type: "GET",
+            url: "http://devopros.macc.com.ua/action.php?action=ajax_check_captcha",
+            data: "code=" + $code.val()
+        }).done(function (response) {
+            res = JSON.parse(response);
+            console.log('json: ' + res.code);
+            console.log('json: ' + res.captcha);
+            if(!res.captcha){
+                $code.addClass('error-input');
+                e.preventDefault();
+                e.stopPropagation();
+            }else if(sel_str == 0){
+                console.log('err select');
+            }else if(!chek){
+                console.log('err chek');
+            } else{
+                $('#mob_reg').submit();
+            }
+        });
+
+    });
+
+    $('#phone_number').mask("0000000000", {
+        onKeyPress: function(cep, event, currentField, options){
+            console.log('An key was pressed!:', cep, ' event: ', event,
+                'currentField: ', currentField, ' options: ', options);
+            console.log(currentField[0].value[0]);
+            if(currentField[0].value[0] != 0 ) {
+                console.log('not null');
+            }
+        },
+        onComplete: function(cep) {
+            console.log('CEP Completed!:' + cep);
+        },
+    });
+    if($('#tns_id').val() == '') $('#tns_id').val(window["IDCore"].getId());
 });
 
 function validateEmail(email) {
     var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
     return re.test(email);
-}
-function addErrorToEmailField($el) {
-    $el.css('placeholder')
 }

@@ -232,10 +232,16 @@ switch ($action) {
 //***********************************************************************************
 //		Проверка капчи формы с помощью ajax
 //***********************************************************************************
-	$_POST["recaptcha_response_field"] = $_GET["response"];
-	$_POST["recaptcha_challenge_field"] = $_GET["challenge"];
-	echo check_re_captcha();
-	exit;
+//	$_POST["recaptcha_response_field"] = $_GET["response"];
+//	$_POST["recaptcha_challenge_field"] = $_GET["challenge"];
+
+    $code = $_GET['code'];
+    $img = new AccessPanel_Securimage();
+    $captcha = $img->check($code);
+
+    echo json_encode(array('code'=>$code, 'captcha' => $captcha));
+
+    exit;
 	
 	break;
 //***********************************************************************************

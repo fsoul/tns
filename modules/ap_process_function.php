@@ -562,11 +562,16 @@ function ap_process_password_form($location){
 function ap_check_captcha($captcha_name='captcha_code', $error)
 {
 	$captcha = ap_captcha_init();
+	$result = $captcha->check($_POST[$captcha_name]);
 
-	if ($captcha->check($_POST[$captcha_name]) == false)
+	if (!$result)
 	{
 		$error[$captcha_name] = cons('Captcha is incorrect');
-	}
+
+	} else {
+	   vdump('Correctly checked!');
+	   vdump('error: ' . $error);
+    }
 
 	return $error;
 }
@@ -690,7 +695,7 @@ function ap_check_respondent_fields()
 	{
 		$error['birth_date_'] = cons('Date is incorrect');
 	}
-
+vdump($error);
 	return $error;
 }
 
@@ -746,7 +751,7 @@ function check_webmoney_purse_number($purse)
 }
 
 function ap_process_registration_form(){
-	if (count($_POST)){
+    if (count($_POST)){
 		global $error;
 
 		$error = ap_check_respondent_fields();
@@ -886,11 +891,16 @@ function ap_process_registration_form(){
 
 			$error['page_error'] = page_cms('page_error').'<br/>'.$error['page_error'];
 			$error['page_error_flag'] = 1;
+            vdump("See errors");
+			vdump($error);
+
 		}else {
 			header('Location: '.get_href('respondent-registered-success'));
 			exit;
 		}
-	}
+	}elseif($_POST['ajax']){
+        echo json_encode(array('a'=> '1'));
+    }
 }
 
 
