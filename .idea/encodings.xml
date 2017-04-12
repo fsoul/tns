@@ -4,8 +4,13 @@
     <file url="file://$PROJECT_DIR$/_core/ee/js/popup.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/js/app.js" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/js/lang.js" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/lang/lang_ru.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/lang/lang_ua.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/modules/ap_process_function.php" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/templates/mobile/ap_respondent_register_form.tpl" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/templates/mobile/mobile_register_form.tpl" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/templates/mobile_register_form.tpl" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/templates/page_error.tpl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/templates/page_error_div.tpl" charset="UTF-8" />
   </component>
 </project>

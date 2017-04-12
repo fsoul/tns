@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa4838c7-1025-42bf-8727-cb19972ebd71" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/action.php" afterPath="$PROJECT_DIR$/action.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cfg.php" afterPath="$PROJECT_DIR$/cfg.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app.js" afterPath="$PROJECT_DIR$/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lang/lang_ru.php" afterPath="$PROJECT_DIR$/lang/lang_ru.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lang/lang_ua.php" afterPath="$PROJECT_DIR$/lang/lang_ua.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/ap_process_function.php" afterPath="$PROJECT_DIR$/modules/ap_process_function.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/mobile/mobile_register_form.tpl" afterPath="$PROJECT_DIR$/templates/mobile/mobile_register_form.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/page_error_div.tpl" afterPath="$PROJECT_DIR$/templates/page_error_div.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/page_error.tpl" afterPath="$PROJECT_DIR$/templates/page_error.tpl" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,295 +24,58 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ap_process_function.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ap_process_function.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/ap_process_function.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="875" column="21" lean-forward="true" selection-start-line="875" selection-start-column="21" selection-end-line="875" selection-end-column="21" />
+            <state relative-caret-position="360">
+              <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lang.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/lang.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ap_template_function.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/ap_template_function.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
               <folding>
-                <element signature="n#ap_process_points_convertion_form#0;n#!!top" expanded="false" />
-                <element signature="e#373#491#0#PHP" expanded="false" />
-                <element signature="e#598#781#0#PHP" expanded="false" />
-                <element signature="e#678#781#0#PHP" expanded="false" />
-                <element signature="e#784#7033#0#PHP" expanded="false" />
-                <element signature="e#885#6548#0#PHP" expanded="false" />
-                <element signature="e#1037#1264#0#PHP" expanded="false" />
-                <element signature="e#1267#1398#0#PHP" expanded="false" />
-                <element signature="e#1401#1605#0#PHP" expanded="false" />
-                <element signature="e#1608#1809#0#PHP" expanded="false" />
-                <element signature="e#1812#2041#0#PHP" expanded="false" />
-                <element signature="e#2044#6548#0#PHP" expanded="false" />
-                <element signature="e#2395#2652#0#PHP" expanded="false" />
-                <element signature="e#2844#3000#0#PHP" expanded="false" />
-                <element signature="e#2894#2995#0#PHP" expanded="false" />
-                <element signature="e#3005#3326#0#PHP" expanded="false" />
-                <element signature="e#3177#3321#0#PHP" expanded="false" />
-                <element signature="e#3331#3790#0#PHP" expanded="false" />
-                <element signature="e#3795#6544#0#PHP" expanded="false" />
-                <element signature="e#3908#4440#0#PHP" expanded="false" />
-                <element signature="e#4030#4341#0#PHP" expanded="false" />
-                <element signature="e#4446#4662#0#PHP" expanded="false" />
-                <element signature="e#4671#6544#0#PHP" expanded="false" />
-                <element signature="e#4714#6539#0#PHP" expanded="false" />
-                <element signature="e#4937#6539#0#PHP" expanded="false" />
-                <element signature="e#4977#5099#0#PHP" expanded="false" />
-                <element signature="e#5181#5850#0#PHP" expanded="false" />
-                <element signature="e#5888#6101#0#PHP" expanded="false" />
-                <element signature="e#5959#6093#0#PHP" expanded="false" />
-                <element signature="e#6115#6282#0#PHP" expanded="false" />
-                <element signature="e#6376#6388#0#PHP" expanded="false" />
-                <element signature="e#6553#6897#0#PHP" expanded="false" />
-                <element signature="e#6668#6897#0#PHP" expanded="false" />
-                <element signature="e#6677#6817#0#PHP" expanded="false" />
-                <element signature="e#6775#6817#0#PHP" expanded="false" />
-                <element signature="e#6902#7033#0#PHP" expanded="false" />
-                <element signature="e#6910#7030#0#PHP" expanded="false" />
-                <element signature="e#6938#7026#0#PHP" expanded="false" />
-                <element signature="n#uri_separator#0;n#!!top" expanded="false" />
-                <element signature="n#get_reffer_link#0;n#!!top" expanded="false" />
-                <element signature="e#7438#8098#0#PHP" expanded="false" />
-                <element signature="e#7936#8094#0#PHP" expanded="false" />
-                <element signature="e#8102#8331#0#PHP" expanded="false" />
-                <element signature="e#8249#8331#0#PHP" expanded="false" />
-                <element signature="e#8948#9110#0#PHP" expanded="false" />
-                <element signature="e#9119#9147#0#PHP" expanded="false" />
-                <element signature="e#9154#9283#0#PHP" expanded="false" />
-                <element signature="e#9288#9310#0#PHP" expanded="false" />
-                <element signature="n#ap_process_login_form#0;n#!!top" expanded="false" />
-                <element signature="e#9380#10879#0#PHP" expanded="false" />
-                <element signature="e#9404#10876#0#PHP" expanded="false" />
-                <element signature="e#9436#10590#0#PHP" expanded="false" />
-                <element signature="e#9546#10578#0#PHP" expanded="false" />
-                <element signature="e#9687#10423#0#PHP" expanded="false" />
-                <element signature="e#9796#10194#0#PHP" expanded="false" />
-                <element signature="e#9840#10076#0#PHP" expanded="false" />
-                <element signature="e#9864#10033#0#PHP" expanded="false" />
-                <element signature="e#9988#10033#0#PHP" expanded="false" />
-                <element signature="e#10091#10194#0#PHP" expanded="false" />
-                <element signature="e#10251#10423#0#PHP" expanded="false" />
-                <element signature="e#10434#10578#0#PHP" expanded="false" />
-                <element signature="e#10595#10872#0#PHP" expanded="false" />
-                <element signature="e#10778#10839#0#PHP" expanded="false" />
-                <element signature="e#10884#11174#0#PHP" expanded="false" />
-                <element signature="e#11335#11441#0#PHP" expanded="false" />
-                <element signature="e#11961#12030#0#PHP" expanded="false" />
-                <element signature="e#12039#12118#0#PHP" expanded="false" />
-                <element signature="e#12126#12323#0#PHP" expanded="false" />
-                <element signature="e#12241#12323#0#PHP" expanded="false" />
-                <element signature="n#ap_process_remind_form#0;n#!!top" expanded="false" />
-                <element signature="e#12674#12793#0#PHP" expanded="false" />
-                <element signature="e#12912#13626#0#PHP" expanded="false" />
-                <element signature="e#13065#13196#0#PHP" expanded="false" />
-                <element signature="e#13199#13626#0#PHP" expanded="false" />
-                <element signature="e#13239#13622#0#PHP" expanded="false" />
-                <element signature="e#13380#13533#0#PHP" expanded="false" />
-                <element signature="e#13542#13622#0#PHP" expanded="false" />
-                <element signature="e#13630#14931#0#PHP" expanded="false" />
-                <element signature="e#13656#14057#0#PHP" expanded="false" />
-                <element signature="e#13948#14057#0#PHP" expanded="false" />
-                <element signature="e#14422#14927#0#PHP" expanded="false" />
-                <element signature="e#14436#14850#0#PHP" expanded="false" />
-                <element signature="e#14551#14850#0#PHP" expanded="false" />
-                <element signature="e#14856#14922#0#PHP" expanded="false" />
-                <element signature="e#15723#15950#0#PHP" expanded="false" />
-                <element signature="e#15761#15947#0#PHP" expanded="false" />
-                <element signature="e#16024#16118#0#PHP" expanded="false" />
-                <element signature="e#16121#16215#0#PHP" expanded="false" />
-                <element signature="e#16218#16312#0#PHP" expanded="false" />
-                <element signature="e#16497#16716#0#PHP" expanded="false" />
-                <element signature="e#16720#17111#0#PHP" expanded="false" />
-                <element signature="e#16895#16980#0#PHP" expanded="false" />
-                <element signature="e#17117#17606#0#PHP" expanded="false" />
-                <element signature="e#17258#17396#0#PHP" expanded="false" />
-                <element signature="e#17399#17606#0#PHP" expanded="false" />
-                <element signature="e#17449#17600#0#PHP" expanded="false" />
-                <element signature="e#17876#18037#0#PHP" expanded="false" />
-                <element signature="n#check_phone#0;n#!!top" expanded="false" />
-                <element signature="e#18258#18614#0#PHP" expanded="false" />
-                <element signature="e#18340#18611#0#PHP" expanded="false" />
-                <element signature="e#18511#18611#0#PHP" expanded="false" />
-                <element signature="n#check_webmoney_purse_number#0;n#!!top" expanded="false" />
-                <element signature="e#18773#18990#0#PHP" expanded="false" />
-                <element signature="e#18936#18987#0#PHP" expanded="false" />
-                <element signature="n#ap_process_edit_profile_form#0;n#!!top" expanded="false" />
-                <element signature="e#24713#26656#0#PHP" expanded="false" />
-                <element signature="e#24975#25098#0#PHP" expanded="false" />
-                <element signature="e#25102#26233#0#PHP" expanded="false" />
-                <element signature="e#25132#25217#0#PHP" expanded="false" />
-                <element signature="e#25320#26233#0#PHP" expanded="false" />
-                <element signature="e#25339#26063#0#PHP" expanded="false" />
-                <element signature="e#26070#26229#0#PHP" expanded="false" />
-                <element signature="e#26237#26453#0#PHP" expanded="false" />
-                <element signature="e#26376#26453#0#PHP" expanded="false" />
-                <element signature="e#26458#26656#0#PHP" expanded="false" />
-                <element signature="e#26468#26653#0#PHP" expanded="false" />
-                <element signature="e#26548#26624#0#PHP" expanded="false" />
-                <element signature="e#26659#27059#0#PHP" expanded="false" />
-                <element signature="e#26701#26839#0#PHP" expanded="false" />
-                <element signature="e#27359#27670#0#PHP" expanded="false" />
-                <element signature="e#27529#27670#0#PHP" expanded="false" />
-                <element signature="e#27674#28145#0#PHP" expanded="false" />
-                <element signature="e#27835#27973#0#PHP" expanded="false" />
-                <element signature="e#27976#28145#0#PHP" expanded="false" />
-                <element signature="e#28150#28924#0#PHP" expanded="false" />
-                <element signature="e#28205#28613#0#PHP" expanded="false" />
-                <element signature="e#28472#28613#0#PHP" expanded="false" />
-                <element signature="e#28649#28924#0#PHP" expanded="false" />
-                <element signature="e#28668#28754#0#PHP" expanded="false" />
-                <element signature="e#28761#28920#0#PHP" expanded="false" />
-                <element signature="e#28928#29158#0#PHP" expanded="false" />
-                <element signature="e#29075#29158#0#PHP" expanded="false" />
-                <element signature="n#ap_process_project_complete#0;n#!!top" expanded="false" />
-                <element signature="e#29383#30969#0#PHP" expanded="false" />
-                <element signature="e#29503#30019#0#PHP" expanded="false" />
-                <element signature="e#30621#30882#0#PHP" expanded="false" />
-                <element signature="n#ap_process_project_complete_by_url#0;n#!!top" expanded="false" />
-                <element signature="e#31203#31897#0#PHP" expanded="false" />
-                <element signature="e#31382#31705#0#PHP" expanded="false" />
-                <element signature="e#31411#31478#0#PHP" expanded="false" />
-                <element signature="e#31491#31558#0#PHP" expanded="false" />
-                <element signature="e#31571#31638#0#PHP" expanded="false" />
-                <element signature="e#31651#31695#0#PHP" expanded="false" />
-                <element signature="e#31708#31789#0#PHP" expanded="false" />
-                <element signature="e#31866#31897#0#PHP" expanded="false" />
-                <element signature="n#ap_check_password#0;n#!!top" expanded="false" />
-                <element signature="e#32442#32951#0#PHP" expanded="false" />
-                <element signature="e#32923#32951#0#PHP" expanded="false" />
-                <element signature="n#ap_prefill_plugin_form1#0;n#!!top" expanded="false" />
-                <element signature="e#33082#33380#0#PHP" expanded="false" />
-                <element signature="n#ap_process_plugin_form2#0;n#!!top" expanded="false" />
-                <element signature="e#33746#33884#0#PHP" expanded="false" />
-                <element signature="e#33889#33968#0#PHP" expanded="false" />
-                <element signature="n#ap_process_profile_pool#0;n#!!top" expanded="false" />
-                <element signature="e#34241#34473#0#PHP" expanded="false" />
-                <element signature="e#34374#34473#0#PHP" expanded="false" />
-                <element signature="e#34546#36198#0#PHP" expanded="false" />
-                <element signature="e#34748#35062#0#PHP" expanded="false" />
-                <element signature="e#34944#35062#0#PHP" expanded="false" />
-                <element signature="e#34995#35062#0#PHP" expanded="false" />
-                <element signature="e#35071#35770#0#PHP" expanded="false" />
-                <element signature="e#35101#35628#0#PHP" expanded="false" />
-                <element signature="e#35392#35614#0#PHP" expanded="false" />
-                <element signature="e#35641#35760#0#PHP" expanded="false" />
-                <element signature="e#35779#36029#0#PHP" expanded="false" />
-                <element signature="e#36038#36143#0#PHP" expanded="false" />
-                <element signature="e#36150#36198#0#PHP" expanded="false" />
-                <element signature="e#36208#36341#0#PHP" expanded="false" />
-                <element signature="e#36351#36783#0#PHP" expanded="false" />
-                <element signature="e#36513#36613#0#PHP" expanded="false" />
-                <element signature="e#36614#36783#0#PHP" expanded="false" />
-                <element signature="e#36793#38505#0#PHP" expanded="false" />
-                <element signature="e#36868#37532#0#PHP" expanded="false" />
-                <element signature="e#37091#37352#0#PHP" expanded="false" />
-                <element signature="e#37368#37532#0#PHP" expanded="false" />
-                <element signature="e#37548#38505#0#PHP" expanded="false" />
-                <element signature="e#37577#37862#0#PHP" expanded="false" />
-                <element signature="e#37812#37862#0#PHP" expanded="false" />
-                <element signature="e#38361#38505#0#PHP" expanded="false" />
+                <marker date="1490607682049" expanded="true" signature="14297:14907" ph="SELECT recor... ${create_sql_view_by_name('ap_ratings')}" />
+                <marker date="1490607682049" expanded="true" signature="15257:15784" ph="SELECT recor... ${create_sql_view_by_name('ap_ratings')}" />
+                <marker date="1490607682049" expanded="true" signature="17314:17817" ph="SELECT recor... ${create_sql_view_by_name('ap_investigation')}" />
+                <marker date="1490607682049" expanded="true" signature="18277:18869" ph="SELECT recor... ${create_sql_view_by_name('ap_investigation')}" />
+                <marker date="1490607682049" expanded="true" signature="28914:28927" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ap_respondent_register_form.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/ap_respondent_register_form.tpl">
+      <file leaf-file-name="ap_mob_function.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/ap_mob_function.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="849">
-              <caret line="161" column="0" lean-forward="false" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
+            <state relative-caret-position="144">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ap_mail_function.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/ap_mail_function.php">
+      <file leaf-file-name="securimage_class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_core/ee/modules/securimage_class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1368">
-              <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="24" />
+            <state relative-caret-position="197">
+              <caret line="492" column="57" lean-forward="false" selection-start-line="492" selection-start-column="57" selection-end-line="492" selection-end-column="57" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cfg.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cfg.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="72" column="46" lean-forward="true" selection-start-line="72" selection-start-column="46" selection-end-line="72" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="action.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/action.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="240" column="0" lean-forward="true" selection-start-line="240" selection-start-column="0" selection-end-line="240" selection-end-column="0" />
-              <folding>
-                <element signature="e#376#1332#0#PHP" expanded="false" />
-                <element signature="e#438#1324#0#PHP" expanded="false" />
-                <element signature="e#718#869#0#PHP" expanded="false" />
-                <element signature="e#834#869#0#PHP" expanded="false" />
-                <element signature="e#1034#1324#0#PHP" expanded="false" />
-                <element signature="e#1046#1197#0#PHP" expanded="false" />
-                <element signature="e#1162#1197#0#PHP" expanded="false" />
-                <element signature="e#1335#1479#0#PHP" expanded="false" />
-                <element signature="e#1482#1684#0#PHP" expanded="false" />
-                <element signature="e#1687#2217#0#PHP" expanded="false" />
-                <element signature="e#2219#2458#0#PHP" expanded="false" />
-                <element signature="e#2547#3178#0#PHP" expanded="false" />
-                <element signature="e#2561#2646#0#PHP" expanded="false" />
-                <element signature="e#2850#3024#0#PHP" expanded="false" />
-                <element signature="e#2925#3024#0#PHP" expanded="false" />
-                <element signature="e#3028#3169#0#PHP" expanded="false" />
-                <element signature="e#3180#3412#0#PHP" expanded="false" />
-                <element signature="e#3256#3403#0#PHP" expanded="false" />
-                <element signature="e#3608#3935#0#PHP" expanded="false" />
-                <element signature="e#3722#3880#0#PHP" expanded="false" />
-                <element signature="e#3938#4024#0#PHP" expanded="false" />
-                <element signature="e#4035#4339#0#PHP" expanded="false" />
-                <element signature="e#4533#4680#0#PHP" expanded="false" />
-                <element signature="e#4865#4900#0#PHP" expanded="false" />
-                <element signature="e#4989#5052#0#PHP" expanded="false" />
-                <element signature="e#5055#5122#0#PHP" expanded="false" />
-                <element signature="e#5126#5177#0#PHP" expanded="false" />
-                <element signature="e#5180#5235#0#PHP" expanded="false" />
-                <element signature="e#5238#5297#0#PHP" expanded="false" />
-                <element signature="e#5324#5399#0#PHP" expanded="false" />
-                <element signature="e#5402#5481#0#PHP" expanded="false" />
-                <element signature="e#5509#5572#0#PHP" expanded="false" />
-                <element signature="e#5661#5921#0#PHP" expanded="false" />
-                <element signature="e#6009#6266#0#PHP" expanded="false" />
-                <element signature="e#6354#6617#0#PHP" expanded="false" />
-                <element signature="e#6705#6976#0#PHP" expanded="false" />
-                <element signature="e#7091#7176#0#PHP" expanded="false" />
-                <element signature="e#8265#9218#0#PHP" expanded="false" />
-                <element signature="e#8312#9186#0#PHP" expanded="false" />
-                <element signature="e#8727#9182#0#PHP" expanded="false" />
-                <element signature="e#8786#9182#0#PHP" expanded="false" />
-                <element signature="e#8874#9176#0#PHP" expanded="false" />
-                <element signature="e#8905#9070#0#PHP" expanded="false" />
-                <element signature="e#9033#9070#0#PHP" expanded="false" />
-                <element signature="e#9081#9176#0#PHP" expanded="false" />
-                <element signature="e#9097#9155#0#PHP" expanded="false" />
-                <element signature="e#9221#9411#0#PHP" expanded="false" />
-                <element signature="e#9414#9747#0#PHP" expanded="false" />
-                <element signature="e#9750#9848#0#PHP" expanded="false" />
-                <element signature="e#9853#10130#0#PHP" expanded="false" />
-                <element signature="e#10133#10596#0#PHP" expanded="false" />
-                <element signature="e#10599#11646#0#PHP" expanded="false" />
-                <element signature="e#11121#11628#0#PHP" expanded="false" />
-                <element signature="e#11420#11579#0#PHP" expanded="false" />
-                <element signature="e#11530#11579#0#PHP" expanded="false" />
-                <element signature="e#11586#11628#0#PHP" expanded="false" />
-                <element signature="e#11651#12092#0#PHP" expanded="false" />
-                <element signature="e#11957#12063#0#PHP" expanded="false" />
-                <element signature="e#12108#12278#0#PHP" expanded="false" />
-                <element signature="e#12280#13041#0#PHP" expanded="false" />
-                <element signature="e#13043#13121#0#PHP" expanded="false" />
-                <marker date="1491923041969" expanded="false" signature="8590:8644" ph="SELECT reset... users" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -319,28 +83,8 @@
       <file leaf-file-name="mobile_register_form.tpl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/mobile/mobile_register_form.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="786">
-              <caret line="283" column="35" lean-forward="false" selection-start-line="283" selection-start-column="25" selection-end-line="283" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page_error.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/page_error.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="42" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page_error_div.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/page_error_div.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="336">
+              <caret line="191" column="51" lean-forward="false" selection-start-line="191" selection-start-column="51" selection-end-line="191" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -349,8 +93,28 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="201" column="13" lean-forward="true" selection-start-line="201" selection-start-column="13" selection-end-line="201" selection-end-column="13" />
+            <state relative-caret-position="673">
+              <caret line="160" column="47" lean-forward="false" selection-start-line="160" selection-start-column="47" selection-end-line="160" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="captcha_row.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/captcha_row.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="46" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="captcha.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/captcha.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -367,36 +131,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>parse_error_code</find>
-      <find>parse_error_code('404');</find>
-      <find>alert</find>
-      <find>console.log</find>
-      <find>distr</find>
-      <find>d</find>
-      <find>display_hidden_fields()</find>
-      <find>display_hidden_fields</find>
-      <find>getVa</find>
-      <find>setValueOf</find>
-      <find>show_cap</find>
-      <find>handl</find>
-      <find>fb_form_submit</find>
-      <find>check_template</find>
-      <find>registration_form</find>
-      <find>phone_number</find>
-      <find>show`````</find>
-      <find>err</find>
-      <find>set</find>
-      <find>sex_</find>
-      <find>respondent_fields_captcha_code</find>
-      <find>respondent_regis</find>
-      <find>ap_process_registration_form</find>
       <find>show_ca</find>
-      <find>code</find>
       <find>check</find>
       <find>error</find>
       <find>mail</find>
       <find>email_subject</find>
       <find>mail_respondent</find>
+      <find>onchange</find>
+      <find>display_hidden_fields()</find>
+      <find>SET</find>
+      <find>captcha is</find>
+      <find>is inc</find>
+      <find>display_hidden_fields</find>
+      <find>display_hidden_fields();</find>
+      <find>name=&quot;birth_date_&quot;</find>
+      <find>birth_date_</find>
+      <find>phone</find>
+      <find>pointer</find>
+      <find>check_captch</find>
+      <find>process</find>
+      <find>cell_phone_number</find>
+      <find>Enter e-mail in standart format</find>
+      <find>cons('U</find>
+      <find>user</find>
+      <find>correct_ca</find>
+      <find>process_reg</find>
+      <find>ap_</find>
+      <find>ap_mo</find>
+      <find>code</find>
+      <find>pho</find>
+      <find>mask</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;%iif::language,UA,* Будь ласка, перевірте вказані дані,* Пожалуйста проверьте указанные данные%&gt;</replace>
@@ -416,25 +180,31 @@
         <option value="$PROJECT_DIR$/_core/ee/modules/f_db_url_mapping_function.php" />
         <option value="$PROJECT_DIR$/templates/mobile/ap_mobile_register_form.tpl" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/templates/head.tpl" />
         <option value="$PROJECT_DIR$/templates/mobile/header.tpl" />
         <option value="$PROJECT_DIR$/css/mobile.css" />
-        <option value="$PROJECT_DIR$/templates/mobile/head.tpl" />
         <option value="$PROJECT_DIR$/templates/mobile_register_form.tpl" />
         <option value="$PROJECT_DIR$/css/mob_reg.css" />
         <option value="$PROJECT_DIR$/_core/ee/lib.php" />
-        <option value="$PROJECT_DIR$/templates/mobile/ap_respondent_register_form.tpl" />
         <option value="$PROJECT_DIR$/templates/mobile/error_404.tpl" />
         <option value="$PROJECT_DIR$/js/respondent.js" />
-        <option value="$PROJECT_DIR$/js/captcha.js" />
         <option value="$PROJECT_DIR$/js/lang.js" />
-        <option value="$PROJECT_DIR$/templates/mobile/mobile_register_form.tpl" />
-        <option value="$PROJECT_DIR$/cfg.php" />
         <option value="$PROJECT_DIR$/action.php" />
-        <option value="$PROJECT_DIR$/js/app.js" />
-        <option value="$PROJECT_DIR$/templates/page_error_div.tpl" />
-        <option value="$PROJECT_DIR$/modules/ap_process_function.php" />
         <option value="$PROJECT_DIR$/templates/ap_respondent_register_form.tpl" />
+        <option value="$PROJECT_DIR$/templates/head.tpl" />
+        <option value="$PROJECT_DIR$/templates/page_error.tpl" />
+        <option value="$PROJECT_DIR$/templates/page_error_div.tpl" />
+        <option value="$PROJECT_DIR$/cfg.php" />
+        <option value="$PROJECT_DIR$/modules/ap_mob_reg.php" />
+        <option value="$PROJECT_DIR$/templates/mobile/ap_respondent_register_form.tpl" />
+        <option value="$PROJECT_DIR$/templates/mobile/head.tpl" />
+        <option value="$PROJECT_DIR$/lang/lang_ua.php" />
+        <option value="$PROJECT_DIR$/lang/lang_ru.php" />
+        <option value="$PROJECT_DIR$/js/captcha.js" />
+        <option value="$PROJECT_DIR$/_core/ee/modules/securimage_class.php" />
+        <option value="$PROJECT_DIR$/modules/ap_process_function.php" />
+        <option value="$PROJECT_DIR$/modules/ap_mob_function.php" />
+        <option value="$PROJECT_DIR$/templates/mobile/mobile_register_form.tpl" />
+        <option value="$PROJECT_DIR$/js/app.js" />
       </list>
     </option>
   </component>
@@ -466,8 +236,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -536,7 +304,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="lang" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -550,21 +318,19 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_core" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ee" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hello2canada.local" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="ignore_missing_gitignore" value="true" />
   </component>
@@ -650,12 +416,13 @@
       <workItem from="1491290076899" duration="2309000" />
       <workItem from="1491376534446" duration="16000" />
       <workItem from="1491827234267" duration="11228000" />
-      <workItem from="1491898829869" duration="25606000" />
+      <workItem from="1491898829869" duration="25767000" />
+      <workItem from="1491981955313" duration="21502000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118876000" />
+    <option name="totallyTimeSpent" value="140539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1985" y="24" width="1615" height="1026" extended-state="6" />
@@ -669,7 +436,7 @@
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912722" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2495356" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912722" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -692,83 +459,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_core/ee/modules/err_page_function.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1907">
-          <caret line="190" column="9" lean-forward="false" selection-start-line="190" selection-start-column="9" selection-end-line="190" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/mobile/error_404.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/mobile/ap_respondent_register_form.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/error_404.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ap_respondent_register_form.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1458">
-          <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/ap_respondent_fields_.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/mobile/head.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4734">
-          <caret line="263" column="45" lean-forward="false" selection-start-line="263" selection-start-column="45" selection-end-line="263" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/mobile/header.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="46" column="22" lean-forward="false" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/password_fields.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_core/ee/modules/_base_function.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="521" column="9" lean-forward="false" selection-start-line="521" selection-start-column="9" selection-end-line="521" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_core/ee/modules/template_function.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="223" column="28" lean-forward="false" selection-start-line="223" selection-start-column="28" selection-end-line="223" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/mysql.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
@@ -863,19 +553,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/mobile/ap_respondent_fields.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lang.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -897,9 +578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
-          <folding>
-            <marker date="1490607573343" expanded="true" signature="160:282" ph="SELECT v.cap... ${create_sql_view_by_name('captcha')}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -931,20 +609,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/head.tpl">
+    <entry file="file://$PROJECT_DIR$/templates/ap_registration_form_js.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="282" column="33" lean-forward="false" selection-start-line="282" selection-start-column="10" selection-end-line="282" selection-end-column="33" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/ap_ajax_selectors.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_core/ee/modules/admin_function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="406" column="9" lean-forward="false" selection-start-line="406" selection-start-column="9" selection-end-line="406" selection-end-column="9" />
           <folding>
-            <marker date="1490698647313" expanded="true" signature="1564:1633" ph="..." />
-            <marker date="1490698647313" expanded="true" signature="9067:9082" ph="..." />
-            <marker date="1490698647313" expanded="true" signature="9294:9336" ph="..." />
-            <marker date="1490698647313" expanded="true" signature="9366:9383" ph="..." />
+            <marker date="1490607573975" expanded="true" signature="6919:6965" ph="select id,na... users" />
+            <marker date="1490607573975" expanded="true" signature="7263:7303" ph="select name,... users" />
+            <marker date="1490607573975" expanded="true" signature="8556:8569" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/ap_registration_form_js.tpl">
+    <entry file="file://$PROJECT_DIR$/templates/internal.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/captcha_img.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ap_mail_function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/ap_respondent_register_form.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="132" column="48" lean-forward="true" selection-start-line="132" selection-start-column="48" selection-end-line="132" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/ap_respondent_fields_.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -968,26 +690,99 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/head.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="77" lean-forward="true" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="77" />
+          <folding>
+            <marker date="1491988495098" expanded="true" signature="1564:1633" ph="..." />
+            <marker date="1491988495098" expanded="true" signature="9067:9082" ph="..." />
+            <marker date="1491988495098" expanded="true" signature="9294:9336" ph="..." />
+            <marker date="1491988495098" expanded="true" signature="9366:9383" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/respondent.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="52" column="80" lean-forward="true" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="80" />
+        <state relative-caret-position="450">
+          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AccessPanel/DBHttpRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <marker date="1490607534392" expanded="true" signature="14093:14157" ph="..." />
+            <marker date="1490607534392" expanded="true" signature="14158:14197" ph="..." />
+            <marker date="1490607534392" expanded="true" signature="14163:14197" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/ap_respondent_fields.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3042">
-          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        <state relative-caret-position="308">
+          <caret line="90" column="65" lean-forward="true" selection-start-line="90" selection-start-column="6" selection-end-line="90" selection-end-column="65" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/ap_ajax_selectors.tpl">
+    <entry file="file://$PROJECT_DIR$/AccessPanel/Respondent.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+        <state relative-caret-position="325">
+          <caret line="584" column="44" lean-forward="true" selection-start-line="584" selection-start-column="44" selection-end-line="584" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/page_error.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/page_error_div.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="94" column="26" lean-forward="false" selection-start-line="94" selection-start-column="26" selection-end-line="94" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/mobile/ap_respondent_register_form.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/mobile/head.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="77" lean-forward="false" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lang/lang_ru.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="35" column="59" lean-forward="false" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
           <folding />
         </state>
       </provider>
@@ -995,27 +790,7 @@
     <entry file="file://$PROJECT_DIR$/modules/ap_init_function.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_core/ee/modules/admin_function.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="406" column="9" lean-forward="false" selection-start-line="406" selection-start-column="9" selection-end-line="406" selection-end-column="9" />
-          <folding>
-            <marker date="1490607573975" expanded="true" signature="6919:6965" ph="select id,na... users" />
-            <marker date="1490607573975" expanded="true" signature="7263:7303" ph="select name,... users" />
-            <marker date="1490607573975" expanded="true" signature="8556:8569" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/internal.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -1023,47 +798,23 @@
     <entry file="file://$PROJECT_DIR$/AccessPanel/Securimage.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/captcha_row.tpl">
+    <entry file="file://$PROJECT_DIR$/lang/lang_ua.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="46" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/captcha_img.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/captcha.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="32" column="6" lean-forward="true" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cfg.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="72" column="46" lean-forward="true" selection-start-line="72" selection-start-column="46" selection-end-line="72" selection-end-column="46" />
+        <state relative-caret-position="120">
+          <caret line="157" column="3" lean-forward="true" selection-start-line="157" selection-start-column="3" selection-end-line="157" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/action.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="240" column="0" lean-forward="true" selection-start-line="240" selection-start-column="0" selection-end-line="240" selection-end-column="0" />
+        <state relative-caret-position="471">
+          <caret line="259" column="12" lean-forward="false" selection-start-line="259" selection-start-column="12" selection-end-line="259" selection-end-column="12" />
           <folding>
             <element signature="e#376#1332#0#PHP" expanded="false" />
             <element signature="e#438#1324#0#PHP" expanded="false" />
@@ -1131,247 +882,99 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/captcha_row.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="46" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/captcha.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lang.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_core/ee/modules/securimage_class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="462" column="29" lean-forward="false" selection-start-line="462" selection-start-column="24" selection-end-line="462" selection-end-column="29" />
+        <state relative-caret-position="197">
+          <caret line="492" column="57" lean-forward="false" selection-start-line="492" selection-start-column="57" selection-end-line="492" selection-end-column="57" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="201" column="13" lean-forward="true" selection-start-line="201" selection-start-column="13" selection-end-line="201" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/page_error.tpl">
+    <entry file="file://$PROJECT_DIR$/js/1jquery.maskedinput.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" column="42" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="42" />
+          <caret line="6" column="227" lean-forward="false" selection-start-line="6" selection-start-column="227" selection-end-line="6" selection-end-column="227" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/page_error_div.tpl">
+    <entry file="file://$PROJECT_DIR$/js/jquery.mask.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/ap_respondent_register_form.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="849">
-          <caret line="161" column="0" lean-forward="false" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/ap_mail_function.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1368">
-          <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="24" />
-          <folding />
+        <state relative-caret-position="-8002">
+          <caret line="53" column="33" lean-forward="false" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="33" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/mobile/mobile_register_form.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="786">
-          <caret line="283" column="35" lean-forward="false" selection-start-line="283" selection-start-column="25" selection-end-line="283" selection-end-column="35" />
+        <state relative-caret-position="336">
+          <caret line="191" column="51" lean-forward="false" selection-start-line="191" selection-start-column="51" selection-end-line="191" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/ap_process_function.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="875" column="21" lean-forward="true" selection-start-line="875" selection-start-column="21" selection-end-line="875" selection-end-column="21" />
+        <state relative-caret-position="360">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ap_template_function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
           <folding>
-            <element signature="n#ap_process_points_convertion_form#0;n#!!top" expanded="false" />
-            <element signature="e#373#491#0#PHP" expanded="false" />
-            <element signature="e#598#781#0#PHP" expanded="false" />
-            <element signature="e#678#781#0#PHP" expanded="false" />
-            <element signature="e#784#7033#0#PHP" expanded="false" />
-            <element signature="e#885#6548#0#PHP" expanded="false" />
-            <element signature="e#1037#1264#0#PHP" expanded="false" />
-            <element signature="e#1267#1398#0#PHP" expanded="false" />
-            <element signature="e#1401#1605#0#PHP" expanded="false" />
-            <element signature="e#1608#1809#0#PHP" expanded="false" />
-            <element signature="e#1812#2041#0#PHP" expanded="false" />
-            <element signature="e#2044#6548#0#PHP" expanded="false" />
-            <element signature="e#2395#2652#0#PHP" expanded="false" />
-            <element signature="e#2844#3000#0#PHP" expanded="false" />
-            <element signature="e#2894#2995#0#PHP" expanded="false" />
-            <element signature="e#3005#3326#0#PHP" expanded="false" />
-            <element signature="e#3177#3321#0#PHP" expanded="false" />
-            <element signature="e#3331#3790#0#PHP" expanded="false" />
-            <element signature="e#3795#6544#0#PHP" expanded="false" />
-            <element signature="e#3908#4440#0#PHP" expanded="false" />
-            <element signature="e#4030#4341#0#PHP" expanded="false" />
-            <element signature="e#4446#4662#0#PHP" expanded="false" />
-            <element signature="e#4671#6544#0#PHP" expanded="false" />
-            <element signature="e#4714#6539#0#PHP" expanded="false" />
-            <element signature="e#4937#6539#0#PHP" expanded="false" />
-            <element signature="e#4977#5099#0#PHP" expanded="false" />
-            <element signature="e#5181#5850#0#PHP" expanded="false" />
-            <element signature="e#5888#6101#0#PHP" expanded="false" />
-            <element signature="e#5959#6093#0#PHP" expanded="false" />
-            <element signature="e#6115#6282#0#PHP" expanded="false" />
-            <element signature="e#6376#6388#0#PHP" expanded="false" />
-            <element signature="e#6553#6897#0#PHP" expanded="false" />
-            <element signature="e#6668#6897#0#PHP" expanded="false" />
-            <element signature="e#6677#6817#0#PHP" expanded="false" />
-            <element signature="e#6775#6817#0#PHP" expanded="false" />
-            <element signature="e#6902#7033#0#PHP" expanded="false" />
-            <element signature="e#6910#7030#0#PHP" expanded="false" />
-            <element signature="e#6938#7026#0#PHP" expanded="false" />
-            <element signature="n#uri_separator#0;n#!!top" expanded="false" />
-            <element signature="n#get_reffer_link#0;n#!!top" expanded="false" />
-            <element signature="e#7438#8098#0#PHP" expanded="false" />
-            <element signature="e#7936#8094#0#PHP" expanded="false" />
-            <element signature="e#8102#8331#0#PHP" expanded="false" />
-            <element signature="e#8249#8331#0#PHP" expanded="false" />
-            <element signature="e#8948#9110#0#PHP" expanded="false" />
-            <element signature="e#9119#9147#0#PHP" expanded="false" />
-            <element signature="e#9154#9283#0#PHP" expanded="false" />
-            <element signature="e#9288#9310#0#PHP" expanded="false" />
-            <element signature="n#ap_process_login_form#0;n#!!top" expanded="false" />
-            <element signature="e#9380#10879#0#PHP" expanded="false" />
-            <element signature="e#9404#10876#0#PHP" expanded="false" />
-            <element signature="e#9436#10590#0#PHP" expanded="false" />
-            <element signature="e#9546#10578#0#PHP" expanded="false" />
-            <element signature="e#9687#10423#0#PHP" expanded="false" />
-            <element signature="e#9796#10194#0#PHP" expanded="false" />
-            <element signature="e#9840#10076#0#PHP" expanded="false" />
-            <element signature="e#9864#10033#0#PHP" expanded="false" />
-            <element signature="e#9988#10033#0#PHP" expanded="false" />
-            <element signature="e#10091#10194#0#PHP" expanded="false" />
-            <element signature="e#10251#10423#0#PHP" expanded="false" />
-            <element signature="e#10434#10578#0#PHP" expanded="false" />
-            <element signature="e#10595#10872#0#PHP" expanded="false" />
-            <element signature="e#10778#10839#0#PHP" expanded="false" />
-            <element signature="e#10884#11174#0#PHP" expanded="false" />
-            <element signature="e#11335#11441#0#PHP" expanded="false" />
-            <element signature="e#11961#12030#0#PHP" expanded="false" />
-            <element signature="e#12039#12118#0#PHP" expanded="false" />
-            <element signature="e#12126#12323#0#PHP" expanded="false" />
-            <element signature="e#12241#12323#0#PHP" expanded="false" />
-            <element signature="n#ap_process_remind_form#0;n#!!top" expanded="false" />
-            <element signature="e#12674#12793#0#PHP" expanded="false" />
-            <element signature="e#12912#13626#0#PHP" expanded="false" />
-            <element signature="e#13065#13196#0#PHP" expanded="false" />
-            <element signature="e#13199#13626#0#PHP" expanded="false" />
-            <element signature="e#13239#13622#0#PHP" expanded="false" />
-            <element signature="e#13380#13533#0#PHP" expanded="false" />
-            <element signature="e#13542#13622#0#PHP" expanded="false" />
-            <element signature="e#13630#14931#0#PHP" expanded="false" />
-            <element signature="e#13656#14057#0#PHP" expanded="false" />
-            <element signature="e#13948#14057#0#PHP" expanded="false" />
-            <element signature="e#14422#14927#0#PHP" expanded="false" />
-            <element signature="e#14436#14850#0#PHP" expanded="false" />
-            <element signature="e#14551#14850#0#PHP" expanded="false" />
-            <element signature="e#14856#14922#0#PHP" expanded="false" />
-            <element signature="e#15723#15950#0#PHP" expanded="false" />
-            <element signature="e#15761#15947#0#PHP" expanded="false" />
-            <element signature="e#16024#16118#0#PHP" expanded="false" />
-            <element signature="e#16121#16215#0#PHP" expanded="false" />
-            <element signature="e#16218#16312#0#PHP" expanded="false" />
-            <element signature="e#16497#16716#0#PHP" expanded="false" />
-            <element signature="e#16720#17111#0#PHP" expanded="false" />
-            <element signature="e#16895#16980#0#PHP" expanded="false" />
-            <element signature="e#17117#17606#0#PHP" expanded="false" />
-            <element signature="e#17258#17396#0#PHP" expanded="false" />
-            <element signature="e#17399#17606#0#PHP" expanded="false" />
-            <element signature="e#17449#17600#0#PHP" expanded="false" />
-            <element signature="e#17876#18037#0#PHP" expanded="false" />
-            <element signature="n#check_phone#0;n#!!top" expanded="false" />
-            <element signature="e#18258#18614#0#PHP" expanded="false" />
-            <element signature="e#18340#18611#0#PHP" expanded="false" />
-            <element signature="e#18511#18611#0#PHP" expanded="false" />
-            <element signature="n#check_webmoney_purse_number#0;n#!!top" expanded="false" />
-            <element signature="e#18773#18990#0#PHP" expanded="false" />
-            <element signature="e#18936#18987#0#PHP" expanded="false" />
-            <element signature="n#ap_process_edit_profile_form#0;n#!!top" expanded="false" />
-            <element signature="e#24713#26656#0#PHP" expanded="false" />
-            <element signature="e#24975#25098#0#PHP" expanded="false" />
-            <element signature="e#25102#26233#0#PHP" expanded="false" />
-            <element signature="e#25132#25217#0#PHP" expanded="false" />
-            <element signature="e#25320#26233#0#PHP" expanded="false" />
-            <element signature="e#25339#26063#0#PHP" expanded="false" />
-            <element signature="e#26070#26229#0#PHP" expanded="false" />
-            <element signature="e#26237#26453#0#PHP" expanded="false" />
-            <element signature="e#26376#26453#0#PHP" expanded="false" />
-            <element signature="e#26458#26656#0#PHP" expanded="false" />
-            <element signature="e#26468#26653#0#PHP" expanded="false" />
-            <element signature="e#26548#26624#0#PHP" expanded="false" />
-            <element signature="e#26659#27059#0#PHP" expanded="false" />
-            <element signature="e#26701#26839#0#PHP" expanded="false" />
-            <element signature="e#27359#27670#0#PHP" expanded="false" />
-            <element signature="e#27529#27670#0#PHP" expanded="false" />
-            <element signature="e#27674#28145#0#PHP" expanded="false" />
-            <element signature="e#27835#27973#0#PHP" expanded="false" />
-            <element signature="e#27976#28145#0#PHP" expanded="false" />
-            <element signature="e#28150#28924#0#PHP" expanded="false" />
-            <element signature="e#28205#28613#0#PHP" expanded="false" />
-            <element signature="e#28472#28613#0#PHP" expanded="false" />
-            <element signature="e#28649#28924#0#PHP" expanded="false" />
-            <element signature="e#28668#28754#0#PHP" expanded="false" />
-            <element signature="e#28761#28920#0#PHP" expanded="false" />
-            <element signature="e#28928#29158#0#PHP" expanded="false" />
-            <element signature="e#29075#29158#0#PHP" expanded="false" />
-            <element signature="n#ap_process_project_complete#0;n#!!top" expanded="false" />
-            <element signature="e#29383#30969#0#PHP" expanded="false" />
-            <element signature="e#29503#30019#0#PHP" expanded="false" />
-            <element signature="e#30621#30882#0#PHP" expanded="false" />
-            <element signature="n#ap_process_project_complete_by_url#0;n#!!top" expanded="false" />
-            <element signature="e#31203#31897#0#PHP" expanded="false" />
-            <element signature="e#31382#31705#0#PHP" expanded="false" />
-            <element signature="e#31411#31478#0#PHP" expanded="false" />
-            <element signature="e#31491#31558#0#PHP" expanded="false" />
-            <element signature="e#31571#31638#0#PHP" expanded="false" />
-            <element signature="e#31651#31695#0#PHP" expanded="false" />
-            <element signature="e#31708#31789#0#PHP" expanded="false" />
-            <element signature="e#31866#31897#0#PHP" expanded="false" />
-            <element signature="n#ap_check_password#0;n#!!top" expanded="false" />
-            <element signature="e#32442#32951#0#PHP" expanded="false" />
-            <element signature="e#32923#32951#0#PHP" expanded="false" />
-            <element signature="n#ap_prefill_plugin_form1#0;n#!!top" expanded="false" />
-            <element signature="e#33082#33380#0#PHP" expanded="false" />
-            <element signature="n#ap_process_plugin_form2#0;n#!!top" expanded="false" />
-            <element signature="e#33746#33884#0#PHP" expanded="false" />
-            <element signature="e#33889#33968#0#PHP" expanded="false" />
-            <element signature="n#ap_process_profile_pool#0;n#!!top" expanded="false" />
-            <element signature="e#34241#34473#0#PHP" expanded="false" />
-            <element signature="e#34374#34473#0#PHP" expanded="false" />
-            <element signature="e#34546#36198#0#PHP" expanded="false" />
-            <element signature="e#34748#35062#0#PHP" expanded="false" />
-            <element signature="e#34944#35062#0#PHP" expanded="false" />
-            <element signature="e#34995#35062#0#PHP" expanded="false" />
-            <element signature="e#35071#35770#0#PHP" expanded="false" />
-            <element signature="e#35101#35628#0#PHP" expanded="false" />
-            <element signature="e#35392#35614#0#PHP" expanded="false" />
-            <element signature="e#35641#35760#0#PHP" expanded="false" />
-            <element signature="e#35779#36029#0#PHP" expanded="false" />
-            <element signature="e#36038#36143#0#PHP" expanded="false" />
-            <element signature="e#36150#36198#0#PHP" expanded="false" />
-            <element signature="e#36208#36341#0#PHP" expanded="false" />
-            <element signature="e#36351#36783#0#PHP" expanded="false" />
-            <element signature="e#36513#36613#0#PHP" expanded="false" />
-            <element signature="e#36614#36783#0#PHP" expanded="false" />
-            <element signature="e#36793#38505#0#PHP" expanded="false" />
-            <element signature="e#36868#37532#0#PHP" expanded="false" />
-            <element signature="e#37091#37352#0#PHP" expanded="false" />
-            <element signature="e#37368#37532#0#PHP" expanded="false" />
-            <element signature="e#37548#38505#0#PHP" expanded="false" />
-            <element signature="e#37577#37862#0#PHP" expanded="false" />
-            <element signature="e#37812#37862#0#PHP" expanded="false" />
-            <element signature="e#38361#38505#0#PHP" expanded="false" />
+            <marker date="1490607682049" expanded="true" signature="14297:14907" ph="SELECT recor... ${create_sql_view_by_name('ap_ratings')}" />
+            <marker date="1490607682049" expanded="true" signature="15257:15784" ph="SELECT recor... ${create_sql_view_by_name('ap_ratings')}" />
+            <marker date="1490607682049" expanded="true" signature="17314:17817" ph="SELECT recor... ${create_sql_view_by_name('ap_investigation')}" />
+            <marker date="1490607682049" expanded="true" signature="18277:18869" ph="SELECT recor... ${create_sql_view_by_name('ap_investigation')}" />
+            <marker date="1490607682049" expanded="true" signature="28914:28927" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="673">
+          <caret line="160" column="47" lean-forward="false" selection-start-line="160" selection-start-column="47" selection-end-line="160" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ap_mob_function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>

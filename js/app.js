@@ -102,7 +102,7 @@ $(document).ready(function(){
     });
 
     $('.img-woman').click(function () {
-       $('input[name="sex_"').val(0);
+       $('input[name="sex_"]').val(0);
     });
 
     $('.step5').click(function(e){
@@ -110,26 +110,22 @@ $(document).ready(function(){
         var $phone = $('input[name="cell_phone_number_"]');
         var isValidEmail = validateEmail($email.val());
         var isValidPhone = $phone.val().length === 10;
-        console.log('valPhone--> '+isValidPhone);
 
         if(!isValidEmail){
             $email.addClass('error-input');
+            e.preventDefault();
+            e.stopPropagation();
         }else{
             $email.removeClass('error-input');
         }
         if(!isValidPhone){
             $phone.addClass('error-input');
+            e.preventDefault();
+            e.stopPropagation();
         }else{
             $phone.removeClass('error-input');
         }
 
-        if(isValidEmail && isValidPhone)
-        {
-            return visibleNextWindow;
-        }else{
-            e.preventDefault();
-            e.stopPropagation();
-        }
     });
 
     $('.step6').click(function(e){
@@ -137,46 +133,42 @@ $(document).ready(function(){
         var $passConfirm = $('input[name="password_confirm"]');
         var lang = ($('.lang-item').text()).trim();
         var msg;
-        console.log(lang);
 
-        if($pass.val() == $passConfirm.val() && $pass.val().length >= 6 ){
-            return visibleNextWindow;
-        }else{
-            if(!($pass.val().length >= 6 ))
-            {
-               if(lang == 'UA'){
-                    msg = '* Мінімальний пароль 6 символів';
-               }else {
-                   msg = '* Минимальный пароль 6 символов';
-               }
-               $('.massage-error').text(msg).css('visibility', 'visible');
-                console.log('little pass');
+        $('.massage-error').css('visibility', 'hidden');
 
+        if(!($pass.val().length >= 6 ))
+        {
+            if(lang == 'UA'){
+                msg = '* Мінімальний пароль 6 символів';
+            }else {
+               msg = '* Минимальный пароль 6 символов';
             }
-
-            if(!($pass.val() == $passConfirm.val())){
-                if(lang == 'UA'){
-                    msg = '* Паролі не збігаються';
-                }else {
-                    msg = '* Пароли не совпадают';
-                }
-                $('.massage-error').text(msg).css('visibility', 'visible');
-                console.log('not equal');
-            }
-
+            $('.massage-error').text(msg).css('visibility', 'visible');
+            $pass.addClass('error-input');
+            //console.log('little pass');
             e.preventDefault();
             e.stopPropagation();
         }
 
-
-
-    });
-
-    $('#selector_street').change(function(){
-        console.log($(this).prop('selectedIndex'));
+        if(!($pass.val() == $passConfirm.val())){
+            if(lang == 'UA'){
+                msg = '* Паролі не збігаються';
+            }else {
+                msg = '* Пароли не совпадают';
+            }
+            $('.massage-error').text(msg).css('visibility', 'visible');
+            $pass.addClass('error-input');
+            $passConfirm.addClass('error-input');
+            //console.log('not equal');
+            e.preventDefault();
+            e.stopPropagation();
+        }
     });
 
     $('.step7').click(function(e) {
+
+        e.preventDefault();
+        e.stopPropagation();
         var $code = $('input[name="respondent_fields_captcha_code"]');
         var sel_str = $('#selector_street').prop('selectedIndex');
         var chek = $('#checkboxConfirm').prop("checked");
@@ -187,37 +179,47 @@ $(document).ready(function(){
             data: "code=" + $code.val()
         }).done(function (response) {
             res = JSON.parse(response);
-            console.log('json: ' + res.code);
-            console.log('json: ' + res.captcha);
-            if(!res.captcha){
+            //console.log('json: ' + res.code);
+            //console.log('json: ' + res.captcha);
+            if(sel_str == 0){
+                //console.log('err select');
+                $('#selector_street').addClass('error-input');
+            }else if(!res.captcha){
                 $code.addClass('error-input');
-                e.preventDefault();
-                e.stopPropagation();
-            }else if(sel_str == 0){
-                console.log('err select');
+                $('#cap_redraw').trigger('click');
             }else if(!chek){
-                console.log('err chek');
+                $('.label-input-hidden').addClass('error-input');
+                //console.log('err chek');
             } else{
+                if($('#tns_id').val() == '') $('#tns_id').val(window["IDCore"].getId());
                 $('#mob_reg').submit();
             }
         });
 
     });
 
-    $('#phone_number').mask("0000000000", {
-        onKeyPress: function(cep, event, currentField, options){
-            console.log('An key was pressed!:', cep, ' event: ', event,
-                'currentField: ', currentField, ' options: ', options);
-            console.log(currentField[0].value[0]);
-            if(currentField[0].value[0] != 0 ) {
-                console.log('not null');
+    $('.inputTxt, .checkboxConfirm').on('change keypress', function () {
+        $(this).removeClass('error-input');
+        $('.label-input-hidden').removeClass('error-input');
+        $('.massage-error').css('visibility', 'hidden');
+    });
+
+    $('#phone_number').mask("zo00000000", {
+        translation: {
+            'z': {
+                pattern: /0/,
+                fallback: '0'
+            },
+            'o': {
+                pattern: /5|6|7|9/
             }
         },
-        onComplete: function(cep) {
-            console.log('CEP Completed!:' + cep);
-        },
+        clearIfNotMatch: true
     });
-    if($('#tns_id').val() == '') $('#tns_id').val(window["IDCore"].getId());
+    
+    $('.click-next-window').click(function () {
+        $('#page_error').hide();
+    });
 });
 
 function validateEmail(email) {

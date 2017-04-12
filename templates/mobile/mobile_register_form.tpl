@@ -16,17 +16,18 @@
 <%include:page_error%>
 <form action="" method="post" name="registration" class="registration-form" id="mob_reg">
     <input type="hidden" name="tns_id" id="tns_id" value="">
+    <input type="hidden" name="is_mobile" value="true">
     <%setValueOf:respondent_id_,0%>
     <!-- main content page (name and last name) -->
     <div class="main-wrap active-main-wrap">
 
         <div class="int_b_content">
-            <input type="text" class="inputTxt" name="last_name_" id="last_name_" value="" placeholder="<%e_cms_cons:Family%>" onkeypress="this.style.background='#fff';display_hidden_fields(this.id)" onchange="">
+            <input type="text" class="inputTxt" name="last_name_" id="last_name_" value="" placeholder="<%e_cms_cons:Family%>">
         </div>
 
 
         <div class="int_b_content">
-            <input type="text" class="inputTxt" name="first_name_" id="first_name_" value="" placeholder="<%e_cms_cons:Name%>" onkeypress="this.style.background='#fff';display_hidden_fields(this.id)" onchange="">
+            <input type="text" class="inputTxt" name="first_name_" id="first_name_" value="" placeholder="<%e_cms_cons:Name%>">
         </div>
 
         <div class="massage-error page-caption"><%iif::language,UA,* Перевірте вказані дані,* Проверьте указанные данные%></div>
@@ -61,7 +62,7 @@
         <div class="int_b_content">
 
             <select class="inputTxt" name="birth_date_d" id="birth_date_d"
-                    onchange="display_hidden_fields();setBirthDate();">
+                    onchange="setBirthDate();">
                 <option value="" selected><%e_cms_cons:Birthday%></option>
                 <%ap_numbers_to_options:1,31,<%:birth_date_d%>%>
             </select>
@@ -72,7 +73,7 @@
         <div class="int_b_content">
 
             <select class="inputTxt" name="birth_date_m" id="birth_date_m"
-                    onchange="display_hidden_fields();setBirthDate();" style="">
+                    onchange="setBirthDate();" style="">
                 <option value="" selected><%iif::language,UA,Місяць народження, Месяц рождения%></option>
                 <%ap_numbers_to_options:1,12,<%:birth_date_m%>,ap_month_name%>
                 <!--<option value="1">Січень</option>
@@ -94,7 +95,7 @@
         <div class="int_b_content">
 
             <select class="inputTxt" name="birth_date_y" id="birth_date_y"
-                    onchange="display_hidden_fields();setBirthDate();">
+                    onchange="setBirthDate();">
                 <option value="" selected><%iif::language,UA,Рік народження,Год рождения%></option>
 
                 <%ap_numbers_to_options:<%tpl_sub:<%date:Y%>,75%>,<%tpl_sub:<%date:Y%>,12%>, <%:birth_date_y%>,,1%>
@@ -107,7 +108,7 @@
         <a class="button button-click click-next-window"><%iif::language,UA,Далі,Далее%></a>
 
     </div><!-- END main content page (birthday)-->
-
+    <input type="hidden" name="birth_date_" id="birth_date_" />
 
 
 
@@ -117,7 +118,7 @@
         <div class="int_b_content">
 
             <select class="inputTxt " name="district_id_" id="selector_district_id"
-                    onchange="display_hidden_fields();getOptions('region', this);"
+                    onchange="getOptions('region', this);"
                     title="<%cms_cons:KYIV_&_SEVASTOPOL%>">
 
                 <option value="" selected><%e_cms_cons:District%></option>
@@ -154,7 +155,7 @@
         <div class="int_b_content">
 
             <select class="inputTxt " name="region_" id="selector_region"
-                    onchange="display_hidden_fields();getOptions('city', this);"
+                    onchange="getOptions('city', this);"
                     title="Скористайтесь пунктом 'Iнший варiант' щоб ввести назву самостiйно">
                 <option value="...">...</option>
             </select>
@@ -163,7 +164,7 @@
 
         <div class="int_b_content">
 
-            <select class="inputTxt " name="city_" id="selector_city" onchange="display_hidden_fields();"
+            <select class="inputTxt " name="city_" id="selector_city" onchange=""
                     title="Скористайтесь пунктом 'Iнший варiант' щоб ввести назву самостiйно">
                 <option value="...">...</option>
             </select>
@@ -227,7 +228,7 @@
         <div class="int_b_content">
 
             <select class="inputTxt" name="know_about_" id="selector_street"
-                    onchange="display_hidden_fields();displayOther(this);"
+                    onchange="displayOther(this);"
                     title="Скористайтесь пунктом 'Iнший варiант' щоб ввести назву самостiйно">
                 <option value="" selected>Звідки Ви про нас дізнались</option>
                 <option value="1">Дізнався в соціальних мережах</option>
@@ -249,7 +250,7 @@
                 <img alt="<%getValueOf:respondent_fields_captcha_code%>" title="" class="captcha_img" id="img_<%iif::captcha_name,,captcha_code,:captcha_name%>" src="<%:EE_HTTP%>action.php?action=show_captcha&rndmz=<%:rndmz_for_captcha%>" />
 
                 <p class="cap_redraw">
-                    <a class="pointer" onclick="imgRefresh('img_<%iif::captcha_name,,captcha_code,:captcha_name%>');"><%cms_cons:Redraw%></a>
+                    <a id="cap_redraw" class="pointer" onclick="imgRefresh('img_<%iif::captcha_name,,captcha_code,:captcha_name%>');"><%cms_cons:Redraw%></a>
                 </p>
             </div>
 
